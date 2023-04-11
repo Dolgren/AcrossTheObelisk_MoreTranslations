@@ -813,10 +813,10 @@ customSuccess=-Contre toute attente, vous avez défié le destin et gagné-
 customTombstone=-R.I.P.-
 
 customSurpriseBox=<size=-.2><color=#3A3A3A>[Début du combat]</color><br></size>Obtenez l'un de ces choix:<br><bl>2</bl><i=fast>, <bl>2</bl><i=powerful>, <bl>2</bl><i=bless>,<br><rd>2</rd><i=slow>, <rd>2</rd><i=vulnerable>, <rd>2</rd><i=mark>
-customSurpriseBoxRare=<size=-.2><color=#3A3A3A>[Début du combat]</color><br></size>Obtenez l'un de ces choix:<br><bl>4</bl><i=fast>, <bl>4</bl><i=powerful>, <bl>4</bl><i=bénédiction>,<br><rd>4</rd><i=slow>, <rd>4</rd><i=vulnerable>, <rd>4</rd><i=mark>
+customSurpriseBoxRare=<size=-.2><color=#3A3A3A>[Début du combat]</color><br></size>Obtenez l'un de ces choix:<br><bl>4</bl><i=fast>, <bl>4</bl><i=powerful>, <bl>4</bl><i=bless>,<br><rd>4</rd><i=slow>, <rd>4</rd><i=vulnerable>, <rd>4</rd><i=mark>
 
 customSurpriseGiftBox=<size=-.2><color=#3A3A3A>[Début du combat]</color><br></size>Tous les héros obtiennent l'un de ces choix:<br><bl>2</bl><i=fast>, <bl>2</bl><i=powerful>, <bl>2</bl><i=bless>,<br><rd>2</rd><i=slow>, <rd>2</rd><i=vulnerable>, <rd>2</rd><i=mark>
-customSurpriseGiftBoxRare=<size=-.2><color=#3A3A3A>[Début du combat]</color><br></size>Tous les héros obtiennent l'un de ces choix:<br><bl>4</bl><i=fast>, <bl>4</bl><i=puissant>, <bl>4</bl><i=bless>,<br><rd>4</rd><i=slow>, <rd>4</rd><i=vulnerable>, <rd>4</rd><i=mark>
+customSurpriseGiftBoxRare=<size=-.2><color=#3A3A3A>[Début du combat]</color><br></size>Tous les héros obtiennent l'un de ces choix:<br><bl>4</bl><i=fast>, <bl>4</bl><i=powerful>, <bl>4</bl><i=bless>,<br><rd>4</rd><i=slow>, <rd>4</rd><i=vulnerable>, <rd>4</rd><i=mark>
 
 customBurningBlood=Transformez<i=bleed>into<i=burn><br>Obtenez <bl>X</bl><i=fury><br><size=-.15><gl>(X équivaut à votre<i=bleed>x0.3)</gl></size>
 customBurningBloodA=Transformez<i=bleed>into<i=burn><br>Accordez <bl>X</bl><i=fury><br><size=-.15><gl>(X équivaut au<i=bleed>x0.5) de la cible</gl></size>
@@ -878,60 +878,60 @@ customVigorousA=<gl>Tous les monstres gagnent:</gl><br>PV max <bl>+45</bl><br>To
 customVigorousB=<gl>Tous les monstres gagnent:</gl><br>PV max <bl>+60</bl><br>Tous les dégâts <bl>+2</bl>
 customVigorousRare=<gl>Tous les monstres gagnent:</gl><br>PV max <bl>+75</bl><br>Tous les dégâts <bl>+2</bl>
 
-customUpwind=<gl>Tous les monstres gagnent:</gl><br>Vitesse <bl>+3</bl><br>Toutes les résistances <bl>+5%</bl><br><gl>-Début du combat-</gl><br>Tous les héros subissent <bl>2</bl><i=ralentissement>
-customUpwindA=<gl>Tous les monstres gagnent:</gl><br>Vitesse <bl>+3</bl><br>Toutes les résistances <bl>+10%</bl><br><gl>-Début du combat-</gl><br>Tous les héros subissent <bl>3</bl><i=ralentissement>
-customUpwindB=<gl>Tous les monstres gagnent:</gl><br>Vitesse <bl>+4</bl><br>Toutes les résistances <bl>+15%</bl><br><gl>-Début du combat-</gl><br>Tous les héros subissent <bl>3</bl><i=ralentissement>
-customUpwindRare=<gl>Tous les monstres gagnent:</gl><br>Vitesse <bl>+5</bl><br>Toutes les résistances <bl>+20%</bl><br><gl>-Début du combat-</gl><br>Tous les héros subissent <bl>4</bl><i=ralentissement>
+customUpwind=<gl>Tous les monstres gagnent:</gl><br>Vitesse <bl>+3</bl><br>Toutes les résistances <bl>+5%</bl><br><gl>-Début du combat-</gl><br>Tous les héros subissent <bl>2</bl><i=slow>
+customUpwindA=<gl>Tous les monstres gagnent:</gl><br>Vitesse <bl>+3</bl><br>Toutes les résistances <bl>+10%</bl><br><gl>-Début du combat-</gl><br>Tous les héros subissent <bl>3</bl><i=slow>
+customUpwindB=<gl>Tous les monstres gagnent:</gl><br>Vitesse <bl>+4</bl><br>Toutes les résistances <bl>+15%</bl><br><gl>-Début du combat-</gl><br>Tous les héros subissent <bl>3</bl><i=slow>
+customUpwindRare=<gl>Tous les monstres gagnent:</gl><br>Vitesse <bl>+5</bl><br>Toutes les résistances <bl>+20%</bl><br><gl>-Début du combat-</gl><br>Tous les héros subissent <bl>4</bl><i=slow>
 
-customSacredGround=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+1</bl><br>Résistance <i=sacré> <bl>+15%</bl><br><gl>-Début du combat-</gl><br>Tous les héros subissent <bl>7</bl><i=sanctification>
-customSacredGroundA=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Résistance <i=sacré> <bl>+20%</bl><br><gl>-Début du combat-</gl><br>Tous les héros subissent <bl>11</bl><i=sanctification>
-customSacredGroundB=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Résistance <i=sacré> <bl>+25%</bl><br><gl>-Début du combat-</gl><br>Tous les héros subissent <bl>15</bl><i=sanctification>
-customSacredGroundRare=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+3</bl><br>Résistance <i=sacré> <bl>+30%</bl><br><gl>-Début du combat-</gl><br>Tous les héros subissent <bl>19</bl><i=sanctification>
+customSacredGround=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+1</bl><br>Résistance <i=holy> <bl>+15%</bl><br><gl>-Début du combat-</gl><br>Tous les héros subissent <bl>7</bl><i=sanctify>
+customSacredGroundA=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Résistance <i=holy> <bl>+20%</bl><br><gl>-Début du combat-</gl><br>Tous les héros subissent <bl>11</bl><i=sanctify>
+customSacredGroundB=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Résistance <i=holy> <bl>+25%</bl><br><gl>-Début du combat-</gl><br>Tous les héros subissent <bl>15</bl><i=sanctify>
+customSacredGroundRare=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+3</bl><br>Résistance <i=holy> <bl>+30%</bl><br><gl>-Début du combat-</gl><br>Tous les héros subissent <bl>19</bl><i=sanctify>
 
-customHypotermia=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+1</bl><br>Résistance <i=froid> <bl>+15%</bl><br><gl>Quand un héros joue une carte,</gl> subit <rd>2</rd><i=gel>
-customHypotermiaA=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Résistance <i=froid> <bl>+20%</bl><br><gl>Quand un héros joue une carte,</gl> subit <rd>3</rd><i=gel>
-customHypotermiaB=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Résistance <i=froid> <bl>+25%</bl><br><gl>Quand un héros joue une carte,</gl> subit <rd>4</rd><i=gel>
-customHypotermiaRare=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+3</bl><br>Résistance <i=froid> <bl>+30%</bl><br><gl>Quand un héros joue une carte,</gl> subit <rd>5</rd><i=gel>
+customHypotermia=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+1</bl><br>Résistance <i=cold> <bl>+15%</bl><br><gl>Quand un héros joue une carte,</gl> subit <rd>2</rd><i=chill>
+customHypotermiaA=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Résistance <i=cold> <bl>+20%</bl><br><gl>Quand un héros joue une carte,</gl> subit <rd>3</rd><i=chill>
+customHypotermiaB=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Résistance <i=cold> <bl>+25%</bl><br><gl>Quand un héros joue une carte,</gl> subit <rd>4</rd><i=chill>
+customHypotermiaRare=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+3</bl><br>Résistance <i=cold> <bl>+30%</bl><br><gl>Quand un héros joue une carte,</gl> subit <rd>5</rd><i=chill>
 
-customBacklash=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Toutes les résistances <bl>+5%</bl><br><gl>When a hero plays a "Spell",</gl> subit <rd>3</rd><i=obscurité> <rd>2</rd><i=folie>
-customBacklashA=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Toutes les résistances <bl>+10%</bl><br><gl>Quand un héros joue un "Sort",</gl> subit <rd>4</rd><i=obscurité> <rd>2</rd><i=folie>
-customBacklashB=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+3</bl><br>Toutes les résistances <bl>+15%</bl><br><gl>Quand un héros joue un "Sort",</gl> subit <rd>4</rd><i=obscurité> <rd>3</rd><i=folie>
-customBacklashRare=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+4</bl><br>Toutes les résistances <bl>+20%</bl><br><gl>Quand un héros joue un "Sort",</gl> subit <rd>5</rd><i=obscurité> <rd>3</rd><i=folie>
+customBacklash=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Toutes les résistances <bl>+5%</bl><br><gl>Quand un héros joue un "Sort",</gl> subit <rd>3</rd><i=dark> <rd>2</rd><i=insane>
+customBacklashA=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Toutes les résistances <bl>+10%</bl><br><gl>Quand un héros joue un "Sort",</gl> subit <rd>4</rd><i=dark> <rd>2</rd><i=insane>
+customBacklashB=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+3</bl><br>Toutes les résistances <bl>+15%</bl><br><gl>Quand un héros joue un "Sort",</gl> subit <rd>4</rd><i=dark> <rd>3</rd><i=insane>
+customBacklashRare=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+4</bl><br>Toutes les résistances <bl>+20%</bl><br><gl>Quand un héros joue un "Sort",</gl> subit <rd>5</rd><i=dark> <rd>3</rd><i=insane>
 
-customSubZero=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Immunité au <i=gel><i=ralentissement><br><gl>-Tous les deux tours-</gl><br>Ajouter <crd=freezecorruption,1> à tous les monstres.
-customSubZeroA=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Immunité au <i=gel><i=ralentissement><br><gl>-Tous les deux tours-</gl><br>Ajouter <crd=freezecorruption,1> à tous les monstres.
-customSubZeroB=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+3</bl><br>Immunité au <i=gel><i=ralentissement><br><gl>-Tous les deux tours-</gl><br>Ajouter <crd=freezecorruption,1> à tous les monstres.
-customSubZeroRare=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+4</bl><br>Immunité au <i=gel><i=ralentissement><br><gl>-Tous les deux tours-</gl><br>Ajouter <crd=freezecorruption,1> à tous les monstres.
+customSubZero=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Immunité au <i=chill><i=slow><br><gl>-Tous les deux tours-</gl><br>Ajouter <crd=freezecorruption,1> à tous les monstres.
+customSubZeroA=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Immunité au <i=chill><i=slow><br><gl>-Tous les deux tours-</gl><br>Ajouter <crd=freezecorruption,1> à tous les monstres.
+customSubZeroB=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+3</bl><br>Immunité au <i=chill><i=slow><br><gl>-Tous les deux tours-</gl><br>Ajouter <crd=freezecorruption,1> à tous les monstres.
+customSubZeroRare=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+4</bl><br>Immunité au <i=chill><i=slow><br><gl>-Tous les deux tours-</gl><br>Ajouter <crd=freezecorruption,1> à tous les monstres.
 
-customRevenge=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Immunité à <i=saignement><br><gl>Quand un héros joue une "Attaque",</gl> tous les monstres gagnent <bl>3</bl><i=fureur>
-customRevengeA=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Immunité à <i=saignement><br><gl>Quand un héros joue une "Attaque",</gl> tous les monstres gagnent <bl>4</bl><i=fureur>
-customRevengeB=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+3</bl><br>Immunité à <i=saignement><br><gl>Quand un héros joue une "Attaque",</gl> tous les monstres gagnent <bl>5</bl><i=fureur>
-customRevengeRare=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+4</bl><br>Immunité à <i=saignement><br><gl>Quand un héros joue une "Attaque",</gl> tous les monstres gagnent <bl>6</bl><i=fureur>
+customRevenge=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Immunité à <i=bleed><br><gl>Quand un héros joue une "Attaque",</gl> tous les monstres gagnent <bl>3</bl><i=fury>
+customRevengeA=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Immunité à <i=bleed><br><gl>Quand un héros joue une "Attaque",</gl> tous les monstres gagnent <bl>4</bl><i=fury>
+customRevengeB=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+3</bl><br>Immunité à <i=bleed><br><gl>Quand un héros joue une "Attaque",</gl> tous les monstres gagnent <bl>5</bl><i=fury>
+customRevengeRare=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+4</bl><br>Immunité à <i=bleed><br><gl>Quand un héros joue une "Attaque",</gl> tous les monstres gagnent <bl>6</bl><i=fury>
 
-customBurningWeapons=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+1</bl><br>Résistance au <i=fire> <bl>+15%</bl><br><gl>Quand un monstre inflige des dégâts,</gl> il applique <rd>1</rd><i=brûlure>
-customBurningWeaponsA=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Résistance au <i=fire> <bl>+20%</bl><br><gl>Quand un monstre inflige des dégâts,</gl> il applique <rd>2</rd><i=brûlure>
-customBurningWeaponsB=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Résistance au <i=fire> <bl>+25%</bl><br><gl>Quand un monstre inflige des dégâts,</gl> il applique <rd>3</rd><i=brûlure>
-customBurningWeaponsRare=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+3</bl><br>Résistance au <i=fire> <bl>+30%</bl><br><gl>Quand un monstre inflige des dégâts,</gl> il applique <rd>4</rd><i=brûlure>
+customBurningWeapons=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+1</bl><br>Résistance au <i=fire> <bl>+15%</bl><br><gl>Quand un monstre inflige des dégâts,</gl> il applique <rd>1</rd><i=burn>
+customBurningWeaponsA=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Résistance au <i=fire> <bl>+20%</bl><br><gl>Quand un monstre inflige des dégâts,</gl> il applique <rd>2</rd><i=burn>
+customBurningWeaponsB=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Résistance au <i=fire> <bl>+25%</bl><br><gl>Quand un monstre inflige des dégâts,</gl> il applique <rd>3</rd><i=burn>
+customBurningWeaponsRare=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+3</bl><br>Résistance au <i=fire> <bl>+30%</bl><br><gl>Quand un monstre inflige des dégâts,</gl> il applique <rd>4</rd><i=burn>
 
-customPutrefaction=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Immunité à <i=Obscurité><i=décomposition><br><gl>Quand un monstre inflige des dégâts,</gl> il applique <rd>2</rd><i=Obscurité><rd>1</rd><i=décomposition>
-customPutrefactionA=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Immunité à <i=Obscurité><i=décomposition><br><gl>Quand un monstre inflige des dégâts,</gl> il applique <rd>3</rd><i=Obscurité><rd>1</rd><i=décomposition>
-customPutrefactionB=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+3</bl><br>Immunité à <i=Obscurité><i=décomposition><br><gl>Quand un monstre inflige des dégâts,</gl> il applique <rd>3</rd><i=Obscurité><rd>2</rd><i=décomposition>
-customPutrefactionRare=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+4</bl><br>Immunité à <i=Obscurité><i=décomposition><br><gl>Quand un monstre inflige des dégâts,</gl> il applique <rd>4</rd><i=Obscurité><rd>2</rd><i=décomposition>
+customPutrefaction=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Immunité à <i=dark><i=decay><br><gl>Quand un monstre inflige des dégâts,</gl> il applique <rd>2</rd><i=dark><rd>1</rd><i=decay>
+customPutrefactionA=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Immunité à <i=dark><i=decay><br><gl>Quand un monstre inflige des dégâts,</gl> il applique <rd>3</rd><i=dark><rd>1</rd><i=decay>
+customPutrefactionB=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+3</bl><br>Immunité à <i=dark><i=decay><br><gl>Quand un monstre inflige des dégâts,</gl> il applique <rd>3</rd><i=dark><rd>2</rd><i=decay>
+customPutrefactionRare=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+4</bl><br>Immunité à <i=dark><i=decay><br><gl>Quand un monstre inflige des dégâts,</gl> il applique <rd>4</rd><i=dark><rd>2</rd><i=decay>
 
-customHexproof=<gl>Tous les monstres gagnent:</gl><br>PV max <bl>+15</bl><br>Tous les dégâts <bl>+2</bl><br><gl>-Chaque tour-</gl><br>Gagnent <bl>5</bl><i=protection>
-customHexproofA=<gl>Tous les monstres gagnent:</gl><br>PV max <bl>+20</bl><br>Tous les dégâts <bl>+2</bl><br><gl>-Chaque tour-</gl><br>Gagnent <bl>6</bl><i=protection>
-customHexproofB=<gl>Tous les monstres gagnent:</gl><br>PV max <bl>+25</bl><br>Tous les dégâts <bl>+3</bl><br><gl>-Chaque tour-</gl><br>Gagnent <bl>7</bl><i=protection>
-customHexproofRare=<gl>Tous les monstres gagnent:</gl><br>PV max <bl>+30</bl><br>Tous les dégâts <bl>+4</bl><br><gl>-Chaque tour-</gl><br>Gagnent <bl>8</bl><i=protection>
+customHexproof=<gl>Tous les monstres gagnent:</gl><br>PV max <bl>+15</bl><br>Tous les dégâts <bl>+2</bl><br><gl>-Chaque tour-</gl><br>Gagnent <bl>5</bl><i=buffer>
+customHexproofA=<gl>Tous les monstres gagnent:</gl><br>PV max <bl>+20</bl><br>Tous les dégâts <bl>+2</bl><br><gl>-Chaque tour-</gl><br>Gagnent <bl>6</bl><i=buffer>
+customHexproofB=<gl>Tous les monstres gagnent:</gl><br>PV max <bl>+25</bl><br>Tous les dégâts <bl>+3</bl><br><gl>-Chaque tour-</gl><br>Gagnent <bl>7</bl><i=buffer>
+customHexproofRare=<gl>Tous les monstres gagnent:</gl><br>PV max <bl>+30</bl><br>Tous les dégâts <bl>+4</bl><br><gl>-Chaque tour-</gl><br>Gagnent <bl>8</bl><i=buffer>
 
-customHeavyWeaponry=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+3</bl><br>Immunité à <i=vulnérable><br><gl>Quand un monstre inflige des dégâts,</gl>  il applique <rd>1</rd><i=vulnérable><rd>1</rd><i=lenteur>
-customHeavyWeaponryA=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+4</bl><br>Immunité à <i=vulnérable><br><gl>Quand un monstre inflige des dégâts,</gl>  il applique <rd>2</rd><i=vulnérable><rd>1</rd><i=lenteur>
-customHeavyWeaponryB=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+4</bl><br>Immunité à <i=vulnérable><br><gl>Quand un monstre inflige des dégâts,</gl>  il applique <rd>2</rd><i=vulnérable><rd>2</rd><i=lenteur>
-customHeavyWeaponryRare=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+5</bl><br>Immunité à <i=vulnérable><br><gl>Quand un monstre inflige des dégâts,</gl>  il applique <rd>2</rd><i=vulnérable><rd>2</rd><i=lenteur>
+customHeavyWeaponry=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+3</bl><br>Immunité à <i=vulnerable><br><gl>Quand un monstre inflige des dégâts,</gl>  il applique <rd>1</rd><i=vulnerable><rd>1</rd><i=slow>
+customHeavyWeaponryA=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+4</bl><br>Immunité à <i=vulnerable><br><gl>Quand un monstre inflige des dégâts,</gl>  il applique <rd>2</rd><i=vulnerable><rd>1</rd><i=slow>
+customHeavyWeaponryB=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+4</bl><br>Immunité à <i=vulnerable><br><gl>Quand un monstre inflige des dégâts,</gl>  il applique <rd>2</rd><i=vulnerable><rd>2</rd><i=slow>
+customHeavyWeaponryRare=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+5</bl><br>Immunité à <i=vulnerable><br><gl>Quand un monstre inflige des dégâts,</gl>  il applique <rd>2</rd><i=vulnerable><rd>2</rd><i=slow>
 
-customThornProliferation=<gl>Tous les monstres gagnent:</gl><br>PV max <bl>+15</bl><br>Tous les dégâts <bl>+2</bl><br><gl>Quand un héros joue une carte,</gl> un monstre aléatoire gagne <rd>1</rd><i=épines>
-customThornProliferationA=<gl>Tous les monstres gagnent:</gl><br>PV max <bl>+25</bl><br>Tous les dégâts <bl>+2</bl><br><gl>Quand un héros joue une carte,</gl> un monstre aléatoire gagne <rd>2</rd><i=épines>
-customThornProliferationB=<gl>Tous les monstres gagnent:</gl><br>PV max <bl>+35</bl><br>Tous les dégâts <bl>+3</bl><br><gl>Quand un héros joue une carte,</gl> un monstre aléatoire gagne <rd>2</rd><i=épines>
-customThornProliferationRare=<gl>Tous les monstres gagnent:</gl><br>PV max <bl>+45</bl><br>Tous les dégâts <bl>+4</bl><br><gl>Quand un héros joue une carte,</gl> un monstre aléatoire gagne <rd>3</rd><i=épines>
+customThornProliferation=<gl>Tous les monstres gagnent:</gl><br>PV max <bl>+15</bl><br>Tous les dégâts <bl>+2</bl><br><gl>Quand un héros joue une carte,</gl> un monstre aléatoire gagne <rd>1</rd><i=thorns>
+customThornProliferationA=<gl>Tous les monstres gagnent:</gl><br>PV max <bl>+25</bl><br>Tous les dégâts <bl>+2</bl><br><gl>Quand un héros joue une carte,</gl> un monstre aléatoire gagne <rd>2</rd><i=thorns>
+customThornProliferationB=<gl>Tous les monstres gagnent:</gl><br>PV max <bl>+35</bl><br>Tous les dégâts <bl>+3</bl><br><gl>Quand un héros joue une carte,</gl> un monstre aléatoire gagne <rd>2</rd><i=thorns>
+customThornProliferationRare=<gl>Tous les monstres gagnent:</gl><br>PV max <bl>+45</bl><br>Tous les dégâts <bl>+4</bl><br><gl>Quand un héros joue une carte,</gl> un monstre aléatoire gagne <rd>3</rd><i=thorns>
 
 innate=Inné
 vanish=Disparition
