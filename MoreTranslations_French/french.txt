@@ -1105,37 +1105,37 @@ townUpgrade_4_4=<c>Divination avancée</c>  débloquée dans la deuxième ville.
 townUpgrade_4_5=Le coût des <c>divinations</c> est réduit (40% au total).
 townUpgrade_4_6=<c>Divination avancée</c> débloquée dans la ville de départ.
 
-townUpgrade_5_1=Unlock the ability to <c>reroll items</c> in the town armory.
-townUpgrade_5_2=The <c>cost of items</c> in the town armory is reduced (15% total).
-townUpgrade_5_3=Increased the <c>rarity</c> of the items in the town armory.
-townUpgrade_5_4=The <c>cost of rerolling items</c> in the town armory is reduced (50% total).
-townUpgrade_5_5=The <c>cost of items</c> in the town armory is reduced (30% total).
-townUpgrade_5_6=Increased the <c>rarity</c> of the items in the town armory.
+townUpgrade_5_1=Débloquer la capacité de <c>relance des objets</c> dans l'armurerie de la ville.
+townUpgrade_5_2=Le <c>prix des objets</c> dans l'armurerie de la ville est réduit (15% au total).
+townUpgrade_5_3=Augmentation de la <c>rareté</c> des objets dans l'armurerie de la ville.
+townUpgrade_5_4=Le <c>prix pour relancer les objets</c> dans l'armurerie de la ville est réduit (50% au total).
+townUpgrade_5_5=Le <c>prix des objets</c> dans l'armurerie de la ville est réduit (30% au total).
+townUpgrade_5_6=Augmentation de la <c>rareté</c> ans l'armurerie de la ville.
 
-townUpgrade_6_1=<c>Currency retention</c> at the end of a game increased (10% total).
-townUpgrade_6_2=Unlock the <c>pet shop</c> inside the town armory.
-townUpgrade_6_3=<c>Currency retention</c> at the end of a game increased (20% total).
-townUpgrade_6_4=Unlock the <c>caravan node</c> outside the starting town.
-townUpgrade_6_5=<c>Currency retention</c> at the end of a game increased (30% total).
-townUpgrade_6_6=Unlock the ability to <c>sell supplies</c> for gold and shards.
+townUpgrade_6_1=<c>Conservation des devises</c> à la fin d'une partie augmentée (10% au total).
+townUpgrade_6_2=Débloquer la <c>boutique d'animaux</c> dans l'armurerie de la ville.
+townUpgrade_6_3=<c>Conservation des devises</c> à la fin d'une partie augmentée (20% au total).
+townUpgrade_6_4=Débloquer le <c>noeud de caravane</c> à l'extérieur de la ville de départ.
+townUpgrade_6_5=<c>Conservation des devises</c> à la fin d'une partie augmentée (30% au total).
+townUpgrade_6_6=Débloquer la capacité de <c>vendre des fournitures</c> contre de l'or et des éclats.
 
-townRequired=<color=#FFF>[Requires]</color>  {0} more supplies spent.
-townAssignWarning=Do you want to buy this upgrade? <color=#AAAAAA>This action cannot be undone.</color>
-rerollButton=Reroll {0}
-rerollButtonCostSP=Reroll cost is increased in each Act. Items already bought will not be shown.
-rerollButtonCostCoop=Total reroll cost is based on the characters you control and is increased in each Act. Items already bought will not be shown.
-rerollLock=Only one reroll is available, in each town, in Madness base level greater than 3
-rerollWarning=(Only one available)
-helpDeck=Draw Pile
-helpCasted=Cast Cards
-saveLoad=<size=+.2><sprite name=nodeDivination></size> Save/Load Deck
-saveLoadReturn=Back to Forge
-saveLoadDes=You can save your current deck or load previously saved ones.
-save=Save
-inputSaveName=Input the name for this deck
-emptySave=<empty slot>
+townRequired=<color=#FFF>[Nécessite]</color>  {0} fournitures supplémentaires dépensées.
+townAssignWarning=Voulez-vous acheter cette amélioration? <color=#AAAAAA>Cette action ne peut pas être annulée.</color>
+rerollButton=Relancer {0}
+rerollButtonCostSP=Le coût des relances est augmenté à chaque acte. Les objets déjà achetés ne seront pas affichés.
+rerollButtonCostCoop=Le coût total de relance est basé sur les personnages que vous contrôlez et augmente à chaque acte. Les objets déjà achetés ne seront pas affichés.
+rerollLock=Une seule relance est disponible, dans chaque ville, quand le niveau de base de Folie est supérieure à 3.
+rerollWarning=(Une seule disponible)
+helpDeck=Pioche
+helpCasted=Cartes lancées
+saveLoad=<size=+.2><sprite name=nodeDivination></size> Sauvegarde/Chargement de Deck
+saveLoadReturn=Retour à la Forge
+saveLoadDes=Vous pouvez sauvegarder votre deck actuel ou charger ceux sauvegardés précédemment.
+save=Sauvegarder
+inputSaveName=Entrez le nom pour ce deck
+emptySave=<emplacement vide>
 decks=Decks
-cardsNum=({0} cards)
+cardsNum=({0} cartes)
 savedDecks=Saved decks
 savedDeckDeleteConfirm=Do you want to delete this deck?
 craftDeck=Craft Deck
