@@ -15,1049 +15,1048 @@ combat=Combat
 settings=Paramètres
 allCards=Toutes les cartes
 ready=Prêt
-success=Success
-successCritical=Critical success
-fail=Fail
-failCritical=Critical failure
-immune=Immune
-health=Health
-speed=Speed
-energy=Energy
-rarity=Rarity
-cardsTier=Cards Tier
+success=Succès
+successCritical=Succès critique
+fail=Échec
+failCritical=Échec critique
+immune=Immunité
+health=Santé
+speed=Vitesse
+energy=Énergie
+rarity=Rareté
+cardsTier=Niveau des cartes
 maximumAbb=Max.
-sold=Sold
+sold=Vendu
 stats=Stats
-perks=Perks
-skin=Skins
-rank=Rank
-cardback=Card backs
-combatStats=Combat stats
-mainStats=Main stats
-dataPerTurn=<%>/turn
-baseResist=Base resistance
-baseDamage=Base damage
-baseValue=Base value
-baseDT=Base damage taken
-allDamage=All damage
-healDone=Heal done
-healTaken=Heal received
-damageResistance=Damage resistance
-damageResistanceMax=(95 max.)
-damagePercentMin=(-50% min.)
-damageDone=Damage done
-damageTaken=Damage taken
-damageBlocked=Damage blocked
-directDamage=Direct damage
-detailedDamage=Detailed damage
-globalModifiers=Global modifiers
-damage=Damage
-resistance=Resistance
-resistances=Resistances
-resistancesAndBonus=Resistances and bonus
-activeEffects=Active effects
-immunities=Immunities
-chargeBonus=Aura/curse bonuses
-remove=Remove
-corrupt=Corrupt
-skip=Skip
-blocked=Blocked
-evaded=Evaded
-resisted=Resisted
-currentHp=Current HP
+perks=Avantages
+skin=Apparences
+rank=Classement
+cardback=Dos de cartes
+combatStats=Stats de combat
+mainStats=Stats principales
+dataPerTurn=<%>/tour
+baseResist=Résistance de base
+baseDamage=Dommages de base
+baseValue=Valeur de base
+baseDT=Dégâts subis de base
+allDamage=Tous les dégâts
+healDone=Soin prodigué
+healTaken=Soin reçu
+damageResistance=Résistance aux dégâts
+damageResistanceMax=(max. 95)
+damagePercentMin=(min. -50%)
+damageDone=Dégâts infligés
+damageTaken=Dégâts subis
+damageBlocked=Dégâts bloqués
+directDamage=Dégâts directs
+detailedDamage=Dommages détaillés
+globalModifiers=Modificateurs globaux
+damage=Dommages
+resistance=Résistance
+resistances=Résistances
+resistancesAndBonus=Résistances et bonus
+activeEffects=Effets actifs
+immunities=Immunités
+chargeBonus=ABonus d'aura/malédiction
+remove=Supprimer
+corrupt=Corrompre
+skip=Passer
+blocked=Bloqué
+evaded=Évité
+resisted=Résisté
+currentHp=Points de vie actuels
 #########
 ######### CreateTextMenu
 #########
-menuPlay=Play
-menuLoadGame=Load Game
-menuChallenge=Obelisk Challenge
-menuWeekly=Weekly Challenge
-menuMultiplayer=Multiplayer
-menuTome=Tome of Knowledge
-menuStatistics=Statistics
-menuOptions=Settings
-menuQuit=Quit Game
-menuChallenge=Obelisk Challenge
-mainMenu=Main Menu
-inputNameMultiplayer=Please enter your nickname into the text box below to be able to join or create multiplayer games.
-playersReady=Players ready
-waitingForPlayers=Waiting for players
-wantToQuitGame=Do you want to quit the game?
-wantToRemoveSave=Do you want to delete this saved game?
-wantToRemoveSavePermanent=It will be deleted permanently.
-saveAvailable=[Available]
-back=Back
-backMainMenu=<size=+10><< Back</size><br>Main menu
-singleplayer=Singleplayer
-multiplayer=Multiplayer
-weeklySingleplayer=Weekly Singleplayer
-weeklyMultiplayer=Weekly Multiplayer
-obeliskChallenge=Obelisk Challenge
-obeliskChallengeSingleplayer=Obelisk Challenge Singleplayer
-obeliskChallengeMultiplayer=Obelisk Challenge Multiplayer
-weekNumber=Week {0}
-mainMenuSaveSingle=Singleplayer game
-mainMenuSaveMulti=Multiplayer game
-mainMenuCreateNewGame=Create new game
-mainMenuClickUseThis=Click here to use this slot
-mainMenuDelete=Delete
-mainMenuSaveDescription=Choose a save slot for this game (or load a previously saved game).
-mainMenuGameModeChoose=Choose a game mode.
-mainMenuAdventureDescription=<color=#FFD98F>Unveil the history of Senenthia.</color><br><br>Discover new characters, unlock cards and fight evil bosses in this roguelite adventure.
-mainMenuObeliskDescription=<color=#FFD98F>A fully random roguelike adventure.</color><br><br>Every game will be different as you progress through the void while trying to reach the Obelisk.
-mainMenuWeeklyDescription=<color=#FFD98F>Compete against other players.</color><br><br>Each week, a new set of rules and fixed characters awaits. See who can get the top score.
-modeAdventure=Adventure mode
-modeObelisk=Obelisk challenge
-modeWeekly=Weekly challenge
-obeliskNeedCharacter=You need a character with rank 3
-joinMultiplayer=Join a multiplayer game
-abortMultiplayer=One player disconnected. The game will close now. You can create a new game and load from the last save point.
-abortSave=There was an error saving the game. The game will close now to avoid further problems. You can create a new game and load from the last save point.
-enterText=Enter text...
-waitingPlayers=Waiting for players...
-exitRoom=Exit room
-steamInvite=Invite Steam friends
-roomFull=The room is full.
-openSlot=[open slot]
-roomId=Room ID
-master=Master
-slash=Slashing
-piercing=Piercing
-blunt=Blunt
-fire=Fire
-cold=Cold
-lightning=Lightning
-mind=Mind
-holy=Holy
-shadow=Shadow
+menuPlay=Jouer
+menuLoadGame=Charger une partie
+menuChallenge=Défi de l'Obélisque
+menuWeekly=Défi hebdomadaire
+menuMultiplayer=Multijoueur
+menuTome=Tome de la Connaissance
+menuStatistics=Statistiques
+menuOptions=Paramètres
+menuQuit=Quitter le jeu
+menuChallenge=Défi de l'Obélisque
+mainMenu=Menu principal
+inputNameMultiplayer=Veuillez entrer votre pseudonyme dans la zone de texte ci-dessous pour rejoindre ou créer des parties multijoueurs.
+playersReady=Joueurs prêts
+waitingForPlayers=En attente de joueurs
+wantToQuitGame=Voulez-vous quitter le jeu ?
+wantToRemoveSave=Voulez-vous supprimer cette partie sauvegardée ?
+wantToRemoveSavePermanent=Elle sera supprimée de façon permanente.
+saveAvailable=[Disponible]
+back=Retour
+backMainMenu=<size=+10><< Retour</size><br>Menu principal
+singleplayer=Solo
+multiplayer=Multijoueur
+weeklySingleplayer=Défi hebdomadaire en solo
+weeklyMultiplayer=Défi hebdomadaire en multijoueur
+obeliskChallenge=Défi de l'Obélisque
+obeliskChallengeSingleplayer=Défi de l'Obélisque en solo
+obeliskChallengeMultiplayer=Défi de l'Obélisque en multijoueur
+weekNumber=Semaine {0}
+mainMenuSaveSingle=Partie solo
+mainMenuSaveMulti=Partie multijoueur
+mainMenuCreateNewGame=Créer une nouvelle partie
+mainMenuClickUseThis=Cliquez ici pour utiliser cette sauvegarde
+mainMenuDelete=Supprimer
+mainMenuSaveDescription=Choisissez un emplacement de sauvegarde pour cette partie (ou chargez une partie précédemment sauvegardée).
+mainMenuGameModeChoose=Choisissez un mode de jeu.
+mainMenuAdventureDescription=<color=#FFD98F>Découvrez l'histoire de Senenthia.</color><br><br>Découvrez de nouveaux personnages, débloquez des cartes et affrontez de redoutables boss dans cette aventure roguelite.
+mainMenuObeliskDescription=<color=#FFD98F>Une aventure roguelike entièrement aléatoire.</color><br><br>Chaque partie sera différente à mesure que vous progressez dans le vide en tentant d'atteindre l'Obélisque.
+mainMenuWeeklyDescription=<color=#FFD98F>Concurrencez d'autres joueurs.</color><br><br>Chaque semaine, de nouvelles règles et des personnages fixes vous attendent. Voyez qui peut obtenir le meilleur score.
+modeAdventure=Mode Aventure
+modeObelisk=Défi de l'Obélisque
+modeWeekly=Défi hebdomadaire
+obeliskNeedCharacter=Vous avez besoin d'un personnage de rang 3
+joinMultiplayer=Rejoindre une partie multijoueur
+abortMultiplayer=Il y a eu une erreur lors de la sauvegarde de la partie. Le jeu va maintenant se fermer pour éviter d'autres problèmes. Vous pouvez créer une nouvelle partie et charger depuis la dernière sauvegarde.
+enterText=Saisir du texte...
+waitingPlayers=En attente de joueurs...
+exitRoom=Quitter le lobby
+steamInvite=Inviter des amis Steam
+roomFull=le lobby est plein.
+openSlot=[emplacement libre]
+roomId=ID du lobby
+master=Maître
+slash=Tranchant
+piercing=Perforant
+blunt=Contondant
+fire=Feu
+cold=Froid
+lightning=Foudre
+mind=Esprit
+holy=Sacré
+shadow=Ombre
 #########
 ######### CreateTextGameplay
 #########
 index=Index
-loading=Loading
+loading=Chargement
 deck=Deck
-characterMenuCards=<sprite name=cards> Hero Deck
-characterMenuLevel=<sprite name=experience> Level & Traits
-characterMenuItems=<sprite name=block> Equipment
-characterMenuStats=<sprite name=sheet> Character Sheet
-characterMenuPerks=<sprite name=perk> Perks
-characterMenuCombatDraw=<sprite name=cards> Draw Pile
-characterMenuCastedCards=<sprite name=cards> Cast Cards
-characterMenuCombatDiscard=<sprite name=cardsdiscard> Discard Pile
-characterMenuCombatVanish=<sprite name=vanish> Vanished Cards
+characterMenuCards=<sprite name=cards> Deck de héros
+characterMenuLevel=<sprite name=experience> Niveau et traits
+characterMenuItems=<sprite name=block> Équipement
+characterMenuStats=<sprite name=sheet> Feuille de personnage
+characterMenuPerks=<sprite name=perk> Avantages
+characterMenuCombatDraw=<sprite name=cards> Pioche
+characterMenuCastedCards=<sprite name=cards> Cartes lancées
+characterMenuCombatDiscard=<sprite name=cardsdiscard> Défausse
+characterMenuCombatVanish=<sprite name=vanish>  Cartes disparues
 traits=Traits
-activatedTraits=Activated traits
-traitsList=Innate<br>Level 2<br>Level 3<br>Level 4<br>Level 5
-item=Item
-initialCards=Initial cards
-incrementMaxHp=+<N> Max HP
-level=Level
-levelNumber=Level <N>
-warriors=Warriors
+activatedTraits=Traits activés
+traitsList=Innate<br>Niveau 2<br>Niveau 3<br>Niveau 4<br>Niveau 5
+item=Objet
+initialCards=Cartes initiales
+incrementMaxHp=+<N> points de vie max.
+level=Niveau
+levelNumber=Niveau <N>
+warriors=Guerriers
 mages=Mages
-healers=Healers
-scouts=Scouts
-mageknights=Mage Knights
-monsters=Monsters
-warriorCards=Warrior Cards
-mageCards=Mage Cards
-healerCards=Healer Cards
-scoutCards=Scout Cards
-injuries=Injuries
-boons=Boons
-equipment=Equipment
-upgradedCard=Upgraded
-upgradesTo=Upgrades to
-upgradedFrom=Upgraded from
-transmutesTo=Transmutes to
-sourceCard=Source Card
-unlockedCard=Unlocked
-unlockedHero=Unlocked
-unlockedCards=Unlocked Cards
-unlockTable=Unlocked Elements
-glossary=Glossary
-termsGlossary=Terms Glossary
-termsDescription=Summaries and descriptions of the terms used in game, auras, curses and effects.
-gameplayStatistics=Gameplay statistics
-bestScoreTome=Best score:
-lastRuns=Past games
-scoreboards=Scoreboards
-chooseScoreboard=Choose a scoreboard.
-scoresNotFound=Scores not found
-travelPath=Travel path
-path=Path
-cardsUnlockedTome=Cards unlocked:
-adventuresPlayedTome=Adventures played:
-treasuresClaimedTome=Treasures claimed:
-monstersKilledTome=Monsters killed:
-bossesKilledTome=Bosses killed:
-corruptionsCompleted=Corruptions completed:
-adventureCompleted=Adventure completed:
-uniqueBosses=Unique Bosses
-experienceGainedTome=Experience gained:
-equipmentDiscoveredTome=Equipment discovered:
-heroDeaths=Hero deaths:
-totalResources=Total resources:
-gold=Gold
-shards=Shards
-goldGainedTome=Gold gained:
-dustGainedTome=Shards gained:
-cardsCraftedTome=Cards crafted:
-cardsUpgradedTome=Cards upgraded:
-purchasedItemsTome=Purchased items:
-corruptionsCompletedTome=Corruptions completed:
-Melee_Attack=Melee attack
-Ranged_Attack=Ranged attack
-Magic_Attack=Magic attack
-Defense=Defense
-Fire_Spell=Fire spell
-Cold_Spell=Cold spell
-Lightning_Spell=Lightning spell
-Mind_Spell=Mind spell
-Shadow_Spell=Shadow spell
-Holy_Spell=Holy spell
-Curse_Spell=Curse spell
-Healing_Spell=Healing spell
-Book=Book
-Small_Weapon=Small weapon
-Song=Song spell
-Skill=Skill
-Power=Power
-Injury=Injury
-Attack=Attack
-Spell=Spell
-Boon=Boon
-weapon=Weapon
-armour=Armor
-armor=Armor
-jewelry=Jewelry
-accesory=Accessory
-enchantment=Enchantment
-enchantments=Enchantments
-itemActivated=Activated
-itemChargeUsed=Charge used
-itemsDescription=Only one item of the same type is allowed for each hero. Be careful when you are about to equip a new item: the old one will be removed forever.
-cardNotUnlockedPopup=<voffset=-2><size=26><sprite name=lock></size></voffset>Card not unlocked
-minDeckCards=Minimum number of cards in a deck: <color=#FFFFFF><n></color>
-shopDiscount=Discount
-shopIncrease=Increase
-heroCards=<hero> cards
-heroEquipment={0}<br><color=#bbb>Equipment</color>
-heroInjuries=<hero> injuries
-heroInjuriesBoons=<hero> boons and injuries
-heroDrawPile=<hero> draw pile
-heroDiscardPile=<hero> discard pile
-heroCastedCards=<hero> cast cards
-heroVanishedCards=<hero> vanished cards
-town=Town
-townPlace={0} Town
-townIntro=Take your time and manage your decks before the adventure. When you are done, press ready!
-ready=Ready
-charReceive=<char> receives
-charsReceives=<chars> receive
-freeCost=Free
-oldCost=(Old cost: {0})
-reaminingUses=Remaining uses
-noMoreUses=No more uses allowed
-removeCards=Church
-removeCardsButtonDes=Remove cards from your decks
-removeCardsDes=You can remove cards from your deck as long as you fulfill the minimum number of cards requirement.
-upgradeCards=Altar
-upgradeCardsButtonDes=Upgrade your cards and transform them into more powerful versions.
-upgradeCardsDes=Each card has different upgrades that are more powerful than the basic version.<br><br>You can make an offer of shards in order to upgrade a card.<br><br>Also, it's possible to transmute a card between its upgraded versions.<br><br><color=#FFC88F>The higher the rarity of the card, the higher the cost to upgrade it.</color>
-reset=Reset
-upgradedCards=Upgraded
-upgradedCardsDes=Show the upgraded cards. You can upgrade cards on the Altar, too.
-filterCards=Filter
-filterCardsDes=Filter cards based on explicit modifiers.
-affordableCards=Available
-affordableCardsDes=Show only cards that you can craft with your current number of shards.
-craftCards=Magic forge
-craftCardsButtonDes=Craft cards for your decks.
-craftRarityBlocked=This rarity is not allowed here.
-craftMaxCards=Max. number of crafts allowed for this card
-treasureClaimButtonDes=Press here to claim this reward.
-wantToClaimTreasure=Do you want to claim this treasure?
-lastRunsRewards=Last rewards
-lastRunsRewardsDes=Every game will reward your performance with gold and shards.<br><br>You will be able to claim up to three of the last rewards every time you begin a game.
-lastRunsRewardsStack=You can stack up to 3 chests.
-communityRewards=Community rewards
-expiresInHoursMinutes=Expires in {0} hour(s) {1} minute(s)
-expiresInMinutes=Expires in {0} minute(s)
-divinationCards=Zingarian cart
-divinationCardsButtonDes=Pay gold to the beautiful Zingara and get a divination round.
-divinationCardsDes=If you have enough money, the Zingara will grant you a divination card round.<br><br>In a multiplayer game, everyone will benefit from this divination round.<br><br>The higher the cost of a divination round, the higher the chance to obtain better cards.
-divinationT0=Fast Divination
-divinationT1=Basic Divination
-divinationT2=Advanced Divination
-divinationT3=Premium Divination
-divinationT4=Supreme Divination
-divinationRoundJoin={0} just paid for a round of Card Divination. Press the button to join when you're ready.
-divinationRoundExists=There's already a Card Divination round in process.
-divinationRoundLaunch=Loading Card Divination round...
-sell=Sell
-buyItems=Armory
-buyItemsButtonDes=Buy equipment for your heroes.
-deckPile=Deck of cards
-discardPile=Discard pile
-pressWhenReady=Press the button when you are ready.
-cardsNum=Cards: {0}
-youCanDiscardUpTo=You can discard up to: {0} cards
-youCanVanishUpTo=You can vanish up to: {0} cards
-youCanAdd=You can add: 1 card
-youCanAddPlural=You can add: {0} cards
+healers=Soigneurs
+scouts=Eclaireurs
+mageknights=Chevaliers-mages
+monsters=Monstres
+warriorCards=Cartes de guerrier
+mageCards=Cartes de mage
+healerCards=Cartes de soigneur
+scoutCards=Cartes d'éclaireur
+injuries=Blessures
+boons=Bienfaits
+equipment=Équipement
+upgradedCard=Amélioré
+upgradesTo=Améliorations disponibles
+upgradedFrom=Amélioré à partir de
+transmutesTo=Se transforme en
+sourceCard=Carte source
+unlockedCard=Débloquée
+unlockedHero=Débloqué
+unlockedCards=Cartes débloquées
+unlockTable=Éléments débloqués
+glossary=Glossaire
+termsGlossary=Glossaire des termes
+termsDescription=Résumés et descriptions des termes utilisés dans le jeu, les auras, les malédictions et les effets.
+gameplayStatistics=Statistiques de jeu
+bestScoreTome=Meilleur score:
+lastRuns=Parties précédentes
+scoreboards=Tableaux de scores
+chooseScoreboard=Choisissez un tableau de scores.
+scoresNotFound=Scores non trouvés
+travelPath=Chemin de voyage
+path=Chemin
+cardsUnlockedTome=Cartes débloquées:
+adventuresPlayedTome=Aventures jouées:
+treasuresClaimedTome=Trésors obtenus:
+monstersKilledTome=Monstres tués:
+bossesKilledTome=Bosses tués:
+corruptionsCompleted=Corruptions terminées:
+adventureCompleted=Aventure terminée:
+uniqueBosses=Bosses uniques
+experienceGainedTome=Expérience obtenue:
+equipmentDiscoveredTome=Équipement découvert:
+heroDeaths=Morts du héros:
+totalResources=Total des ressources:
+gold=Or
+shards=Eclats
+goldGainedTome=Or obtenu:
+dustGainedTome=Eclats obtenus:
+cardsCraftedTome=Cartes créées:
+cardsUpgradedTome=Cartes améliorées:
+purchasedItemsTome=Objets achetés:
+corruptionsCompletedTome=Corruptions terminées:
+Melee_Attack=Attaque en mêlée
+Ranged_Attack=Attaque à distance
+Magic_Attack=Attaque magique
+Defense=Défense
+Fire_Spell=Sort de feu
+Cold_Spell=Sort de froid
+Lightning_Spell=Sort de foudre
+Mind_Spell=Sort mental
+Shadow_Spell=Sort d'ombre
+Holy_Spell=Sort sacré
+Curse_Spell=Sort de malédiction
+Healing_Spell=Sort de guérison
+Book=Livre
+Small_Weapon=Arme légère
+Song=Sort de chant
+Skill=Compétence
+Power=Pouvoir
+Injury=Blessure
+Attack=Attaque
+Spell=Sort
+Boon=Bienfait
+weapon=Arme
+armour=Armure
+armor=Armure
+jewelry=Bijou
+accesory=Accessoire
+enchantment=Enchantement
+enchantments=Enchantements
+itemActivated=Activé
+itemChargeUsed=Charge utilisée
+itemsDescription=Seul un objet du même type est autorisé pour chaque héros. Faites attention lorsque vous êtes sur le point d'équiper un nouvel objet : l'ancien sera supprimé pour toujours.
+cardNotUnlockedPopup=<voffset=-2><size=26><sprite name=lock></size></voffset>Carte non débloquée
+minDeckCards=Nombre minimum de cartes dans un deck: <color=#FFFFFF><n></color>
+shopDiscount=Remise
+shopIncrease=Augmentation
+heroCards=Cartes de <hero>
+heroEquipment={0}<br><color=#bbb>Équipement</color>
+heroInjuries=Blessures de <hero>
+heroInjuriesBoons=Bienfaits et blessures de <hero>
+heroDrawPile=Pioche de <hero>
+heroDiscardPile=Défausse de <hero>
+heroCastedCards=Cartes jouées de <hero>
+heroVanishedCards=Cartes disparues de <hero>
+town=Ville
+townPlace={0} Ville
+townIntro=Prenez votre temps et gérez vos decks avant l'aventure. Quand vous avez terminé, appuyez sur "Prêt" !
+ready=Prêt
+charReceive=<char> reçoit
+charsReceives=<chars> reçoivent
+freeCost=Gratuit
+oldCost=(Ancien coût: {0})
+reaminingUses=Utilisations restantes
+noMoreUses=Plus d'utilisation autorisée
+removeCards=Église
+removeCardsButtonDes=Retirer des cartes de vos decks
+removeCardsDes=Vous pouvez retirer des cartes de votre deck tant que vous respectez le nombre minimum de cartes.
+upgradeCards=Autel
+upgradeCardsButtonDes=Améliorer vos cartes et les transformer en versions plus puissantes.
+upgradeCardsDes=Chaque carte possède différentes améliorations qui sont plus puissantes que la version de base.<br><br>Vous pouvez proposer des éclats pour améliorer une carte.<br><br>Il est également possible de transmuter une carte entre ses versions améliorées.<br><br><color=#FFC88F>Plus la rareté de la carte est élevée, plus le coût pour l'améliorer est élevé.</color>
+reset=Réinitialiser
+upgradedCards=Améliorées
+upgradedCardsDes=Afficher les cartes améliorées. Vous pouvez également améliorer des cartes à l'Autel.
+filterCards=Filtre
+filterCardsDes=Trier les cartes en fonction des modificateurs explicites.
+affordableCards=Disponibles
+affordableCardsDes=Afficher uniquement les cartes que vous pouvez créer avec votre nombre actuel d'éclats.
+craftCards=Forge magique
+craftCardsButtonDes=Créer des cartes pour vos decks.
+craftRarityBlocked=Cette rareté n'est pas autorisée ici.
+craftMaxCards=Nombre max. de créations autorisées pour cette carte
+treasureClaimButtonDes=Appuyez ici pour revendiquer cette récompense.
+wantToClaimTreasure=Voulez-vous réclamer ce trésor ?
+lastRunsRewards=Récompenses précédentes
+lastRunsRewardsDes=Chaque partie récompense votre performance avec de l'or et des éclats.<br><br>Vous pourrez réclamer jusqu'à trois des dernières récompenses chaque fois que vous commencez une partie.
+lastRunsRewardsStack=Vous pouvez empiler jusqu'à 3 coffres.
+communityRewards=Récompenses communautaires
+expiresInHoursMinutes=Expire dans {0} heure(s) {1} minute(s)
+expiresInMinutes=Expire dans {0} minute(s)
+divinationCards=Carriole zingarienne
+divinationCardsButtonDes=Payez de l'or à la belle Zingara et obtenez une séance de divination.
+divinationCardsDes=Si vous avez suffisamment d'argent, la Zingara vous accordera une séance de divination de cartes.<br><br>Dans un jeu multijoueur, tout le monde bénéficiera de cette séance de divination.<br><br>Plus le coût d'une séance de divination est élevé, plus la chance d'obtenir de meilleures cartes est grande.
+divinationT0=Divination rapide
+divinationT1=Divination basique
+divinationT2=Divination avancée
+divinationT3=Divination premium
+divinationT4=Divination suprême
+divinationRoundJoin={0} vient de payer pour une séance de Divination. Appuyez sur le bouton pour rejoindre quand vous êtes prêt.
+divinationRoundExists=Il y a déjà une séance de Divination en cours.
+divinationRoundLaunch=Chargement de la séance de Divination en cours...
+sell=Vendre
+buyItems=Armurerie
+buyItemsButtonDes=Achetez de l'équipement pour vos héros.
+deckPile=Pioche
+discardPile=Défausse
+pressWhenReady=Appuyez sur le bouton quand vous êtes prêt.
+cardsNum=Cartes: {0}
+youCanDiscardUpTo=Vous pouvez défausser jusqu'à: {0} cartes
+youCanVanishUpTo=Vous pouvez faire disparaître jusqu'à: {0} cartes
+youCanAdd=Vous pouvez ajouter: 1 carte
+youCanAddPlural=Vous pouvez ajouter: {0} cartes
 #########
 ######### performance bonus
 #########
-roundNumber=Round {0}
+roundNumber=Tour {0}
 excellent=Excellent
-good=Good
-poor=Poor
-satisfactory=Satisfactory
-underwhelming=Underwhelming
-dreadful=Dreadful
-great=Great
-performanceBonus=Performance bonus
-combatPerformance=Combat Performance
-combatPerformanceDes=Kill your enemies fast and use less rounds in order to get better rewards. Each round counts...
-dreadfulNoReward=Your combat performance was dreadful, hence you are not getting any card rewards.
+good=Bien
+poor=Médiocre
+satisfactory=Satisfaisant
+underwhelming=Décevant
+dreadful=Effroyable
+great=Génial
+performanceBonus=Bonus de performance
+combatPerformance=Performance de combat
+combatPerformanceDes=Tuez vos ennemis rapidement et en un minimum de tours pour obtenir de meilleures récompenses. Chaque tour compte...
+dreadfulNoReward=Votre performance de combat était effroyable, vous ne recevez donc pas de récompenses de cartes.
 #########
 ######### rewards
 #########
-combatRewards=Combat rewards
-eventRewards=Event rewards
-eventRewardsSubtitle=Choose one card or a pile of shards
-eventYouGet=You get:
-divinationRoundRewards=Divination rewards
-itemRewards=Item rewards
-itemRewardsSelection=You can choose one of the items or the following gold amount:
-itemRewardsChosing=Character choosing:
-chooseCards=Choose one of these cards
-chooseDust=Choose shards
-notEnoughGold=Not enough gold/shards
+combatRewards=Récompenses de combat
+eventRewards=Récompenses d'événement
+eventRewardsSubtitle=Choisissez une carte ou un tas d'éclats
+eventYouGet=Vous obtenez:
+divinationRoundRewards=Récompenses de divination
+itemRewards=Récompenses d'objet
+itemRewardsSelection=Vous pouvez choisir l'un des objets ou le montant d'or suivant:
+itemRewardsChosing=Choix du personnage:
+chooseCards=Choisissez l'une de ces cartes
+chooseDust=Choisissez des éclats
+notEnoughGold=Pas assez d'or/éclats
 #########
 ######### finish run
 #########
-finishRun=Reward based on the performance of your adventure. At the beginning of a new game, you will be able to claim this reward while in town.
-questEndsIn=Your quest ends in
-actNumber=Act {0}
+finishRun=Récompense basée sur la performance de votre aventure. Au début d'une nouvelle partie, vous pourrez réclamer cette récompense en ville.
+questEndsIn=Votre quête se termine dans
+actNumber=Acte  {0}
 prologue=Prologue
-congratulations=Congratulations
-placesVisited=Places visited
-placeOfDeath=Place of death
-combatPerformance=Combat performance
-experienceGained=Experience gained
-bossesKilled=Bosses killed
-finalScore=Final score
-timePlayed=Time played {0}
-gameScore=Game score
-finishBestScore=Best score!
-currencyRetention=Currency retention
-currencyRetentionBonus=<q>% of total
-gameReward=Game reward
-mpBonus=Multiplayer bonus (+<q>%)
-itemBonus=Item bonus (+<q>%)
+congratulations=Félicitations
+placesVisited=Lieux visités
+placeOfDeath=Lieu de la mort
+combatPerformance=Performance de combat
+experienceGained=Expérience acquise
+bossesKilled=Boss tués
+finalScore=Score final
+timePlayed=Temps de jeu {0}
+gameScore=Score de partie
+finishBestScore=Meilleur score!
+currencyRetention=Monnaie conservée
+currencyRetentionBonus=<q>% du total
+gameReward=Récompense de partie
+mpBonus=Bonus multijoueur (+<q>%)
+itemBonus=Bonus d'objet (+<q>%)
 #########
 ######### event rolls
 #########
-eventRolls=Event rolls:
-singleDesc=Everyone draws a card, and the results are individual to each character.
-groupDesc=Everyone draws a card, and the results are added up.
-competitionDesc=Everyone draws a card and competes against each other.
-single=Single
-competition=Competition
-group=Group
-character=Character
-higherThan=higher than
-higherOrEqual={0} or higher
-lowerThan=lower than
-lowerOrEqual={0} or lower
-rollCard={0} card
-highest=highest
-lowest=lowest
-closest=closest to
+eventRolls=Jets d'événements:
+singleDesc=Chacun tire une carte, les résultats étant individuels pour chaque personnage.
+groupDesc=Chacun tire une carte, les résultats sont additionnés.
+competitionDesc=Chacun tire une carte et entre en compétition contre les autres.
+single=Individuel
+competition=Compétition
+group=Groupe
+character=Personnage
+higherThan=supérieur à
+higherOrEqual={0} ou plus
+lowerThan=inférieur à
+lowerOrEqual={0} ou moins
+rollCard={0} carte
+highest=la plus élevée
+lowest=la plus basse
+closest=la plus proche de
 #########
 ######### event actions
 #########
-healPercent=[Heal {0}%]
-eventBag=This bag contains all the useful items that you find during your adventure.
-eventMissingOptions=Hidden options
-eventMissingOptionsDesc=Some replies have special requirements like shards, gold, different characters...
-continueAction=Continue
-joinAction=Join
+healPercent=[Soigne {0}%]
+eventBag=Ce sac contient tous les objets utiles que vous trouvez pendant votre aventure.
+eventMissingOptions=Options cachées
+eventMissingOptionsDesc=Certaines réponses ont des exigences particulières comme des éclats, de l'or, différents personnages...
+continueAction=Continuer
+joinAction=Rejoindre
 combatAction=Combat
-jumpAction=Jump
-runAction=Run
-bribeAction=Bribe
-threatenAction=Threaten
-persuadeAction=Persuade
-stealthAction=Stealth
-stealAction=Steal
-sneakAwayAction=Sneak away
-leaveAction=Leave
-lootAction=Loot
-profaneAction=Profane
-forageAction=Forage
-declineAction=Decline
-acceptAction=Accept
-extorsionAction=Extortion
-ambushAction=Ambush
-raceAction=Race
-restAction=Rest
-buryAction=Bury
-digAction=Dig
-breakAction=Break
-betAction=Bet
-playAction=Play
-fishingAction=Fishing
-payAction=Pay
-bargainAction=Bargain
-exploreAction=Explore
-enterAction=Enter
-pretendAction=Pretend
-captureAction=Capture
-throwAction=Throw
-lookAction=Look
-examineAction=Examine
-repairAction=Repair
-rebuildAction=Rebuild
-healAction=Heal
-climbAction=Climb
-evadeAction=Evade
-useAction=Use
-askAction=Ask
-answerAction=Answer
-openAction=Open
-buyAction=Buy
-murderAction=Murder
-burnAction=Burn
-killAction=Kill
-giveAction=Give
-talkAction=Talk
-singAction=Sing
-readAction=Read
-confirm=Confirm
-hide=Hide
-show=Show
-chooseEnergy=Choose how much energy to spend casting this spell.
-chooseEnergyAvailable=Available energy:
-chooseEnergyMax=Max. energy to assign:
+jumpAction=Sauter
+runAction=Fuir
+bribeAction=Soudoyer
+threatenAction=Menacer
+persuadeAction=Persuader
+stealthAction=Furtivité
+stealAction=Voler
+sneakAwayAction=S'enfuir discrètement
+leaveAction=Quitter
+lootAction=Piller
+profaneAction=Profaner
+forageAction=Fouiller
+declineAction=Refuser
+acceptAction=Accepter
+extorsionAction=Extorquer
+ambushAction=Embuscade
+raceAction=Course
+restAction=Se reposer
+buryAction=Enterrer
+digAction=Creuser
+breakAction=Briser
+betAction=Parier
+playAction=Jouer
+fishingAction=Pêcher
+payAction=Payer
+bargainAction=Marchander
+exploreAction=Explorer
+enterAction=Entrer
+pretendAction=Faire semblant
+captureAction=Capturer
+throwAction=Lancer
+lookAction=Regarder
+examineAction=Examiner
+repairAction=Réparer
+rebuildAction=Reconstruire
+healAction=Soigner
+climbAction=Grimper
+evadeAction=Éviter
+useAction=Utiliser
+askAction=Demander
+answerAction=Répondre
+openAction=Ouvrir
+buyAction=Acheter
+murderAction=Assassiner
+burnAction=Brûler
+killAction=Tuer
+giveAction=Donner
+talkAction=Parler
+singAction=Chanter
+readAction=Lire
+confirm=Confirmer
+hide=Cacher
+show=Montrer
+chooseEnergy=Choisissez la quantité d'énergie à dépenser pour lancer ce sort.
+chooseEnergyAvailable=Énergie disponible:
+chooseEnergyMax=Énergie max. à assigner:
 #########
 ######### CreateTextLobby
 #########
-exitGameConfirm=Are you sure you want to exit?
-exitGameConfirmLoss=All your progress will be lost.
-exitGameConfirmSave=Your current progress will be saved.
-exitGameRewards=You must claim your rewards before exiting the game.
-exitGameEvent=You must finish the active event before exiting the game.
-exitRoomConfirm=Are you sure you want to exit the game room?
-inputPasswordRoom=Please enter the room password and press the button.
-inputIDRoom=Please enter the room ID
-joinById=Join by ID
-launchGame=Launch game
-inviteSteamFriends=Invite Steam Friends
-statusMP=Multiplayer status
-statusConnecting=Connecting to multiplayer server
-statusJoinedLobby=Joined Lobby
-statusConnected=Connected to server
-chatPlayerJoined=%p has joined the game.
-chatPlayerLeft=%p has left the game.
-chatPlayerKicked=%p has been kicked from the game.
-masterKickedYou=You have been kicked from the game.
-playersInGame=Players in game:
-multiplayerDescription=Play with up to 3 other friends! Create a game or join another player's room. Choose your heroes and begin the adventure.
-multiplayerSubDescription=* In a multiplayer game, you will only be able to select heroes you have previously unlocked. On the other hand, unlocking heroes in a multiplayer game will let you play with those heroes in any available mode.
-availableRooms=Available rooms
-chooseRoom=Choose a game room.
-createRoom=Create a game room.
-roomDescription=Game description
-numberOfPlayers=Number of players
-privateRoom=Private room
-roomPasswordDesc=** Only users who know the password will be able to join the room.
-createRoomButton=Create room
-disconnect=Disconnect
-selectRegion=Select region
-connectedRegion=Connected <br>Region: [{0}]
-regionEU=EU region
-regionUS=US region
-regionASIA=ASIA region
-lfgLobby=<color=#DB9D6A>Are you looking for people to play co-op?</color><br>Join the #LFG channel in our official Discord!
+exitGameConfirm=Êtes-vous sûr(e) de vouloir quitter ?
+exitGameConfirmLoss=Tout votre progrès sera perdu.
+exitGameConfirmSave=Votre progression actuelle sera sauvegardée.
+exitGameRewards=Vous devez réclamer vos récompenses avant de quitter le jeu.
+exitGameEvent=Vous devez terminer l'événement actif avant de quitter le jeu.
+exitRoomConfirm=Êtes-vous sûr(e) de vouloir quitter le lobby de jeu ?
+inputPasswordRoom=Veuillez entrer le mot de passe du lobby et appuyer sur le bouton.
+inputIDRoom=Veuillez entrer l'ID du lobby.
+joinById=Rejoindre par ID
+launchGame=Lancer le jeu
+inviteSteamFriends=Inviter des amis Steam
+statusMP=État multijoueur
+statusConnecting=Connexion au serveur multijoueur
+statusJoinedLobby=Rejoint le lobby
+statusConnected=Connecté au serveur
+chatPlayerJoined=%p a rejoint la partie.
+chatPlayerLeft=%p a quitté la partie.
+chatPlayerKicked=%p a été exclu(e) de la partie.
+masterKickedYou=Vous avez été exclu(e) de la partie.
+playersInGame=Joueurs en jeu:
+multiplayerDescription=Jouez avec jusqu'à 3 autres amis ! Créez une partie ou rejoignez le lobby d'un autre joueur. Choisissez vos héros et commencez l'aventure.
+multiplayerSubDescription=* Dans une partie multijoueur, vous ne pourrez sélectionner que les héros que vous avez déjà débloqués. D'un autre côté, débloquer des héros dans une partie multijoueur vous permettra de jouer avec ces héros dans n'importe quel mode disponible.
+availableRooms=Salles disponibles
+chooseRoom=Choisissez un lobby.
+createRoom=Créez un lobby.
+roomDescription=Description de la partie
+numberOfPlayers=Nombre de joueurs
+privateRoom=Salle privée
+roomPasswordDesc=** Seuls les utilisateurs connaissant le mot de passe pourront rejoindre le lobby.
+createRoomButton=Créer un lobby
+disconnect=Déconnexion
+selectRegion=Sélectionnez une région
+connectedRegion= <br>Région connectée: [{0}]
+regionEU=Région EU
+regionUS=Région US
+regionASIA=Région ASIE
+lfgLobby=<color=#DB9D6A>Vous cherchez des personnes avec qui jouer en coop?</color><br>Rejoignez le canal #LFG sur notre Discord officiel!
 #########
 ######### CreateTextSelection
 #########
-adventure=Adventure
-beginAdventure=Begin Adventure
-teamSelection=Team Selection
-dragCharacters=Drag the characters that you want to use in this game.<br>Some attacks can only target front, back or middle units.
-heroselectionWeekly=These are the characters that you can control in this Challenge.
-dragRecommended=* Recommended class for this position
-positionFront=Front
-positionBack=Back
-masterAssign=The master of the game must assign a player to each slot. When all players have been selected at least once, the game will be ready to begin.
-helpCharacterHealth=Character's health points
-helpCharacterEnergy=Character's initial energy and the amount that will be gained at the beginning of their turn
-helpCharacterSpeed=Speed of the character The character with the highest speed will be the first to move each round.
-tutorialTownTitle=Town actions
-tutorialTown=You can craft new cards for your decks, upgrade any card that you have, and buy equipment for your heroes. You will also be able to claim rewards from previous games.
-tutorialCombatSpeedTitle=Speed and character order
-tutorialCombatSpeed=All characters have a speed value (which can be modified by cards, items and traits). That value establishes who moves first. In case of a tie, the closest HERO to center will have priority.
-tutorialFirstTurnEnergyTitle=Energy management and cards
-tutorialFirstTurnEnergy=You can cast cards until you run out of energy.<br><br>When you end a turn, energy that hasn't been used will be saved for the next turn of this hero.
-tutorialCombatCardTargetTitle=Card targets
-tutorialCombatCardTarget=This box shows the available targets.<br><br>If there are multiple targets for a card, you'll have to select which one will be affected. If there is only one, releasing the card will automatically select it.
-tutorialCombatResistsTitle=Damage and resists
-tutorialCombatResists=There are 9 different damage types (and resists).<br><br>The damage values listed on a card will be reduced by the target's resist percentage.
-tutorialEventRollsTitle=Event rolls
-tutorialEventRolls=Some options will force you to roll in order to determine the result of the action. Each character will use the cards from their own deck.
-tutorialTownRewardsTitle=Finished game rewards
-tutorialTownRewards=While in town, you can claim rewards obtained in past games. Don't wait too long to claim these rewards: only the last three will be stored.
-tutorialCardsRewardTitle=Locked cards
-tutorialCardsReward=During your adventures, you will discover new cards after each combat. All cards shown will be unlocked. Remember: you will only be able to craft unlocked cards.
-tutorialCharactersTitle=Select your team.
-tutorialCharacters=Unlock new characters by completing quests during your adventures. Character quests are marked with this icon  <size=+.5><sprite name=questBegin></size>.
-tutorialPerksTitle=Character perks
-tutorialPerks=At the end of an adventure, all the characters in your group will get experience points (each rank level will award you perk points). You can spend these points on character upgrades.
-tutorialTownCraftTitle=Crafting cards
-tutorialTownCraft=In each town, you will be able to craft cards that you have previously unlocked for all your heroes. Some restrictions will apply based on your town upgrades.
-watchingTutorial=[Please Wait]<br>Another player is watching a tutorial.
-castNPCTitle=Monster cards
-castNPC=The cards that monsters are going to cast are hidden by default. The "sight"  <sprite name=sight> effect will reveal these cards, allowing you to plan your movements in anticipation.
-levelUp=Level Up!
-cantLevelUp=You can only level up while in town or on the map screen.
-cantGiveGoldDivination=You can't give gold or shards while there's a divination round pending.
-gameSeed=Game seed
-gameSeedInput=Please enter a new game seed.
+adventure=Aventure
+beginAdventure=Démarrer l'aventure
+teamSelection=Sélection de l'équipe
+dragCharacters=Faites glisser les personnages que vous voulez utiliser pour cette partie.<br>Certaines attaques ne peuvent cibler que les unités de devant, du milieu ou de l'arrière..
+heroselectionWeekly=Voici les personnages que vous pouvez contrôler dans ce Défi.
+dragRecommended=* Classe recommandée pour cette position
+positionFront=Devant
+positionBack=Arrière
+masterAssign=Le maître de jeu doit assigner un joueur à chaque emplacement. Lorsque tous les joueurs ont été sélectionnés au moins une fois, le jeu est prêt à commencer.
+helpCharacterHealth=Points de vie du personnage
+helpCharacterEnergy=Énergie initiale du personnage et quantité gagnée au début de son tour
+helpCharacterSpeed=Vitesse du personnage. Le personnage avec la vitesse la plus élevée se déplacera en premier à chaque tour.
+tutorialTownTitle=Actions en ville
+tutorialTown=Vous pouvez créer de nouvelles cartes pour vos decks, améliorer n'importe quelle carte que vous possédez et acheter de l'équipement pour vos héros. Vous pourrez également réclamer des récompenses des parties précédentes.
+tutorialCombatSpeedTitle=Vitesse et ordre des personnages
+tutorialCombatSpeed=Tous les personnages ont une valeur de vitesse (qui peut être modifiée par des cartes, des objets et des caractéristiques). Cette valeur établit qui se déplace en premier. En cas d'égalité, le héros le plus proche du centre aura la priorité.
+tutorialFirstTurnEnergyTitle=Gestion de l'énergie et des cartes
+tutorialFirstTurnEnergy=Vous pouvez jouer des cartes jusqu'à ce que vous n'ayez plus d'énergie.<br><br>À la fin d'un tour, l'énergie qui n'a pas été utilisée sera conservée pour le tour suivant de ce héros.
+tutorialCombatCardTargetTitle=Cibles des cartes
+tutorialCombatCardTarget=Cette boîte montre les cibles disponibles.<br><br>S'il y a plusieurs cibles pour une carte, vous devrez sélectionner celle qui sera affectée. S'il n'y en a qu'une, lacher de la carte la sélectionnera automatiquement.
+tutorialCombatResistsTitle=Dommages et résistances
+tutorialCombatResists=Il existe 9 types de dégâts différents (et de résistances).<br><br>Les valeurs de dégâts indiquées sur une carte seront réduites par le pourcentage de résistance de la cible.
+tutorialEventRollsTitle=Jet de dés pour les événements
+tutorialEventRolls=Certaines options vous obligent à tirer des cartes pour déterminer le résultat de l'action. Chaque personnage utilisera les cartes de son propre deck.
+tutorialTownRewardsTitle=Récompenses obtenues en fin de partie
+tutorialTownRewards=En ville, vous pouvez réclamer les récompenses obtenues lors de parties précédentes. Ne tardez pas trop à réclamer ces récompenses : seules les trois dernières seront stockées.
+tutorialCardsRewardTitle=Cartes verrouillées
+tutorialCardsReward=Au cours de vos aventures, vous découvrirez de nouvelles cartes après chaque combat. Toutes les cartes affichées seront débloquées. N'oubliez pas que vous ne pourrez fabriquer que les cartes débloquées.
+tutorialCharactersTitle=Sélectionnez votre équipe.
+tutorialCharacters=Débloquez de nouveaux personnages en accomplissant des quêtes au cours de vos aventures. Les quêtes de personnage sont marquées avec cet icône  <size=+.5><sprite name=questBegin></size>.
+tutorialPerksTitle=Compétences des personnages
+tutorialPerks=À la fin d'une aventure, tous les personnages de votre groupe obtiendront des points d'expérience (chaque niveau de rang vous accordera des points de compétences). Vous pouvez dépenser ces points pour améliorer les compétences des personnages.
+tutorialTownCraftTitle=Fabrication de cartes
+tutorialTownCraft=Dans chaque ville, vous pourrez fabriquer des cartes que vous avez précédemment débloquées pour tous vos héros. Certaines restrictions s'appliqueront en fonction de vos améliorations de ville.
+watchingTutorial=[Veuillez patienter]<br>Un autre joueur regarde un tutoriel.
+castNPCTitle=Cartes de monstre
+castNPC=Les cartes que les monstres vont jouer sont masquées par défaut. L'effet "vue"  <sprite name=sight> révèlera ces cartes, vous permettant de planifier vos actions à l'avance.
+levelUp=Passage de niveau!
+cantLevelUp=Vous ne pouvez passer de niveau que lorsque vous êtes en ville ou sur l'écran de la carte.
+cantGiveGoldDivination=Vous ne pouvez pas donner d'or ou d'éclats pendant qu'il y a une divination en attente.
+gameSeed=Seed de partie
+gameSeedInput=Veuillez saisir une nouvelle seed de partie.
 #########
 ######### CreateTextCards
 #########
-requireSkill=Requires {0}
-priority=Priority: {0}
+requireSkill=Nécessite {0}
+priority=Priorité: {0}
 global=Global
-friends=Friends
-self=Self
-random=Random
-hero=Hero
-anyone=Anyone
-heroes=Heroes
-monsters=Monsters
-allHeroes=All Heroes
-randomHero=Random Hero
-frontHero=Front Hero
-backHero=Back Hero
-middleHero=Middle Hero
-slowestHero=Slowest Hero
-fastestHero=Fastest Hero
-leastHPHero=Lowest HP Hero
-mostHPHero=Highest HP Hero
-otherHero=Other Hero
-monster=Monster
-allMonsters=All Monsters
-randomMonster=Random Monster
-frontMonster=Front Monster
-backMonster=Back Monster
-middleMonster=Middle Monster
-slowestMonster=Slowest Monster
-fastestMonster=Fastest Monster
-leastHPMonster=Lowest HP Monster
-mostHPMonster=Highest HP Monster
-priorityBack=Back
-priorityMiddle=Middle Heroes
-priorityFront=Front
-priorityAnyButBack=Any but Back
-priorityLessHealthPercent=Lowest percent health
-priorityMoreHealthPercent=Highest percent health
-priorityLessHealthFlat=Lowest health
-priorityMoreHealthFlat=Highest health
-priorityLessHealthAbsolute=Lower absolute health
-priorityMoreHealthAbsolute=Highest absolute health
-priorityLessInitiative=Slowest
-priorityMoreInitiative=Fastest
-damageType=Damage type
-damageTypes=Damage types
+friends=Amis
+self=Soi
+random=Aléatoire
+hero=Un héros
+anyone=N'importe qui
+heroes=Héros
+monsters=Monstres
+allHeroes=Tous les héros
+randomHero=Un héros aléatoire
+frontHero=Héros de devant
+backHero=Héros de derrière
+middleHero=Héros du milieu
+slowestHero=Héros le plus lent
+fastestHero=Héros le plus rapide
+leastHPHero=Héros avec le moins de PV
+mostHPHero=Héros avec le plus de PV
+otherHero=Autre héros
+monster=Monstre
+allMonsters=Tous les monstres
+randomMonster=Monstre aléatoire
+frontMonster=Monstre de devant
+backMonster=Monstre de derrière
+middleMonster=Monstre du milieu
+slowestMonster=Monstre le plus lent
+fastestMonster=Monstre le plus rapide
+leastHPMonster=Monstre avec le moins de PV
+mostHPMonster=Monstre avec le plus de PV
+priorityBack=Arrière
+priorityMiddle=Les héros du milieu
+priorityFront=Avant
+priorityAnyButBack=N'importe sauf l'arrière
+priorityLessHealthPercent=Le moins de pourcentage de santé
+priorityMoreHealthPercent=Le plus de pourcentage de santé
+priorityLessHealthFlat=Le moins de santé
+priorityMoreHealthFlat=Le plus de santé
+priorityLessHealthAbsolute=Le moins de santé absolue
+priorityMoreHealthAbsolute=Le plus de santé absolue
+priorityLessInitiative=Le moins rapide
+priorityMoreInitiative=Le plus rapide
+damageType=Type de dégâts
+damageTypes=Types de dégâts
 aura=Aura
-curse=Curse
-deal=Deal
-apply=Apply
-gain=Gain
-youGain=You gain
-suffer=Suffer
-youSuffer=You suffer
-lose=Lose
-youLose=You lose
-grant=Grant
-heal=Heal
-draw=Draw
-discard=Discard
-discover=Discover
-reveal=Reveal
-pick=Pick
-place=Place
-look=Look
-onDraw=On draw
-onEndTurn=On end turn
-endTurn=End Turn
+curse=Malédiction
+deal=Distribuer
+apply=Appliquer
+gain=Gagner
+youGain=Vous gagnez
+suffer=Subir
+youSuffer=Vous subissez
+lose=Perdre
+youLose=Vous perdez
+grant=Accorder
+heal=Soigner
+draw=Piocher
+discard=Défausser
+discover=Découvrir
+reveal=Révéler
+pick=Choisir
+place=Placer
+look=Regarder
+onDraw=En piochant
+onEndTurn=À la fin du tour
+endTurn=Fin du tour
 #########
 ######### CreateTextCombat
 #########
-newTurn=New turn
-chooseDiscard=Choose the cards to discard.
-chooseTopDeck=Choose the cards to place on top of the deck.
-cardsLeft=Cards left:
-combatEffects=Combat effects
-combatVictory=Victory!
-combatFail=Your quest ends here...
-combatOnlyMasterCanResign=Only the master of the game can resign.
-combatWantToRetry=<color=#BBB>Sometimes, taking a different approach is the key to success.</color><line-height=50><br></line-height>Do you want to retry the combat?
-combatWantToRetryClient=(Waiting for the master to make a decision.)
-combatWantToResign=<color=#f88>Do you want to resign?</color>
-combatWantToResignEnd=Your adventure will end here.
-removeProgressQuestion=Do you really want to remove all your saved progress?
-resetTutorialQuestion=Do you really want to reset the tutorial?
-mapNodes=Map Nodes
-mapEntryPoint=Entry point
-mapLegend=Map Legend
-mapLegendEvent=Event (rarity)
-mapLegendCard=Card node
-mapLegendCrafter=Crafter node
-mapLegendMapTransition=Map transition
-mapLegendShop=Article shop
-mapLegendRest=Rest node
-mapLegendCharacter=Character
-mapLegendQuestEnd=Quest end
-mapLegendBoss=Region boss
-typeCardsUnlocked={0} cards unlocked
-relatedCard=Related Card
-basicValues=* These are the basic values of the cards (without character talents, character perks or item bonuses).
-corruptedVersion=Corrupted Version
-specialCard=Special Card
-characterCard=Character Card
-rareVersion=Rare Version
-cardsAnd={0} and {1}
-cardsDealDamage=Deal {0}
-cardsSuffer=Suffer {0}
-cardsYouSuffer=You suffer {0}
-cardsYouLose=You lose {0}
-cardsTargetSides=Target sides {0}
-cardsGrant=Grant {0}
-cardsGain=Gain {0}
-cardsYouGain=You gain {0}
-cardsApply=Apply {0}
-cardsDispel=Dispel {0}
-cardsDispelAll=Dispel all
-cardsPurge=Purge {0}
-cardsPurgeAll=Purge all
-cardsTransferCurse=Transfer {0} curses
-cardsReduceCurse=Reduce curse charges by {0}%
-cardsCast=cast card {0}
-cardsRepeat=Repeat {0}
-cardsRepeatUpTo=Repeat up to {0}
-cardsRepeatChain=Chain {0}
-cardsRepeatJump=Jump {0}
-cardsIgnoreBlock=Ignore block
-cardsTransformInto=Transform <nobr>{0} into {1}</nobr>
-cardsTransformIntoAnd=Transform <nobr>{0} into {1} and {2}</nobr>
-cardsXEqualsYourHand=(X equals your <nobr>hand {0}{1}</nobr>)
-cardsXEqualsYourDeck=(X equals your <nobr>draw pile {0}{1}</nobr>)
-cardsXEqualsYourDiscard=(X equals your <nobr>discard pile {0}{1}</nobr>)
-cardsXEqualsYourVanish=(X equals your <nobr>vanish pile {0}{1}</nobr>)
-cardsXEqualsYourHp=(X equals your HP {0})
-cardsXEqualsYour=(X equals your {0}{1})
-cardsXEqualsTarget=(X equals target {0}{1})
-cardsXEqualsTargetHp=(X equals target HP {0})
-cardsXEqualsTargetDeck=(X equals target <nobr>draw pile {0}{1}</nobr>)
-cardsXEqualsTargetDiscard=(X equals target <nobr>discard pile {0}{1}</nobr>)
-cardsXEqualsTargetVanish=(X equals target <nobr>vanish pile {0}{1}</nobr>)
-cardsShareYour=Split your {0}
-cardsDoubleYour=Double your {0}
-cardsDoubleTarget=Double target {0}
-cardsTripleYour=Triple your {0}
-cardsTripleTarget=Triple target {0}
-cardsLosePercentYour=Lose {0}% of your {1}
-cardsLosePercentTarget=Target loses {0}% {1}
-cardsHeal=Heal {0}
-cardsHealSelf=Self heal {0}
-cardsHealSelfPerDamage=Heal yourself for {0}% of the damage done
-cardsConsume=Consume {0}
-cardsConsumeYour=Consume your {0}
-cardsDispelYour=Dispel your {0}
-cardsPurgeYour=Purge your {0}
-cardsOverCharge=Overcharge {0}
-cardsLoseHp=Lose {0}
-cardsDraw=Draw {0}
-cardsDiscard=Discard {0}
-cardsDiscardAny=Discard any of them
-cardsDiscardUpTo=Discard up to {0} of them
-cardsVanishUpTo=Vanish up to {0} of them
-cardsLook=Look {0}
-cardsCost=Cost {0}
-cardsCostReducedBy=Reduced by {0}
-cardsCostUntilDiscarded=until discarded
-cardsAddCost=(cost {0})
-cardsAddCostVanish=(cost {0} and vanish)
-cardsAddCostVanishTurn=(cost {0} and vanish this turn)
-cardsAddCostTurn=(cost {0} until discarded)
-cardsAddCostReduced=(cost reduced by {0})
-cardsAddCostReducedVanish=(cost reduced by {0} and vanish)
-cardsAddCostReducedTurn=(cost reduced by {0} until discarded)
-cardsAddCostReducedVanishTurn=(cost reduced by {0} and vanish this turn)
-cardsDiscoverToDeck=Discover {0} and shuffle them into your deck
-cardsDiscoverNumberToTopDeck=Discover {0} and place {1} on top of your deck
-cardsDiscoverNumberToHand=Discover {0} and place {1} into your hand
-cardsDiscoverNumberToDeck=Discover {0} and shuffle {1} into your deck
-cardsDiscoverToHand=Discover {0} and put them into your hand
-cardsPlaceToTop=Place {0} from your hand on top of your deck
-cardsRevealThemToHand=Reveal {0} from your draw pile and put them into your hand
-cardsRevealItToHand=Reveal {0} from your draw pile and put it into your hand
-cardsRevealNumberToHand=Reveal {0} from your draw pile and put {1} into your hand
-cardsRevealItToTopDeck=Reveal {0} from your draw pile and place it on top of your deck
-cardsRevealThemToTopDeck=Reveal {0} from your draw pile and place them on top of your deck
-cardsRevealNumberToTopDeck=Reveal {0} from your draw pile and place {1} on top of your deck
-cardsPickToTop=Pick {0} from your discard pile and place it on top of your deck
-cardsPickToHand=Pick {0} from your discard pile and put it into your hand
-cardsFromVanishToTop=Pick {0} from your vanish pile and place it on top of your deck
-cardsFromVanishToHand=Pick {0} from your vanish pile and put it into your hand
-cardsDuplicateToHand=Duplicate {0} from your hand// 0 => cardname
-cardsDuplicateToTargetTopDeck=Duplicate {0} from your hand and put it at top of target's deck// 0 => cardname
-cardsDuplicateToTargetRandomDeck=Duplicate {0} from your hand and shuffle it in target's deck// 0 => cardname
-cardsIDShuffleDeck=Shuffle {0} into your deck// 0 => cardname
-cardsIDShuffleTargetDeck=Shuffle {0} in target's deck// 0 => cardname
-cardsIDPlaceHand=Put {0} into your hand// 0 => cardname
-cardsIDPlaceTopDeck=Place {0} on top of your deck// 0 => cardname
-cardsIDPlaceTargetTopDeck=Put {0} on top of target's deck// 0 => cardname
-cardsIDPlaceTargetDiscard=Place {0} on target's discard pile// 0 => cardname
-cardsDuplicateHand=Put a copy of it into your hand// 0 => cardname
-cardsSummon=Summon {0}
-cardsImmuneTo=Immune to: {0}
-cardsTransformDamage=Transform damage to {0}
-cardsPassEventRoll=100% success in single character event rolls
-killPet=Kill hero's pet
-requiredPoints={0} used points required
-cantDrawAnyCard=Can't draw any card
-missesThisTurn=Misses this turn
-itemMaxHp=Max HP {0}
-itemAllResistances=All resistances {0}
-itemXResistances={0} resistance {1}
-itemSpeed=Speed {0}
-itemInitialEnergy=Initial energy {0}
-itemInitialCurrency=Initial gold and shards {0}
+newTurn=Nouveau tour
+chooseDiscard=Choisissez les cartes à défausser.
+chooseTopDeck=Choisissez les cartes à placer sur le dessus du paquet.
+cardsLeft=Cartes restantes:
+combatEffects=Effets de combat
+combatVictory=Victoire!
+combatFail=Votre quête s'arrête ici...
+combatOnlyMasterCanResign=Seul le maître du jeu peut abandonner.
+combatWantToRetry=<color=#BBB>Parfois, adopter une approche différente est la clé du succès.</color><line-height=50><br></line-height>Voulez-vous retenter le combat?
+combatWantToRetryClient=(En attente de la décision du maître.)
+combatWantToResign=<color=#f88>Voulez-vous abandonner?</color>
+combatWantToResignEnd=Votre aventure se terminera ici.
+removeProgressQuestion=Voulez-vous vraiment supprimer toute votre progression enregistrée?
+resetTutorialQuestion=Voulez-vous vraiment réinitialiser le tutoriel?
+mapNodes=Noeuds de la carte
+mapEntryPoint=Point d'entrée
+mapLegend=Légende de la carte
+mapLegendEvent=Événement (rareté)
+mapLegendCard=Noeud de carte
+mapLegendCrafter=Noeud d'artisan
+mapLegendMapTransition=Transition de carte
+mapLegendShop=Boutique d'articles
+mapLegendRest=Noeud de repos
+mapLegendCharacter=Personnage
+mapLegendQuestEnd=Fin de quête
+mapLegendBoss=Boss de région
+typeCardsUnlocked={0} cartes débloquées
+relatedCard=Carte associée
+basicValues=* Ce sont les valeurs de base des cartes (sans les talents de personnage, les atouts de personnage ou les bonus d'objet).
+corruptedVersion=Version corrompue
+specialCard=Carte spéciale
+characterCard=Carte de personnage
+rareVersion=Version rare
+cardsAnd={0} et {1}
+cardsDealDamage=Infliger {0}
+cardsSuffer=Subir {0}
+cardsYouSuffer=Vous subissez {0}
+cardsYouLose=Vous perdez {0}
+cardsTargetSides=Cible les côtés {0}
+cardsGrant=Accorder {0}
+cardsGain=Gagner {0}
+cardsYouGain=Vous gagnez {0}
+cardsApply=Appliquer {0}
+cardsDispel=Dissiper {0}
+cardsDispelAll=Dissiper tout
+cardsPurge=Purger {0}
+cardsPurgeAll=Purger tout
+cardsTransferCurse=Transférer {0} malédictions
+cardsReduceCurse=Diminuer les charges de malédiction de {0}%
+cardsCast=jouer la carte {0}
+cardsRepeat=Répéter {0}
+cardsRepeatUpTo=Répéter jusqu'à {0}
+cardsRepeatChain=Enchaîner {0}
+cardsRepeatJump=Sauter {0}
+cardsIgnoreBlock=Ignorer blocage
+cardsTransformInto=Transformer <nobr>{0} en {1}</nobr>
+cardsTransformIntoAnd=Transformer <nobr>{0} en {1} et {2}</nobr>
+cardsXEqualsYourHand=(X est égal à votre <nobr>main {0}{1}</nobr>)
+cardsXEqualsYourDeck=(X est égal à votre <nobr>pile de pioche {0}{1}</nobr>)
+cardsXEqualsYourDiscard=(X est égal à votre <nobr>pile de défausse {0}{1}</nobr>)
+cardsXEqualsYourVanish=(X est égal à votre <nobr>pile de disparition {0}{1}</nobr>)
+cardsXEqualsYourHp=(X est égal à vos PV {0})
+cardsXEqualsYour=(X est égal à votre {0}{1})
+cardsXEqualsTarget=(X est égal à la cible {0}{1})
+cardsXEqualsTargetHp=(X est égal aux PV de la cible {0})
+cardsXEqualsTargetDeck=(X est égal à la <nobr>pile de pioche de la cible {0}{1}</nobr>)
+cardsXEqualsTargetDiscard=(X est égal à la <nobr>pile de défausse de la cible {0}{1}</nobr>)
+cardsXEqualsTargetVanish=(X est égal à la <nobr>pile disparition de la cible {0}{1}</nobr>)
+cardsShareYour=Partager votre {0}
+cardsDoubleYour=Doubler votre {0}
+cardsDoubleTarget=Doubler {0} de la cible
+cardsTripleYour=Tripler votre {0}
+cardsTripleTarget=Tripler {0} de la cible
+cardsLosePercentYour=Perdre {0}% de votre {1}
+cardsLosePercentTarget=La cible perd {0}% {1}
+cardsHeal=Soigner {0}
+cardsHealSelf=Auto-soin {0}
+cardsHealSelfPerDamage=Soignez-vous de {0}% des dégâts infligés
+cardsConsume=Consommer {0}
+cardsConsumeYour=Consommer votre {0}
+cardsDispelYour=Dissiper votre {0}
+cardsPurgeYour=Purger votre {0}
+cardsOverCharge=Surcharger {0}
+cardsLoseHp=Perdre {0}
+cardsDraw=Piocher {0}
+cardsDiscard=Défausser {0}
+cardsDiscardAny=Défausser n'importe laquelle
+cardsDiscardUpTo=Défausser jusqu'à {0} d'entre elles
+cardsVanishUpTo=fait disparaitre jusqu'à {0} d'entre elles
+cardsLook=Regarder {0}
+cardsCost=Coût {0}
+cardsCostReducedBy=Réduit de {0}
+cardsCostUntilDiscarded=jusqu'à défausse
+cardsAddCost=(coût {0})
+cardsAddCostVanish=(coût {0} et disparition)
+cardsAddCostVanishTurn=((coût {0} et disparition ce tour)
+cardsAddCostTurn=(coût {0}  jusqu'à défausse)
+cardsAddCostReduced=(coût réduit de {0})
+cardsAddCostReducedVanish=(coût réduit de {0} et disparition)
+cardsAddCostReducedTurn=(coût réduit de {0} jusqu'à défausse)
+cardsAddCostReducedVanishTurn=(coût réduit de {0} et disparait ce tour)
+cardsDiscoverToDeck=Découvrir {0} et les mélanger dans votre deck
+cardsDiscoverNumberToTopDeck=Découvrir {0} et placer {1} au-dessus de votre deck
+cardsDiscoverNumberToHand=Découvrir {0} et placer {1} dans votre main
+cardsDiscoverNumberToDeck=Découvrir {0} et mélanger {1} dans votre deck
+cardsDiscoverToHand=Découvrir {0} et les mettre dans votre main
+cardsPlaceToTop=Place {0} de votre main au-dessus de votre deck
+cardsRevealThemToHand=Révéler {0} de votre pile de pioche et les mettre dans votre main
+cardsRevealItToHand=Révéler {0} de votre pile de pioche et le mettre dans votre main
+cardsRevealNumberToHand=Révéler {0} de votre pile de pioche et mettre {1} dans votre main
+cardsRevealItToTopDeck=Révéler {0} de votre pile de pioche et le placer au-dessus de votre deck
+cardsRevealThemToTopDeck=Révéler {0} de votre pile de pioche et les placer au-dessus de votre deck
+cardsRevealNumberToTopDeck=Révéler {0} de votre pile de pioche et placer {1} au-dessus de votre deck
+cardsPickToTop=Prendre {0} de votre pile de défausse et le placer au-dessus de votre deck
+cardsPickToHand=Prendre {0} de votre pile de défausse et le mettre dans votre main
+cardsFromVanishToTop=Prendre {0} de votre pile de disparition et le placer au-dessus de votre deck
+cardsFromVanishToHand=Prendre {0} de votre pile de disparition et le mettre dans votre main
+cardsDuplicateToHand=Dupliquer {0} de votre main// 0 => cardname
+cardsDuplicateToTargetTopDeck=Dupliquer {0} e votre main et le mettre au-dessus du deck de la cible// 0 => cardname
+cardsDuplicateToTargetRandomDeck=Dupliquer {0} de votre main et le mélanger dans le deck de la cible// 0 => cardname
+cardsIDShuffleDeck=Mélanger {0} dans votre deck// 0 => cardname
+cardsIDShuffleTargetDeck=Mélanger {0} dans le deck de la cible// 0 => cardname
+cardsIDPlaceHand=Mettre {0} dans votre main// 0 => cardname
+cardsIDPlaceTopDeck=Placer {0} au-dessus de votre deck// 0 => cardname
+cardsIDPlaceTargetTopDeck=Mettre {0} au-dessus du deck de la cible// 0 => cardname
+cardsIDPlaceTargetDiscard=Placer {0} sur la pile de défausse de la cible// 0 => cardname
+cardsDuplicateHand=Mettre une copie dans votre main// 0 => cardname
+cardsSummon=Invoquer {0}
+cardsImmuneTo=Immunisé à: {0}
+cardsTransformDamage=Transformer les dégâts en {0}
+cardsPassEventRoll=100% de réussite pour les jets d'événements avec un seul personnage
+killPet=Tue le familier du héros
+requiredPoints={0} points utilisés requis
+cantDrawAnyCard=Impossible de piocher une carte
+missesThisTurn=Rate ce tour
+itemMaxHp=PV max {0}
+itemAllResistances=Toutes les résistances {0}
+itemXResistances={0} résistance {1}
+itemSpeed=Vitesse {0}
+itemInitialEnergy=Énergie initiale {0}
+itemInitialCurrency=Or et éclats initiaux {0}
 itemCharges={0} charges {1}
-itemEnergyRegeneration={0} regeneration {1}
-itemAllDamages=All damage {0}
-itemSingleDamage={0} {1} damage  /// +1 damage
-itemXDamages={0} damage {1}
-itemHealDone=heal done {0}
-itemCombatStart=Combat start
-itemCombatEnd=Combat end
-itemFirstTurn=First turn
-itemEachTurn=Each turn
-itemOncePerTurn=1 time/turn
-itemTwicePerTurn=2 times/turn
-itemThricePerTurn=3 times/turn
-itemFourPerTurn=4 times/turn
-itemFivePerTurn=5 times/turn
-itemDamageDone=Damage with hit
-itemWhenDamaged=Damaged by others//When damaged
-itemWhenDamagedBelow=Damaged by others <{0}
-itemWhenHitted=When hit
-itemWhenHealed=When healed
-itemWhenEvaded=When evaded
-itemWhenEvade=When you evade
-itemWhenBlock=When you block
-itemHealDoneAction=When you heal a hero
-itemWhenHandEmpty=If you play a  <sprite name=card>that leaves your hand empty
-itemChanceToDispel={0} chance to: <br> dispel {1}
-itemEveryRound=Every turn
-itemEveryNRounds=Every {0} turns
-itemForEveryCharge=For every {0} charge you apply, /// "haste"
-itemApplyEnemies=Apply {0} to all monsters/// "haste"
-itemApplyHeroesFromMonster=Apply {0} to all heroes/// "haste"
-itemApplyHeroes=All heroes gain {0}/// "haste"
-itemApplyRandomHero=A random hero gains {0}/// "haste"
-itemApplyRandomEnemy=Apply {0} to a random monster/// "haste"
-itemApplyHighestFlatHpEnemy=Apply {0} to highest HP monster/// "haste"
-itemApplyLowestFlatHpEnemy=Apply {0} to lowest HP monster/// "haste"
-itemApplyHighestFlatHpHero=Apply {0} to highest HP hero/// "haste"
-itemApplyLowestFlatHpHero=Apply {0} to lowest HP hero/// "haste"
-itemApplyForEvery=For every {0} charge you apply, apply {1}/// "haste"
-itemApplyForEnergyUsed=For every {0} used:
-itemWhenYouPlay=When you play a {0}/// "Cold spell"
-itemWhenYouApply=When you apply {0}/// "Cold spell"
-itemCustomTextMaxChargesIncrasedYouApply={0} you apply has {1} Max. charges
-itemCustomTextMaxChargesIncrasedOnHeroes={0} on heroes have {1} Max. charges
-itemCustomTextMaxChargesIncrasedOnEnemies={0} on monsters have {1} Max. charges
-itemCustomTextExplodeChargesMonsters={0}charges on monsters explode at {1}
-itemCustomTextAllResistHealingReceived={0} on heroes give +{1}% all resist and +{2}% healing received per charge
-itemTheNext=The next {0}
-itemWhenKilled=When you die
-itemDestroyStartTurn=Lasts one turn
-itemLastUse=Lasts 1 use
-itemLastUses=Lasts {0} uses
-itemOncePerCombat=Once per combat
-itemTheNext=The next {0}{1}
-itemRecoverSelf=recover {0} HP
-itemRecoverLowestHPMonster=lowest HP monster recovers {0} HP
-itemRecoverHeroes=All heroes recover {0} HP/// All heroes gain "haste"
-itemReduce=Reduce the cost of {0} random {1} in your hand by {2}/// reduce the cost of 1 random "Song" in your hand by 1
-itemReduceTurn=Reduce the cost of {0} random {1} in your hand by {2} until discarded/// reduce the cost of 1 random "Song" in your hand by 1 this turn
-itemReduceHighestTurn=Reduce the cost of the {0}highest cost {1} in your hand by {2} until discarded/// reduce the cost of 1 random "Song" in your hand by 1 this turn
-itemReduceHighestPermanent=Reduce the cost of the {0}highest cost {1} in your hand by {2}
-itemDiscount={0} extra discount in the Magic forge, altars and item shops
-itemDieRetain=When you die, retain an additional {0} gold and shards
-itemResurrectHP=resurrect with {0} HP
-customSOR=When you die, resurrect with 50% of your HP and destroy Scroll of Resurrection
-customSORRare=When you die, resurrect with 100% of your HP and destroy Scroll of Resurrection
-customBurnedI=-If you play with fire, you're gonna get burned-
-customBrokenI=-Haste makes waste-
-customVoidMemory=-You only remember that you have forgotten something-
-customLowSelf=-A shameful reminder that something didn't go as planned-
-customSuccess=-Against all odds, you have challenged fate and won-
+itemEnergyRegeneration={0} régénération {1}
+itemAllDamages=Tous les dégâts {0}
+itemSingleDamage={0} {1} dégât  /// +1 dégât
+itemXDamages={0} dégât {1}
+itemHealDone=soin effectué {0}
+itemCombatStart=Début du combat
+itemCombatEnd=Fin du combat
+itemFirstTurn=Premier tour
+itemEachTurn=Chaque tour
+itemOncePerTurn=1 fois/tour
+itemTwicePerTurn=2 fois/tour
+itemThricePerTurn=3 3 fois/tour
+itemFourPerTurn=4 fois/tour
+itemFivePerTurn=5 fois/tour
+itemDamageDone=Dégâts infligés
+itemWhenDamaged=Blessé par les autres//Lorsque blessé
+itemWhenDamagedBelow=Blessé par les autres <{0}
+itemWhenHitted=Quand vous êtes touché
+itemWhenHealed=Quand vous êtes soigné
+itemWhenEvaded=Quand vous avez esquivé
+itemWhenEvade=Quand vous esquivez
+itemWhenBlock=Quand vous bloquez
+itemHealDoneAction=Quand vous soignez un héros
+itemWhenHandEmpty=Si vous jouez une  <sprite name=card>qui vide votre main
+itemChanceToDispel={0} chance de: <br> dissiper {1}
+itemEveryRound=Chaque tour
+itemEveryNRounds=Tous les {0} tours
+itemForEveryCharge=Pour chaque {0} charge que vous appliquez, /// "hâte"
+itemApplyEnemies=Appliquer {0} à tous les monstres/// "hâte"
+itemApplyHeroesFromMonster=Appliquer {0} à tous les héros/// "hâte"
+itemApplyHeroes=Tous les héros gagnent {0}/// "hâte"
+itemApplyRandomHero=Un héros aléatoire gagne {0}/// "hâte"
+itemApplyRandomEnemy=Appliquer {0} à un monstre aléatoire/// "hâte"
+itemApplyHighestFlatHpEnemy=Appliquer {0} au monstre avec le plus de PV/// "hâte"
+itemApplyLowestFlatHpEnemy=Appliquer {0} au monstre avec le moins de PV/// "hâte"
+itemApplyHighestFlatHpHero=Appliquer {0} au héros avec le plus de PV/// "hâte"
+itemApplyLowestFlatHpHero=Appliquer {0} au héros avec le moins de PV/// "hâte"
+itemApplyForEvery=Pour chaque {0} charge que vous appliquez, appliquez {1}/// "hâte"
+itemApplyForEnergyUsed=Pour chaque {0} utilisé:
+itemWhenYouPlay=Lorsque vous jouez un {0}/// "Cold spell"
+itemWhenYouApply=Lorsque vous appliquez {0}/// "Cold spell"
+itemCustomTextMaxChargesIncrasedYouApply={0} que vous appliquez a {1} charges max.
+itemCustomTextMaxChargesIncrasedOnHeroes={0} sur les héros ont {1} charges max.
+itemCustomTextMaxChargesIncrasedOnEnemies={0} sur les monstres ont {1} charges max.
+itemCustomTextExplodeChargesMonsters={0} charges sur les monstres explosent à {1}
+itemCustomTextAllResistHealingReceived={0} sur les héros donne +{1}% de toutes les résistances et +{2}% de soins reçus par charge
+itemTheNext=Le prochain {0}
+itemWhenKilled=Lorsque vous mourez
+itemDestroyStartTurn=Dure un tour
+itemLastUse=Dure 1 utilisation
+itemLastUses=Dure {0} utilisations
+itemOncePerCombat=Une fois par combat
+itemTheNext=Le prochain {0}{1}
+itemRecoverSelf=récupérer {0} PV
+itemRecoverLowestHPMonster=le monstre avec le moins de PV récupère {0} PV
+itemRecoverHeroes=Tous les héros récupèrent {0} PV/// Tous les héros gagnent "hâte"
+itemReduce=Réduit le coût de {0} aléatoire {1} dans votre main de {2}/// réduit le coût de 1 "Chanson" aléatoire dans votre main de 1
+itemReduceTurn=Réduit le coût de {0} aléatoire {1} dans votre main de {2} jusqu'à défausse/// réduit le coût de 1 "Chanson" aléatoire dans votre main de 1 ce tour
+itemReduceHighestTurn=Réduit le coût des {0}les plus chers {1} dans votre main de {2} jusqu'à défausse/// réduit le coût de 1 "Chanson" aléatoire dans votre main de 1 ce tour
+itemReduceHighestPermanent=Réduit le coût des {0}les plus chers {1} dans votre main de {2} de manière permanente
+itemDiscount={0} de réduction supplémentaire dans la forge magique, les autels et les boutiques d'objets
+itemDieRetain=Lorsque vous mourez, conservez {0} pièces d'or et éclats supplémentaires
+itemResurrectHP=Ressuscitez avec {0} PV
+customSOR=Lorsque vous mourez, ressuscitez avec 50% de vos PV et détruisez le Parchemin de Résurrection
+customSORRare=Lorsque vous mourez, ressuscitez avec 100% de vos PV et détruisez le Parchemin de Résurrection
+customBurnedI=-Si vous jouez avec le feu, vous finirez par vous brûler-
+customBrokenI=-La précipitation est source d'erreur-
+customVoidMemory=-Vous vous souvenez seulement d'avoir oublié quelque chose-
+customLowSelf=-Un rappel honteux que quelque chose ne s'est pas passé comme prévu-
+customSuccess=-Contre toute attente, vous avez défié le destin et gagné-
 customTombstone=-R.I.P.-
 
-customSurpriseBox=<size=-.2><color=#3A3A3A>[Combat start]</color><br></size>Gain one of these:<br><bl>2</bl><i=fast>, <bl>2</bl><i=powerful>, <bl>2</bl><i=bless>,<br><rd>2</rd><i=slow>, <rd>2</rd><i=vulnerable>, <rd>2</rd><i=mark>
-customSurpriseBoxRare=<size=-.2><color=#3A3A3A>[Combat start]</color><br></size>Gain one of these:<br><bl>4</bl><i=fast>, <bl>4</bl><i=powerful>, <bl>4</bl><i=bless>,<br><rd>4</rd><i=slow>, <rd>4</rd><i=vulnerable>, <rd>4</rd><i=mark>
+customSurpriseBox=<size=-.2><color=#3A3A3A>[Début du combat]</color><br></size>Obtenez l'un de ces choix:<br><bl>2</bl><i=fast>, <bl>2</bl><i=powerful>, <bl>2</bl><i=bless>,<br><rd>2</rd><i=slow>, <rd>2</rd><i=vulnerable>, <rd>2</rd><i=mark>
+customSurpriseBoxRare=<size=-.2><color=#3A3A3A>[Début du combat]</color><br></size>Obtenez l'un de ces choix:<br><bl>4</bl><i=fast>, <bl>4</bl><i=powerful>, <bl>4</bl><i=bénédiction>,<br><rd>4</rd><i=slow>, <rd>4</rd><i=vulnerable>, <rd>4</rd><i=mark>
 
-customSurpriseGiftBox=<size=-.2><color=#3A3A3A>[Combat start]</color><br></size>All heroes gain one of these:<br><bl>2</bl><i=fast>, <bl>2</bl><i=powerful>, <bl>2</bl><i=bless>,<br><rd>2</rd><i=slow>, <rd>2</rd><i=vulnerable>, <rd>2</rd><i=mark>
-customSurpriseGiftBoxRare=<size=-.2><color=#3A3A3A>[Combat start]</color><br></size>All heroes gain one of these:<br><bl>4</bl><i=fast>, <bl>4</bl><i=powerful>, <bl>4</bl><i=bless>,<br><rd>4</rd><i=slow>, <rd>4</rd><i=vulnerable>, <rd>4</rd><i=mark>
+customSurpriseGiftBox=<size=-.2><color=#3A3A3A>[Début du combat]</color><br></size>Tous les héros obtiennent l'un de ces choix:<br><bl>2</bl><i=fast>, <bl>2</bl><i=powerful>, <bl>2</bl><i=bless>,<br><rd>2</rd><i=slow>, <rd>2</rd><i=vulnerable>, <rd>2</rd><i=mark>
+customSurpriseGiftBoxRare=<size=-.2><color=#3A3A3A>[Début du combat]</color><br></size>Tous les héros obtiennent l'un de ces choix:<br><bl>4</bl><i=fast>, <bl>4</bl><i=puissant>, <bl>4</bl><i=bless>,<br><rd>4</rd><i=slow>, <rd>4</rd><i=vulnerable>, <rd>4</rd><i=mark>
 
-customBurningBlood=Transform<i=bleed>into<i=burn><br>Gain <bl>X</bl><i=fury><br><size=-.15><gl>(X equals your<i=bleed>x0.3)</gl></size>
-customBurningBloodA=Transform<i=bleed>into<i=burn><br>Grant <bl>X</bl><i=fury><br><size=-.15><gl>(X equals target<i=bleed>x0.5)</gl></size>
-customBurningBloodB=Transform<i=bleed>into<i=burn>x0.5<br>Gain <bl>X</bl><i=fury><br><size=-.15><gl>(X equals your<i=bleed>x0.5)</gl></size>
-customBurningBloodRare=Transform<i=bleed>into<i=burn>x0.5<br>Gain <bl>X</bl><i=fury><br><size=-.15><gl>(X equals your<i=bleed>)</gl></size>
+customBurningBlood=Transformez<i=bleed>into<i=burn><br>Obtenez <bl>X</bl><i=fury><br><size=-.15><gl>(X équivaut à votre<i=bleed>x0.3)</gl></size>
+customBurningBloodA=Transformez<i=bleed>into<i=burn><br>Accordez <bl>X</bl><i=fury><br><size=-.15><gl>(X équivaut au<i=bleed>x0.5) de la cible</gl></size>
+customBurningBloodB=Transformez<i=bleed>into<i=burn>x0.5<br>Obtenez <bl>X</bl><i=fury><br><size=-.15><gl>(X équivaut à votre<i=bleed>x0.5)</gl></size>
+customBurningBloodRare=Transformez<i=bleed>into<i=burn>x0.5<br>Obtenez <bl>X</bl><i=fury><br><size=-.15><gl>(X équivaut à votre<i=bleed>)</gl></size>
 
-customArmagedon=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br>Immune to <i=burn><i=crack><br><gl>-Every round-</gl><br>Add <crd=meteorite,1> to all monsters.
-customArmagedonA=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br>Immune to <i=burn><i=crack><br><gl>-Every round-</gl><br>Add <crd=meteorite,1> to all monsters.
-customArmagedonB=<gl>All monsters gain:</gl><br>All damage <bl>+3</bl><br>Immune to <i=burn><i=crack><br><gl>-Every round-</gl><br>Add <crd=meteorite,1> to all monsters.
-customArmagedonRare=<gl>All monsters gain:</gl><br>All damage <bl>+4</bl><br>Immune to <i=burn><i=crack><br><gl>-Every round-</gl><br>Add <crd=meteorite,1> to all monsters.
+customArmagedon=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Immunité à <i=burn><i=crack><br><gl>-À chaque tour-</gl><br>Ajouter <crd=meteorite,1> à tous les monstres.
+customArmagedonA=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Immunité à <i=burn><i=crack><br><gl>-À chaque tour-</gl><br>Ajouter <crd=meteorite,1> à tous les monstres.
+customArmagedonB=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+3</bl><br>Immunité à <i=burn><i=crack><br><gl>-À chaque tour-</gl><br>Ajouter <crd=meteorite,1> à tous les monstres.
+customArmagedonRare=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+4</bl><br>Immunité à <i=burn><i=crack><br><gl>-À chaque tour-</gl><br>Ajouter <crd=meteorite,1> à tous les monstres.
 
-customThunderstorm=<gl>All monsters gain:</gl><br>All damage <bl>+1</bl><br><i=lightning> resistance <bl>+15%</bl><br><gl>-Every round-</gl><br>Add <crd=storm,1> to a random monster.
-customThunderstormA=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br><i=lightning> resistance <bl>+20%</bl><br><gl>-Every round-</gl><br>Add <crd=storm,1> to a random monster.
-customThunderstormB=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br><i=lightning> resistance <bl>+25%</bl><br><gl>-Every round-</gl><br>Add <crd=storm,1> to a random monster.
-customThunderstormRare=<gl>All monsters gain:</gl><br>All damage <bl>+3</bl><br><i=lightning> resistance <bl>+30%</bl><br><gl>-Every round-</gl><br>Add <crd=storm,1> to a random monster.
+customThunderstorm=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+1</bl><br><i=lightning> résistance  <bl>+15%</bl><br><gl>-Chaque tour-</gl><br>Ajouter <crd=storm,1> à un monstre aléatoire.
+customThunderstormA=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br><i=lightning> résistance  <bl>+20%</bl><br><gl>-Chaque tour-</gl><br>Ajouter <crd=storm,1> à un monstre aléatoire.
+customThunderstormB=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br><i=lightning> résistance  <bl>+25%</bl><br><gl>-Chaque tour-</gl><br>Ajouter <crd=storm,1> à un monstre aléatoire.
+customThunderstormRare=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+3</bl><br><i=lightning> résistance  <bl>+30%</bl><br><gl>-Chaque tour-</gl><br>Ajouter <crd=storm,1> à un monstre aléatoire.
 
-customWindsofAmnesia=<gl>All monsters gain:</gl><br>Max HP <bl>+15</bl><br><gl>-Every round-</gl><br>Add <crd=tabularasa,1> to a random monster.</color>
-customWindsofAmnesiaA=<gl>All monsters gain:</gl><br>Max HP <bl>+25</bl><br><gl>-Every round-</gl><br>Add <crd=tabularasa,1> to a random monster.</color>
-customWindsofAmnesiaB=<gl>All monsters gain:</gl><br>Max HP <bl>+35</bl><br><gl>-Every round-</gl><br>Add <crd=tabularasa,1> to a random monster.</color>
-customWindsofAmnesiaRare=<gl>All monsters gain:</gl><br>Max HP <bl>+45</bl><br><gl>-Every round-</gl><br>Add <crd=tabularasa,1> to a random monster.</color>
+customWindsofAmnesia=<gl>Tous les monstres gagnent:</gl><br>PV max <bl>+15</bl><br><gl>-Chaque tour-</gl><br>Ajouter <crd=tabularasa,1>  à un monstre aléatoire.</color>
+customWindsofAmnesiaA=<gl>Tous les monstres gagnent:</gl><br>PV max <bl>+25</bl><br><gl>-Chaque tour-</gl><br>Ajouter <crd=tabularasa,1>  à un monstre aléatoire.</color>
+customWindsofAmnesiaB=<gl>Tous les monstres gagnent:</gl><br>PV max <bl>+35</bl><br><gl>-Chaque tour-</gl><br>Ajouter <crd=tabularasa,1>  à un monstre aléatoire.</color>
+customWindsofAmnesiaRare=<gl>Tous les monstres gagnent:</gl><br>PV max <bl>+45</bl><br><gl>-Chaque tour-</gl><br>Ajouter <crd=tabularasa,1>  à un monstre aléatoire.</color>
 
-customNoxiousParasites=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br>Immune to <i=poison><br><gl>-Every round-</gl><br>Shuffle <crd=hatchcorrupt,1> into each hero deck.
-customNoxiousParasitesA=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br>Immune to <i=poison><br><gl>-Every round-</gl><br>Shuffle <crd=hatchcorrupt,1> into each hero deck.
-customNoxiousParasitesB=<gl>All monsters gain:</gl><br>All damage <bl>+3</bl><br>Immune to <i=poison><br><gl>-Every round-</gl><br>Shuffle <crd=hatchcorrupt,1> into each hero deck.
-customNoxiousParasitesRare=<gl>All monsters gain:</gl><br>All damage <bl>+4</bl><br>Immune to <i=poison><br><gl>-Every round-</gl><br>Shuffle <crd=hatchcorrupt,1> into each hero deck.
+customNoxiousParasites=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Immunité au <i=poison><br><gl>-Chaque tour-</gl><br>Mélanger <crd=hatchcorrupt,1> dans le deck de chaque héros.
+customNoxiousParasitesA=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Immunité au <i=poison><br><gl>-Chaque tour-</gl><br>Mélanger <crd=hatchcorrupt,1> dans le deck de chaque héros.
+customNoxiousParasitesB=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+3</bl><br>Immunité au <i=poison><br><gl>-Chaque tour-</gl><br>Mélanger <crd=hatchcorrupt,1> dans le deck de chaque héros.
+customNoxiousParasitesRare=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+4</bl><br>Immunité au <i=poison><br><gl>-Chaque tour-</gl><br>Mélanger <crd=hatchcorrupt,1> dans le deck de chaque héros.
 
-customMelancholy=<gl>All monsters gain:</gl><br>Max HP <bl>+15</bl><br>All resistances <bl>+10%</bl><br>Immune to <i=insane><br><gl>-Every round-</gl><br>Shuffle <crd=sad,2> into each hero deck.</color>
-customMelancholyA=<gl>All monsters gain:</gl><br>Max HP <bl>+25</bl><br>All resistances <bl>+15%</bl><br>Immune to <i=insane><br><gl>-Every round-</gl><br>Shuffle <crd=sad,2> into each hero deck.</color>
-customMelancholyB=<gl>All monsters gain:</gl><br>Max HP <bl>+35</bl><br>All resistances <bl>+20%</bl><br>Immune to <i=insane><br><gl>-Every round-</gl><br>Shuffle <crd=sad,2> into each hero deck.</color>
-customMelancholyRare=<gl>All monsters gain:</gl><br>Max HP <bl>+45</bl><br>All resistances <bl>+25%</bl><br>Immune to <i=insane><br><gl>-Every round-</gl><br>Shuffle <crd=sad,2> into each hero deck.</color>
+customMelancholy=<gl>Tous les monstres gagnent:</gl><br>PV max <bl>+15</bl><br>Toutes les résistances <bl>+10%</bl><br>Immunité à <i=insane><br><gl>-Chaque tour-</gl><br>Mélanger <crd=sad,2> dans le deck de chaque héros.</color>
+customMelancholyA=<gl>Tous les monstres gagnent:</gl><br>PV max <bl>+25</bl><br>Toutes les résistances <bl>+15%</bl><br>Immunité à <i=insane><br><gl>-Chaque tour-</gl><br>Mélanger <crd=sad,2> dans le deck de chaque héros.</color>
+customMelancholyB=<gl>Tous les monstres gagnent:</gl><br>PV max <bl>+35</bl><br>Toutes les résistances <bl>+20%</bl><br>Immunité à <i=insane><br><gl>-Chaque tour-</gl><br>Mélanger <crd=sad,2> dans le deck de chaque héros.</color>
+customMelancholyRare=<gl>Tous les monstres gagnent:</gl><br>PV max <bl>+45</bl><br>Toutes les résistances <bl>+25%</bl><br>Immunité à <i=insane><br><gl>-Chaque tour-</gl><br>Mélanger <crd=sad,2> dans le deck de chaque héros.</color>
 
-customFungalOutbreak=<gl>All monsters gain:</gl><br>All damage <bl>+1</bl><br><i=mind> resistance <bl>+15%</bl><br><gl>-Every round-</gl><br>Place <crd=magicmushroom,1> at the top of a random hero's deck.
-customFungalOutbreakA=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br><i=mind> resistance <bl>+20%</bl><br><gl>-Every round-</gl><br>Place <crd=magicmushroom,1> at the top of a random hero's deck.
-customFungalOutbreakB=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br><i=mind> resistance <bl>+25%</bl><br><gl>-Every round-</gl><br>Place <crd=magicmushroom,1> at the top of a random hero's deck.
-customFungalOutbreakRare=<gl>All monsters gain:</gl><br>All damage <bl>+3</bl><br><i=mind> resistance <bl>+30%</bl><br><gl>-Every round-</gl><br>Place <crd=magicmushroom,1> at the top of a random hero's deck.
+customFungalOutbreak=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+1</bl><br><i=mind> résistance <bl>+15%</bl><br><gl>-Chaque tour-</gl><br>Placer <crd=magicmushroom,1> au sommet du deck d'un héros aléatoire.
+customFungalOutbreakA=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br><i=mind> résistance <bl>+20%</bl><br><gl>-Chaque tour-</gl><br>Placer <crd=magicmushroom,1> au sommet du deck d'un héros aléatoire.
+customFungalOutbreakB=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br><i=mind> résistance <bl>+25%</bl><br><gl>-Chaque tour-</gl><br>Placer <crd=magicmushroom,1> au sommet du deck d'un héros aléatoire.
+customFungalOutbreakRare=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+3</bl><br><i=mind> résistance <bl>+30%</bl><br><gl>-Chaque tour-</gl><br>Placer <crd=magicmushroom,1> au sommet du deck d'un héros aléatoire.
 
-customEmpower=<gl>All monsters gain:</gl><br>All damage <bl>+1</bl><br><gl>-Every round-</gl><br>Gain <bl>3</bl><i=powerful>
-customEmpowerA=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br><gl>-Every round-</gl><br>Gain <bl>3</bl><i=powerful>
-customEmpowerB=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br><gl>-Every round-</gl><br>Gain <bl>4</bl><i=powerful>
-customEmpowerRare=<gl>All monsters gain:</gl><br>All damage <bl>+3</bl><br><gl>-Every round-</gl><br>Gain <bl>4</bl><i=powerful>
+customEmpower=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+1</bl><br><gl>-Chaque tour-</gl><br>Gagne <bl>3</bl><i=powerful>
+customEmpowerA=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br><gl>-Chaque tour-</gl><br>Gagne <bl>3</bl><i=powerful>
+customEmpowerB=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br><gl>-Chaque tour-</gl><br>Gagne <bl>4</bl><i=powerful>
+customEmpowerRare=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+3</bl><br><gl>-Chaque tour-</gl><br>Gagne <bl>4</bl><i=powerful>
 
-customPoisonFields=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br>Immune to <i=poison><br><gl>-Every round-</gl><br>All heroes suffer <rd>3<rd><i=poison>
-customPoisonFieldsA=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br>Immune to <i=poison><br><gl>-Every round-</gl><br>All heroes suffer <rd>5<rd><i=poison>
-customPoisonFieldsB=<gl>All monsters gain:</gl><br>All damage <bl>+3</bl><br>Immune to <i=poison><br><gl>-Every round-</gl><br>All heroes suffer <rd>7<rd><i=poison>
-customPoisonFieldsRare=<gl>All monsters gain:</gl><br>All damage <bl>+4</bl><br>Immune to <i=poison><br><gl>-Every round-</gl><br>All heroes suffer <rd>9<rd><i=poison>
+customPoisonFields=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Immunité au <i=poison><br><gl>-Chaque tour-</gl><br>Tous les héros subissent <rd>3<rd><i=poison>
+customPoisonFieldsA=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Immunité au <i=poison><br><gl>-Chaque tour-</gl><br>Tous les héros subissent <rd>5<rd><i=poison>
+customPoisonFieldsB=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+3</bl><br>Immunité au <i=poison><br><gl>-Chaque tour-</gl><br>Tous les héros subissent <rd>7<rd><i=poison>
+customPoisonFieldsRare=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+4</bl><br>Immunité au <i=poison><br><gl>-Chaque tour-</gl><br>Tous les héros subissent <rd>9<rd><i=poison>
 
-customPacifism=<gl>All monsters gain:</gl><br><i=slashing><i=blunt><i=piercing><br>Resistances <bl>+15%</bl><br><gl>-Every two rounds-</gl><br>All heroes suffer <rd>1</rd><i=disarm></size>
-customPacifismA=<gl>All monsters gain:</gl><br><i=slashing><i=blunt><i=piercing><br>Resistances <bl>+20%</bl><br><gl>-Every two rounds-</gl><br>All heroes suffer <rd>1</rd><i=disarm></size>
-customPacifismB=<gl>All monsters gain:</gl><br><i=slashing><i=blunt><i=piercing><br>Resistances <bl>+25%</bl><br><gl>-Every two rounds-</gl><br>All heroes suffer <rd>1</rd><i=disarm></size>
-customPacifismRare=<gl>All monsters gain:</gl><br><i=slashing><i=blunt><i=piercing><br>Resistances <bl>+30%</bl><br><gl>-Every two rounds-</gl><br>All heroes suffer <rd>1</rd><i=disarm></size>
+customPacifism=<gl>Tous les monstres gagnent:</gl><br>Résistances à <i=slashing><i=blunt><i=piercing><br><bl>+15%</bl><br><gl>-Tous les deux tours-</gl><br>Tous les héros subissent <rd>1</rd><i=disarm></size>
+customPacifismA=<gl>Tous les monstres gagnent:</gl><br>Résistances à <i=slashing><i=blunt><i=piercing><br><bl>+20%</bl><br><gl>-Tous les deux tours-</gl><br>Tous les héros subissent <rd>1</rd><i=disarm></size>
+customPacifismB=<gl>Tous les monstres gagnent:</gl><br>Résistances à <i=slashing><i=blunt><i=piercing><br><bl>+25%</bl><br><gl>-Tous les deux tours-</gl><br>Tous les héros subissent <rd>1</rd><i=disarm></size>
+customPacifismRare=<gl>Tous les monstres gagnent:</gl><br>Résistances à <i=slashing><i=blunt><i=piercing><br><bl>+30%</bl><br><gl>-Tous les deux tours-</gl><br>Tous les héros subissent <rd>1</rd><i=disarm></size>
 
-customIronclad=<gl>All monsters gain:</gl><br>All resistances <bl>+10%</bl><br><gl>-Combat start-</gl><br>Gain<br><bl>14</bl><i=block> <bl>2</bl><i=reinforce>
-customIroncladA=<gl>All monsters gain:</gl><br>All resistances <bl>+15%</bl><br><gl>-Combat start-</gl><br>Gain<br><bl>20</bl><i=block> <bl>3</bl><i=reinforce>
-customIroncladB=<gl>All monsters gain:</gl><br>All resistances <bl>+20%</bl><br><gl>-Combat start-</gl><br>Gain<br><bl>26</bl><i=block> <bl>3</bl><i=reinforce>
-customIroncladRare=<gl>All monsters gain:</gl><br>All resistances <bl>+25%</bl><br><gl>-Combat start-</gl><br>Gain<br><bl>32</bl><i=block> <bl>4</bl><i=reinforce>
+customIronclad=<gl>Tous les monstres gagnent:</gl><br>Toutes les résistances <bl>+10%</bl><br><gl>-Début du combat-</gl><br>Gagne<br><bl>14</bl><i=block> <bl>2</bl><i=reinforce>
+customIroncladA=<gl>Tous les monstres gagnent:</gl><br>Toutes les résistances <bl>+15%</bl><br><gl>-Début du combat-</gl><br>Gagne<br><bl>20</bl><i=block> <bl>3</bl><i=reinforce>
+customIroncladB=<gl>Tous les monstres gagnent:</gl><br>Toutes les résistances <bl>+20%</bl><br><gl>-Début du combat-</gl><br>Gagne<br><bl>26</bl><i=block> <bl>3</bl><i=reinforce>
+customIroncladRare=<gl>Tous les monstres gagnent:</gl><br>Toutes les résistances <bl>+25%</bl><br><gl>-Début du combat-</gl><br>Gagne<br><bl>32</bl><i=block> <bl>4</bl><i=reinforce>
 
-customVigorous=<gl>All monsters gain:</gl><br>Max HP <bl>+30</bl><br>All damage <bl>+1</bl>
-customVigorousA=<gl>All monsters gain:</gl><br>Max HP <bl>+45</bl><br>All damage <bl>+1</bl>
-customVigorousB=<gl>All monsters gain:</gl><br>Max HP <bl>+60</bl><br>All damage <bl>+2</bl>
-customVigorousRare=<gl>All monsters gain:</gl><br>Max HP <bl>+75</bl><br>All damage <bl>+2</bl>
+customVigorous=<gl>Tous les monstres gagnent:</gl><br>PV max <bl>+30</bl><br>Tous les dégâts <bl>+1</bl>
+customVigorousA=<gl>Tous les monstres gagnent:</gl><br>PV max <bl>+45</bl><br>Tous les dégâts <bl>+1</bl>
+customVigorousB=<gl>Tous les monstres gagnent:</gl><br>PV max <bl>+60</bl><br>Tous les dégâts <bl>+2</bl>
+customVigorousRare=<gl>Tous les monstres gagnent:</gl><br>PV max <bl>+75</bl><br>Tous les dégâts <bl>+2</bl>
 
-customUpwind=<gl>All monsters gain:</gl><br>Speed <bl>+3</bl><br>All resistances <bl>+5%</bl><br><gl>-Combat start-</gl><br>All heroes suffer <bl>2</bl><i=slow>
-customUpwindA=<gl>All monsters gain:</gl><br>Speed <bl>+3</bl><br>All resistances <bl>+10%</bl><br><gl>-Combat start-</gl><br>All heroes suffer <bl>3</bl><i=slow>
-customUpwindB=<gl>All monsters gain:</gl><br>Speed <bl>+4</bl><br>All resistances <bl>+15%</bl><br><gl>-Combat start-</gl><br>All heroes suffer <bl>3</bl><i=slow>
-customUpwindRare=<gl>All monsters gain:</gl><br>Speed <bl>+5</bl><br>All resistances <bl>+20%</bl><br><gl>-Combat start-</gl><br>All heroes suffer <bl>4</bl><i=slow>
+customUpwind=<gl>Tous les monstres gagnent:</gl><br>Vitesse <bl>+3</bl><br>Toutes les résistances <bl>+5%</bl><br><gl>-Début du combat-</gl><br>Tous les héros subissent <bl>2</bl><i=ralentissement>
+customUpwindA=<gl>Tous les monstres gagnent:</gl><br>Vitesse <bl>+3</bl><br>Toutes les résistances <bl>+10%</bl><br><gl>-Début du combat-</gl><br>Tous les héros subissent <bl>3</bl><i=ralentissement>
+customUpwindB=<gl>Tous les monstres gagnent:</gl><br>Vitesse <bl>+4</bl><br>Toutes les résistances <bl>+15%</bl><br><gl>-Début du combat-</gl><br>Tous les héros subissent <bl>3</bl><i=ralentissement>
+customUpwindRare=<gl>Tous les monstres gagnent:</gl><br>Vitesse <bl>+5</bl><br>Toutes les résistances <bl>+20%</bl><br><gl>-Début du combat-</gl><br>Tous les héros subissent <bl>4</bl><i=ralentissement>
 
-customSacredGround=<gl>All monsters gain:</gl><br>All damage <bl>+1</bl><br><i=holy> resistance <bl>+15%</bl><br><gl>-Combat start-</gl><br>All heroes suffer <bl>7</bl><i=sanctify>
-customSacredGroundA=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br><i=holy> resistance <bl>+20%</bl><br><gl>-Combat start-</gl><br>All heroes suffer <bl>11</bl><i=sanctify>
-customSacredGroundB=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br><i=holy> resistance <bl>+25%</bl><br><gl>-Combat start-</gl><br>All heroes suffer <bl>15</bl><i=sanctify>
-customSacredGroundRare=<gl>All monsters gain:</gl><br>All damage <bl>+3</bl><br><i=holy> resistance <bl>+30%</bl><br><gl>-Combat start-</gl><br>All heroes suffer <bl>19</bl><i=sanctify>
+customSacredGround=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+1</bl><br>Résistance <i=sacré> <bl>+15%</bl><br><gl>-Début du combat-</gl><br>Tous les héros subissent <bl>7</bl><i=sanctification>
+customSacredGroundA=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Résistance <i=sacré> <bl>+20%</bl><br><gl>-Début du combat-</gl><br>Tous les héros subissent <bl>11</bl><i=sanctification>
+customSacredGroundB=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Résistance <i=sacré> <bl>+25%</bl><br><gl>-Début du combat-</gl><br>Tous les héros subissent <bl>15</bl><i=sanctification>
+customSacredGroundRare=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+3</bl><br>Résistance <i=sacré> <bl>+30%</bl><br><gl>-Début du combat-</gl><br>Tous les héros subissent <bl>19</bl><i=sanctification>
 
-customHypotermia=<gl>All monsters gain:</gl><br>All damage <bl>+1</bl><br><i=cold> resistance <bl>+15%</bl><br><gl>When a hero plays a card,</gl> suffers <rd>2</rd><i=chill>
-customHypotermiaA=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br><i=cold> resistance <bl>+20%</bl><br><gl>When a hero plays a card,</gl> suffers <rd>3</rd><i=chill>
-customHypotermiaB=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br><i=cold> resistance <bl>+25%</bl><br><gl>When a hero plays a card,</gl> suffers <rd>4</rd><i=chill>
-customHypotermiaRare=<gl>All monsters gain:</gl><br>All damage <bl>+3</bl><br><i=cold> resistance <bl>+30%</bl><br><gl>When a hero plays a card,</gl> suffers <rd>5</rd><i=chill>
+customHypotermia=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+1</bl><br>Résistance <i=froid> <bl>+15%</bl><br><gl>Quand un héros joue une carte,</gl> subit <rd>2</rd><i=gel>
+customHypotermiaA=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Résistance <i=froid> <bl>+20%</bl><br><gl>Quand un héros joue une carte,</gl> subit <rd>3</rd><i=gel>
+customHypotermiaB=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Résistance <i=froid> <bl>+25%</bl><br><gl>Quand un héros joue une carte,</gl> subit <rd>4</rd><i=gel>
+customHypotermiaRare=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+3</bl><br>Résistance <i=froid> <bl>+30%</bl><br><gl>Quand un héros joue une carte,</gl> subit <rd>5</rd><i=gel>
 
-customBacklash=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br>All resistances <bl>+5%</bl><br><gl>When a hero plays a "Spell",</gl> suffers <rd>3</rd><i=dark> <rd>2</rd><i=insane>
-customBacklashA=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br>All resistances <bl>+10%</bl><br><gl>When a hero plays a "Spell",</gl> suffers <rd>4</rd><i=dark> <rd>2</rd><i=insane>
-customBacklashB=<gl>All monsters gain:</gl><br>All damage <bl>+3</bl><br>All resistances <bl>+15%</bl><br><gl>When a hero plays a "Spell",</gl> suffers <rd>4</rd><i=dark> <rd>3</rd><i=insane>
-customBacklashRare=<gl>All monsters gain:</gl><br>All damage <bl>+4</bl><br>All resistances <bl>+20%</bl><br><gl>When a hero plays a "Spell",</gl> suffers <rd>5</rd><i=dark> <rd>3</rd><i=insane>
+customBacklash=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Toutes les résistances <bl>+5%</bl><br><gl>When a hero plays a "Spell",</gl> subit <rd>3</rd><i=obscurité> <rd>2</rd><i=folie>
+customBacklashA=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Toutes les résistances <bl>+10%</bl><br><gl>Quand un héros joue un "Sort",</gl> subit <rd>4</rd><i=obscurité> <rd>2</rd><i=folie>
+customBacklashB=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+3</bl><br>Toutes les résistances <bl>+15%</bl><br><gl>Quand un héros joue un "Sort",</gl> subit <rd>4</rd><i=obscurité> <rd>3</rd><i=folie>
+customBacklashRare=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+4</bl><br>Toutes les résistances <bl>+20%</bl><br><gl>Quand un héros joue un "Sort",</gl> subit <rd>5</rd><i=obscurité> <rd>3</rd><i=folie>
 
-customSubZero=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br>Immune to <i=chill><i=slow><br><gl>-Every two rounds-</gl><br>Add <crd=freezecorruption,1> to all monsters.
-customSubZeroA=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br>Immune to <i=chill><i=slow><br><gl>-Every two rounds-</gl><br>Add <crd=freezecorruption,1> to all monsters.
-customSubZeroB=<gl>All monsters gain:</gl><br>All damage <bl>+3</bl><br>Immune to <i=chill><i=slow><br><gl>-Every two rounds-</gl><br>Add <crd=freezecorruption,1> to all monsters.
-customSubZeroRare=<gl>All monsters gain:</gl><br>All damage <bl>+4</bl><br>Immune to <i=chill><i=slow><br><gl>-Every two rounds-</gl><br>Add <crd=freezecorruption,1> to all monsters.
+customSubZero=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Immunité au <i=gel><i=ralentissement><br><gl>-Tous les deux tours-</gl><br>Ajouter <crd=freezecorruption,1> à tous les monstres.
+customSubZeroA=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Immunité au <i=gel><i=ralentissement><br><gl>-Tous les deux tours-</gl><br>Ajouter <crd=freezecorruption,1> à tous les monstres.
+customSubZeroB=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+3</bl><br>Immunité au <i=gel><i=ralentissement><br><gl>-Tous les deux tours-</gl><br>Ajouter <crd=freezecorruption,1> à tous les monstres.
+customSubZeroRare=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+4</bl><br>Immunité au <i=gel><i=ralentissement><br><gl>-Tous les deux tours-</gl><br>Ajouter <crd=freezecorruption,1> à tous les monstres.
 
-customRevenge=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br>Immune to <i=bleed><br><gl>When a hero plays an "Attack",</gl> all monsters gain <bl>3</bl><i=fury>
-customRevengeA=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br>Immune to <i=bleed><br><gl>When a hero plays an "Attack",</gl> all monsters gain <bl>4</bl><i=fury>
-customRevengeB=<gl>All monsters gain:</gl><br>All damage <bl>+3</bl><br>Immune to <i=bleed><br><gl>When a hero plays an "Attack",</gl> all monsters gain <bl>5</bl><i=fury>
-customRevengeRare=<gl>All monsters gain:</gl><br>All damage <bl>+4</bl><br>Immune to <i=bleed><br><gl>When a hero plays an "Attack",</gl> all monsters gain <bl>6</bl><i=fury>
+customRevenge=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Immunité à <i=saignement><br><gl>Quand un héros joue une "Attaque",</gl> tous les monstres gagnent <bl>3</bl><i=fureur>
+customRevengeA=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Immunité à <i=saignement><br><gl>Quand un héros joue une "Attaque",</gl> tous les monstres gagnent <bl>4</bl><i=fureur>
+customRevengeB=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+3</bl><br>Immunité à <i=saignement><br><gl>Quand un héros joue une "Attaque",</gl> tous les monstres gagnent <bl>5</bl><i=fureur>
+customRevengeRare=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+4</bl><br>Immunité à <i=saignement><br><gl>Quand un héros joue une "Attaque",</gl> tous les monstres gagnent <bl>6</bl><i=fureur>
 
-customBurningWeapons=<gl>All monsters gain:</gl><br>All damage <bl>+1</bl><br><i=fire> resistance <bl>+15%</bl><br><gl>When a monster deals damage,</gl> it applies <rd>1</rd><i=burn>
-customBurningWeaponsA=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br><i=fire> resistance <bl>+20%</bl><br><gl>When a monster deals damage,</gl> it applies <rd>2</rd><i=burn>
-customBurningWeaponsB=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br><i=fire> resistance <bl>+25%</bl><br><gl>When a monster deals damage,</gl> it applies <rd>3</rd><i=burn>
-customBurningWeaponsRare=<gl>All monsters gain:</gl><br>All damage <bl>+3</bl><br><i=fire> resistance <bl>+30%</bl><br><gl>When a monster deals damage,</gl> it applies <rd>4</rd><i=burn>
+customBurningWeapons=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+1</bl><br>Résistance au <i=fire> <bl>+15%</bl><br><gl>Quand un monstre inflige des dégâts,</gl> il applique <rd>1</rd><i=brûlure>
+customBurningWeaponsA=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Résistance au <i=fire> <bl>+20%</bl><br><gl>Quand un monstre inflige des dégâts,</gl> il applique <rd>2</rd><i=brûlure>
+customBurningWeaponsB=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Résistance au <i=fire> <bl>+25%</bl><br><gl>Quand un monstre inflige des dégâts,</gl> il applique <rd>3</rd><i=brûlure>
+customBurningWeaponsRare=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+3</bl><br>Résistance au <i=fire> <bl>+30%</bl><br><gl>Quand un monstre inflige des dégâts,</gl> il applique <rd>4</rd><i=brûlure>
 
-customPutrefaction=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br>Immune to <i=dark><i=decay><br><gl>When a monster deals damage,</gl> it applies <rd>2</rd><i=dark><rd>1</rd><i=decay>
-customPutrefactionA=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br>Immune to <i=dark><i=decay><br><gl>When a monster deals damage,</gl> it applies <rd>3</rd><i=dark><rd>1</rd><i=decay>
-customPutrefactionB=<gl>All monsters gain:</gl><br>All damage <bl>+3</bl><br>Immune to <i=dark><i=decay><br><gl>When a monster deals damage,</gl> it applies <rd>3</rd><i=dark><rd>2</rd><i=decay>
-customPutrefactionRare=<gl>All monsters gain:</gl><br>All damage <bl>+4</bl><br>Immune to <i=dark><i=decay><br><gl>When a monster deals damage,</gl> it applies <rd>4</rd><i=dark><rd>2</rd><i=decay>
+customPutrefaction=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Immunité à <i=Obscurité><i=décomposition><br><gl>Quand un monstre inflige des dégâts,</gl> il applique <rd>2</rd><i=Obscurité><rd>1</rd><i=décomposition>
+customPutrefactionA=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+2</bl><br>Immunité à <i=Obscurité><i=décomposition><br><gl>Quand un monstre inflige des dégâts,</gl> il applique <rd>3</rd><i=Obscurité><rd>1</rd><i=décomposition>
+customPutrefactionB=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+3</bl><br>Immunité à <i=Obscurité><i=décomposition><br><gl>Quand un monstre inflige des dégâts,</gl> il applique <rd>3</rd><i=Obscurité><rd>2</rd><i=décomposition>
+customPutrefactionRare=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+4</bl><br>Immunité à <i=Obscurité><i=décomposition><br><gl>Quand un monstre inflige des dégâts,</gl> il applique <rd>4</rd><i=Obscurité><rd>2</rd><i=décomposition>
 
-customHexproof=<gl>All monsters gain:</gl><br>Max HP <bl>+15</bl><br>All damage <bl>+2</bl><br><gl>-Every round-</gl><br>Gain <bl>5</bl><i=buffer>
-customHexproofA=<gl>All monsters gain:</gl><br>Max HP <bl>+20</bl><br>All damage <bl>+2</bl><br><gl>-Every round-</gl><br>Gain <bl>6</bl><i=buffer>
-customHexproofB=<gl>All monsters gain:</gl><br>Max HP <bl>+25</bl><br>All damage <bl>+3</bl><br><gl>-Every round-</gl><br>Gain <bl>7</bl><i=buffer>
-customHexproofRare=<gl>All monsters gain:</gl><br>Max HP <bl>+30</bl><br>All damage <bl>+4</bl><br><gl>-Every round-</gl><br>Gain <bl>8</bl><i=buffer>
+customHexproof=<gl>Tous les monstres gagnent:</gl><br>PV max <bl>+15</bl><br>Tous les dégâts <bl>+2</bl><br><gl>-Chaque tour-</gl><br>Gagnent <bl>5</bl><i=protection>
+customHexproofA=<gl>Tous les monstres gagnent:</gl><br>PV max <bl>+20</bl><br>Tous les dégâts <bl>+2</bl><br><gl>-Chaque tour-</gl><br>Gagnent <bl>6</bl><i=protection>
+customHexproofB=<gl>Tous les monstres gagnent:</gl><br>PV max <bl>+25</bl><br>Tous les dégâts <bl>+3</bl><br><gl>-Chaque tour-</gl><br>Gagnent <bl>7</bl><i=protection>
+customHexproofRare=<gl>Tous les monstres gagnent:</gl><br>PV max <bl>+30</bl><br>Tous les dégâts <bl>+4</bl><br><gl>-Chaque tour-</gl><br>Gagnent <bl>8</bl><i=protection>
 
-customHeavyWeaponry=<gl>All monsters gain:</gl><br>All damage <bl>+3</bl><br>Immune to <i=vulnerable><br><gl>When a monster deals damage,</gl> it applies <rd>1</rd><i=vulnerable><rd>1</rd><i=slow>
-customHeavyWeaponryA=<gl>All monsters gain:</gl><br>All damage <bl>+4</bl><br>Immune to <i=vulnerable><br><gl>When a monster deals damage,</gl> it applies <rd>2</rd><i=vulnerable><rd>1</rd><i=slow>
-customHeavyWeaponryB=<gl>All monsters gain:</gl><br>All damage <bl>+4</bl><br>Immune to <i=vulnerable><br><gl>When a monster deals damage,</gl> it applies <rd>2</rd><i=vulnerable><rd>2</rd><i=slow>
-customHeavyWeaponryRare=<gl>All monsters gain:</gl><br>All damage <bl>+5</bl><br>Immune to <i=vulnerable><br><gl>When a monster deals damage,</gl> it applies <rd>2</rd><i=vulnerable><rd>2</rd><i=slow>
+customHeavyWeaponry=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+3</bl><br>Immunité à <i=vulnérable><br><gl>Quand un monstre inflige des dégâts,</gl>  il applique <rd>1</rd><i=vulnérable><rd>1</rd><i=lenteur>
+customHeavyWeaponryA=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+4</bl><br>Immunité à <i=vulnérable><br><gl>Quand un monstre inflige des dégâts,</gl>  il applique <rd>2</rd><i=vulnérable><rd>1</rd><i=lenteur>
+customHeavyWeaponryB=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+4</bl><br>Immunité à <i=vulnérable><br><gl>Quand un monstre inflige des dégâts,</gl>  il applique <rd>2</rd><i=vulnérable><rd>2</rd><i=lenteur>
+customHeavyWeaponryRare=<gl>Tous les monstres gagnent:</gl><br>Tous les dégâts <bl>+5</bl><br>Immunité à <i=vulnérable><br><gl>Quand un monstre inflige des dégâts,</gl>  il applique <rd>2</rd><i=vulnérable><rd>2</rd><i=lenteur>
 
-customThornProliferation=<gl>All monsters gain:</gl><br>Max HP <bl>+15</bl><br>All damage <bl>+2</bl><br><gl>When a hero plays a card,</gl> a random monster gains <rd>1</rd><i=thorns>
-customThornProliferationA=<gl>All monsters gain:</gl><br>Max HP <bl>+25</bl><br>All damage <bl>+2</bl><br><gl>When a hero plays a card,</gl> a random monster gains <rd>2</rd><i=thorns>
-customThornProliferationB=<gl>All monsters gain:</gl><br>Max HP <bl>+35</bl><br>All damage <bl>+3</bl><br><gl>When a hero plays a card,</gl> a random monster gains <rd>2</rd><i=thorns>
-customThornProliferationRare=<gl>All monsters gain:</gl><br>Max HP <bl>+45</bl><br>All damage <bl>+4</bl><br><gl>When a hero plays a card,</gl> a random monster gains <rd>3</rd><i=thorns>
+customThornProliferation=<gl>Tous les monstres gagnent:</gl><br>PV max <bl>+15</bl><br>Tous les dégâts <bl>+2</bl><br><gl>Quand un héros joue une carte,</gl> un monstre aléatoire gagne <rd>1</rd><i=épines>
+customThornProliferationA=<gl>Tous les monstres gagnent:</gl><br>PV max <bl>+25</bl><br>Tous les dégâts <bl>+2</bl><br><gl>Quand un héros joue une carte,</gl> un monstre aléatoire gagne <rd>2</rd><i=épines>
+customThornProliferationB=<gl>Tous les monstres gagnent:</gl><br>PV max <bl>+35</bl><br>Tous les dégâts <bl>+3</bl><br><gl>Quand un héros joue une carte,</gl> un monstre aléatoire gagne <rd>2</rd><i=épines>
+customThornProliferationRare=<gl>Tous les monstres gagnent:</gl><br>PV max <bl>+45</bl><br>Tous les dégâts <bl>+4</bl><br><gl>Quand un héros joue une carte,</gl> un monstre aléatoire gagne <rd>3</rd><i=épines>
 
-innate=Innate
-vanish=Vanish
-frail=Frail
-mitigate=Mitigate
+innate=Inné
+vanish=Disparition
+frail=Fragile
+mitigate=Atténuation
 stanzai=Stanza I
 stanzaii=Stanza II
 stanzaiii=Stanza III
-chain=Chain
-dispel=Dispel
-jump(bonus%)=Jump X (bonus%)
-overcharge=Overcharge
-overchargeAcronym=OC
-purge=Purge
-repeat=Repeat X
-repeatupto=Repeat up to X
-bless=Bless
-block=Block
-buffer=Buffer
+chain=Chaîne
+dispel=Dissipation
+jump(bonus%)=Saut X (bonus%)
+overcharge=Surcharger
+overchargeAcronym=SC
+purge=Purger
+repeat=Répéter X
+repeatupto=Répéter jusqu'à X
+bless=Bénédiction
+block=Bloquage
+buffer=Protection
 courage=Courage
-energize=Energize
-evasion=Evasion
-fast=Fast
-fortify=Fortify
-fury=Fury
-haste=Haste
-inspire=Inspire
-insulate=Insulate
-invulnerable=Invulnerable
-powerful=Powerful
-regeneration=Regeneration
-reinforce=Reinforce
-sharp=Sharp
-shield=Shield
+energize=Énergiser
+evasion=Évasion
+fast=Rapide
+fortify=fortification
+fury=Fureur
+haste=Hâte
+inspire=Inspiration
+insulate=Isolation
+invulnerable=Invulnérable
+powerful=Puissant
+regeneration=Régénération
+reinforce=Renforcement
+sharp=Aiguisage
+shield=Bouclier
 stanza=Stanza
-stealth=Stealth
-taunt=Taunt
-thorns=Thorns
-vitality=Vitality
-bleed=Bleed
-burn=Burn
-chill=Chill
-crack=Crack
-dark=Dark
-daze=Daze
-decay=Decay
-disarm=Disarm
-doom=Doom
+stealth=Furtivité
+taunt=Provocation
+thorns=Épines
+vitality=Vitalité
+bleed=Saignement
+burn=Brûlure
+chill=Gel
+crack=Fissure
+dark=Obscurité
+daze=Étourdissement
+decay=Décomposition
+disarm=Désarmement
+doom=Malédiction
 fatigue=Fatigue
-paralyze=Paralyze
-insane=Insane
-mark=Mark
+paralyze=Paralysie
+insane=Folie
+mark=Marque
 poison=Poison
-sanctify=Sanctify
-shackle=Shackle
-sight=Sight
+sanctify=Sanctification
+shackle=Enchaîné
+sight=Vue
 silence=Silence
-slow=Slow
-spark=Spark
+slow=Lenteur
+spark=Étincelle
 stress=Stress
-vulnerable=Vulnerable
-weak=Weak
-wet=Wet
-transfer=Transfer
-cards=Cards
-challenge=Challenge
-items=Items
-pet=Pet
-pets=Pets
-petShopWarning=** You can only adopt 1 pet.
-ifUnlockSigils=Unlocking content will reward you with sigil points. Use those points to increase the power of your favorite cards.
-challengeSelection=Challenge card selection
-challengeSelectionIntro=Always try to select packs with the most synergy, and don't forget about the energy cost.
-challengeReroll=Reroll packs
-challengeRound=Round
-challengeRoundPerks=Perks selected
-challengeSelectionPerk=Challenge perk selection
-challengeSelectionPerkIntro=Once you have selected your cards, you must select 4 perks that will be assigned to your hero.
-challengeEnergy=Average energy cost
-rankProgress=Rank {0}
-rankTier=Tier {0}
-rankPointsAvailable=<sprite name=perk>Available points
-rankPointsHowto=A perk is a different kind of bonus that you can assign to your heroes. You will get perk points to distribute at the end of your adventures.
-rankPointsHighest=The number of perk points available for your characters is based on the rank level of your <color=#F1D2A9>highest character</color>. (1 point for each level and max. 36 points)
-rankPerkPoints={0} Perk points
-rankPerkPointsGain=You can assign perk points to heroes when playing a new game.
-rankPerkPress=Press to assign perk
-rankPerkNotEnough=Not enough points
-rankDescription0=Starting item (blue)
-rankDescription1=New card back
-rankDescription2=Starting card (blue)
-rankDescription3=New skin
-rankDescription4=Talent cards (blue)
-rankDescription5=New card back
-rankDescription6=Starting item (yellow)
-rankDescription7=New skin
-rankDescription8=Starting card (yellow)
-rankDescription9=New card back
-rankDescription10=Talent cards (yellow)
-rankLevelDescrition=Each character will gain points after an adventure. With each new rank, the character will unlock new features.
-cantModifyPerkMP=You can't modify perk points during a loaded game.
-perkNone=This character doesn't have any active perks for this game
-perkAuraDescription=Charges that you apply {0}
-skinRequiredRankLevel=To use this skin, your character must be:<br> Rank Level {0}
-requiredAdventureComplete=You need to complete the Adventure mode.
-requiredAdventureLevel=You need to complete the Adventure mode in Madness level {0}.
-requiredObeliskComplete=You need to complete the Obelisk Challenge mode.
-requiredObeliskLevel=You need to complete the Obelisk Challenge mode in Madness level {0}.
-senenthia=Kingdom of Senenthia
-velkarath=The Velkarath Mountains
-aquarfall=The Aquarfall Marsh
-theHatch=The Hatch
-spiderLair=Spider Lair
-theVoid=The Void
-act0Intro=How did it happen, you ask? It all started during the princess's 16th birthday. Everyone was in the courtyard, anxiously waiting for her. She was going to be inducted into the Wizard Academy, an honor reserved for those who show aptitude (and she really had a gift).<br><br>Suddenly, an explosion erupted from the princess's chamber, followed by a burst of energy that swept through the kingdom of Senenthia. The royal guards explored every corner of the castle, but found no sign of her or Lord Hanshek, the court magician and advisor to the king.<br><br>Though the king sent soldiers throughout the kingdom, none of them returned. The last thing he heard was that her trail had been lost deep in the Old Forest, near the ancient obelisk that had been dormant for centuries...until now.<br><br>Desperate, the king proclaimed a royal decree and announced that he would reward anyone who brought the princess home safely. The news quickly spread through the kingdom. Many groups of adventurers prepared to venture into the forest and investigate the obelisk to find the princess.<br><br>This is the story of one of those groups.
-act1Intro=The group went across the obelisk and, in an instant, found themselves elsewhere, far away from the Senenthia forest.<br><br>One of the mysteries of the obelisk was revealed: in ancient times, the obelisk had been used as a means of transport, since reaching this land by road would have taken months.<br><br>The group looked for signs that the princess and Lord Hanshek had passed through this place...but with no luck. It didn't seem like anyone had been there in a long time.<br><br>Luckily, on the horizon they saw that there was another obelisk, and it also seemed to be active. Their only hope now was to reach it and try their luck with another destination.
-act2Intro=The group crossed through their second obelisk. Upon arrival, they looked for signs that the princess or Lord Hanshek had been there. This time they found two pairs of footprints leading away from the arrival area, and they appeared to be only a few days old.<br><br>The group was finally on the right track to chase after them, even though they didn't really know where they were going.<br><br>As the group looked towards the horizon, they saw another obelisk. In that moment, the obelisk glowed brightly, the same way that the other two obelisks had when they read the runes.<br><br>They realized that at that moment Lord Hanshek and the princess had just crossed through the obelisk, and if they were fast enough, they would be able to catch them.
-act3Intro=Act 4 Intro (text work in progress)
-actEndGame=Congratulations! You have completed the game on normal difficulty.<br><br>You have unlocked the Madness levels. Now you will be able to increase the difficulty of the game and adapt it to your preferences, such as having random enemies in every fight.<br><br>Also, new corrupted items appear in the madness levels. These items are much more powerful versions of the normal items. Each level of difficulty increases the probability of these items and corrupted cards appearing.<br><br>We hope you enjoyed the game. There is still much more to come! Sincerely, Adam, Javier and Juanjo.
-goldDescription=Gold: Used to buy equipment, remove cards and complete objectives in some events
-dustDescription=Shards: Used to craft and transmute cards
-supplyDescription=Supplies: Used to improve a town's buildings and its services<br>(Max. 500)
-corruptionReward=Corruption reward
-corruptionAltarUpgrade=The party will gain access to an <color=#E0A44E>upgrade altar</color>.
-corruptionGainGold=The party will gain<br><sprite name=gold> {0}  <sprite name=dust> {1} 
+vulnerable=Vulnérable
+weak=Faible
+wet=Mouillé
+transfer=Transfert
+cards=Cartes
+challenge=Défi
+items=Objets
+pet=Animal
+pets=Animaux
+petShopWarning=** Vous ne pouvez adopter qu'un seul animal.
+ifUnlockSigils=Le déverrouillage de contenu vous récompensera avec des points de Sigil. Utilisez ces points pour augmenter la puissance de vos cartes préférées.
+challengeSelection=Sélection de cartes de défi
+challengeSelectionIntro=Essayez toujours de sélectionner des paquets avec le plus de synergie possible et n'oubliez pas le coût en énergie.
+challengeReroll=Relancer les paquets
+challengeRound=Tour
+challengeRoundPerks=Atouts sélectionnés
+challengeSelectionPerk=Sélection d'atouts de défi
+challengeSelectionPerkIntro=Une fois vos cartes sélectionnées, vous devez choisir 4 atouts qui seront attribués à votre héros.
+challengeEnergy=Coût moyen en énergie
+rankProgress=Rang {0}
+rankTier=Palier {0}
+rankPointsAvailable=<sprite name=perk>Points disponibles
+rankPointsHowto=Un atout est un type différent de bonus que vous pouvez attribuer à vos héros. Vous obtiendrez des points d'atout à répartir à la fin de vos aventures.
+rankPointsHighest=Le nombre de points d'atout disponibles pour vos personnages est basé sur le niveau de rang de votre <color=#F1D2A9>personnage le plus élevé</color>. (1 point pour chaque niveau et max. 36 points)
+rankPerkPoints={0} Points d'atout
+rankPerkPointsGain=Vous pouvez attribuer des points d'atout aux héros lors de la création d'une nouvelle partie.
+rankPerkPress=Appuyez pour attribuer un atout
+rankPerkNotEnough=Pas assez de points
+rankDescription0=Objet de départ (bleu)
+rankDescription1=Nouvelle face de carte
+rankDescription2=Carte de départ (bleue)
+rankDescription3=Nouvelle apparence
+rankDescription4=Cartes de talent (bleues)
+rankDescription5=Nouvelle face de carte
+rankDescription6=Objet de départ (jaune)
+rankDescription7=Nouvelle apparence
+rankDescription8=Carte de départ (jaune)
+rankDescription9=Nouvelle face de carte
+rankDescription10=Cartes de talent (jaunes)
+rankLevelDescrition=Chaque personnage gagnera des points après une aventure. À chaque nouveau rang, le personnage débloquera de nouvelles fonctionnalités.
+cantModifyPerkMP=Vous ne pouvez pas modifier les points d'atout pendant une partie chargée.
+perkNone=Ce personnage n'a aucun atout actif pour cette partie
+perkAuraDescription=Charges que vous appliquez {0}
+skinRequiredRankLevel=Pour utiliser cette apparence, votre personnage doit être:<br> Niveau de rang {0}
+requiredAdventureComplete=Vous devez terminer le mode Aventure.
+requiredAdventureLevel=Vous devez terminer le mode Aventure en niveau Folie {0}.
+requiredObeliskComplete=Vous devez terminer le mode Défi Obélisque.
+requiredObeliskLevel=Vous devez terminer le mode Défi Obélisque en niveau Folie {0}.
+senenthia=Royaume de Senenthia
+velkarath=Les Montagnes de Velkarath
+aquarfall=Le Marais d'Aquarfall
+theHatch=La Couvée
+spiderLair=Repaire d'Araignées
+theVoid=Le Néant
+act0Intro=Comment est-ce arrivé, demandez-vous ? Tout a commencé lors du 16ème anniversaire de la princesse. Tout le monde était dans la cour, attendant avec impatience son arrivée. Elle allait être admise à l'Académie des Sorciers, un honneur réservé à ceux qui montrent des aptitudes (et elle avait vraiment un don).<br><br>Soudain, une explosion a éclaté dans la chambre de la princesse, suivie d'une explosion d'énergie qui a balayé le royaume de Senenthia. Les gardes royaux ont fouillé chaque recoin du château, mais n'ont trouvé aucune trace d'elle ou de Lord Hanshek, le magicien de la cour et conseiller du roi.<br><br>Bien que le roi ait envoyé des soldats dans tout le royaume, aucun d'eux n'est revenu. La dernière chose qu'il a entendue, c'est que sa piste avait été perdue au plus profond de l'Ancienne Forêt, près de l'ancien obélisque qui était resté inactif pendant des siècles...jusqu'à maintenant.<br><br>>Désespéré, le roi a proclamé un décret royal et annoncé qu'il récompenserait quiconque ramènerait la princesse saine et sauve à la maison. La nouvelle s'est rapidement répandue dans le royaume. De nombreux groupes d'aventuriers se préparaient à s'aventurer dans la forêt et à enquêter sur l'obélisque pour retrouver la princesse.<br><br>Ceci est l'histoire de l'un de ces groupes.
+act1Intro=Le groupe est passé par l'obélisque et, en un instant, s'est retrouvé ailleurs, loin de la forêt de Senenthia.<br><br>Un des mystères de l'obélisque a été révélé : dans les temps anciens, l'obélisque avait été utilisé comme moyen de transport, car atteindre cette terre par la route aurait pris des mois.<br><br>Le groupe a cherché des signes que la princesse et Lord Hanshek étaient passés par cet endroit... mais sans succès. Il ne semblait pas que quelqu'un y avait été depuis longtemps.<br><br>Heureusement, à l'horizon, ils ont vu qu'il y avait un autre obélisque, et il semblait également être actif. Leur seul espoir maintenant était de l'atteindre et d'essayer leur chance avec une autre destination.
+act2Intro=Le groupe a traversé leur deuxième obélisque. À leur arrivée, ils ont cherché des signes que la princesse ou Lord Hanshek y avaient été. Cette fois-ci, ils ont trouvé deux paires d'empreintes menant loin de la zone d'arrivée, et elles semblaient n'avoir que quelques jours.<br><br>Le groupe était enfin sur la bonne voie pour les poursuivre, même s'ils ne savaient pas vraiment où ils allaient.<br><br>En regardant vers l'horizon, le groupe a vu un autre obélisque. À ce moment-là, l'obélisque brillait intensément, de la même manière que les deux autres obélisques quand ils lisaient les runes.<br><br>Ils ont réalisé qu'à ce moment-là Lord Hanshek et la princesse venaient de traverser l'obélisque, et s'ils étaient assez rapides, ils pourraient les rattraper.
+act3Intro=Introduction de l'acte 4 (texte en cours de rédaction)
+actEndGame=Félicitations ! Vous avez terminé le jeu en difficulté normale.<br><br>Vous avez déverrouillé les niveaux Madness. Vous pourrez désormais augmenter la difficulté du jeu et l'adapter à vos préférences, comme avoir des ennemis aléatoires à chaque combat.<br><br>De plus, de nouveaux objets corrompus apparaissent aux niveaux Madness. Ces objets sont des versions beaucoup plus puissantes des objets normaux. Chaque niveau de difficulté augmente la probabilité d'apparition de ces objets et cartes corrompues.<br><br>Nous espérons que vous avez apprécié le jeu. Il y a encore beaucoup à venir ! Cordialement, Adam, Javier et Juanjo.
+goldDescription=Gold: Or : utilisé pour acheter des équipements, retirer des cartes et atteindre des objectifs lors de certains événements
+dustDescription=Shards: utilisés pour créer et transmuter des cartes
+supplyDescription=Supplies: Fournitures : utilisées pour améliorer les bâtiments d'une ville et ses services<br>(Max. 500)
+corruptionReward=Récompense de corruption
+corruptionAltarUpgrade=Le groupe obtiendra un accès à un <color=#E0A44E>autel d'amélioration</color>.
+corruptionGainGold=Le groupe gagnera<br><sprite name=gold> {0}  <sprite name=dust> {1} 
 corruptionGainGold2=The party will gain<br><sprite name=gold> {0}  <sprite name=dust> {1}  <sprite name=supply> {2}
 corruptionRemoveCard=Each hero will be able to <color=#E0A44E>remove one card</color> for free from the deck.
 corruptionRemoveCard2=Each hero will be able to <color=#E0A44E>remove two cards</color> for free from the deck.
