@@ -1057,53 +1057,53 @@ supplyDescription=Supplies: Fournitures : utilisées pour améliorer les bâtime
 corruptionReward=Récompense de corruption
 corruptionAltarUpgrade=Le groupe obtiendra un accès à un <color=#E0A44E>autel d'amélioration</color>.
 corruptionGainGold=Le groupe gagnera<br><sprite name=gold> {0}  <sprite name=dust> {1} 
-corruptionGainGold2=The party will gain<br><sprite name=gold> {0}  <sprite name=dust> {1}  <sprite name=supply> {2}
-corruptionRemoveCard=Each hero will be able to <color=#E0A44E>remove one card</color> for free from the deck.
-corruptionRemoveCard2=Each hero will be able to <color=#E0A44E>remove two cards</color> for free from the deck.
-corruptionRareShop=The party will gain access to a <color=#E0A44E>rare equipment shop</color>.
-corruptionRareShopDiscount=The party will gain access to a <color=#E0A44E>rare equipment shop</color> (with 30% discount).
-corruptionRandomCardUpgrade=A random basic card <color=#E0A44E>will be upgraded</color> for each hero.
-corruptionHeal20=The party will <color=#34FF46>heal 30%</color> of their Max HP at the end of the combat.
-corruptionHeroFreeCard={0} will get the <color={1}>"{2}"</color> card for free.
-corruptionFreeCardUpgrade=Each hero will get a <color=#E0A44E>free card upgrade</color>.
-corruptionExoticShop=The party will gain access to an <color=#E0A44E>exotic equipment shop</color>.
-corruptionExoticShopDiscount=The party will gain access to an <color=#E0A44E>exotic equipment shop</color> (with 30% discount).
-corruptionIncreasedQuality=Increase the <color=#E0A44E>quality and quantity of card rewards</color> at the end of the combat.
+corruptionGainGold2=Le groupe obtiendra<br><sprite name=gold> {0}  <sprite name=dust> {1}  <sprite name=supply> {2}
+corruptionRemoveCard=Chaque héros pourra <color=#E0A44E>retirer une carte</color> gratuitement de son deck.
+corruptionRemoveCard2=Chaque héros pourra <color=#E0A44E>retirer deux cartes</color> gratuitement de son deck.
+corruptionRareShop=Le groupe aura accès à une <color=#E0A44E>boutique d'équipements rares</color>.
+corruptionRareShopDiscount=Le groupe aura accès à une <color=#E0A44E>boutique d'équipements rares</color> (avec 30% de réduction).
+corruptionRandomCardUpgrade=Une carte de base au hasard <color=#E0A44E>sera améliorée</color> pour chaque héros.
+corruptionHeal20=Le groupe se <color=#34FF46>soignera de 30%</color> de ses PV max à la fin du combat.
+corruptionHeroFreeCard={0} obtiendra la carte <color={1}>"{2}"</color> gratuitement.
+corruptionFreeCardUpgrade=Chaque héros obtiendra une <color=#E0A44E>amélioration de carte gratuite</color>.
+corruptionExoticShop=Le groupe aura accès à une <color=#E0A44E>boutique d'équipements exotiques</color>.
+corruptionExoticShopDiscount=Le groupe aura accès à une <color=#E0A44E>boutique d'équipements exotiques</color> (avec 30% de réduction).
+corruptionIncreasedQuality=Augmente la <color=#E0A44E>qualité et la quantité des récompenses de cartes</color> à la fin du combat.
 corruptionRewardScore=(score: +{0})
-corruptionTitle=<sprite name=corruption>Obelisk Corruption
-corruptionDesc=The Obelisk's influence is corrupting the monsters in this area. You can choose to fight them under the effects of corruption to increase the difficulty and gain additional rewards.
-corruptionAccept=Accept the challenge?
-corruptionChoose=Choose one of these rewards
-corruptionSelect=Before accepting the challenge, you have to select one reward.
-townUpgrades=<sprite name=supply> Town upgrades
+corruptionTitle=<sprite name=corruption>Corruption de l'Obélisque
+corruptionDesc=L'influence de l'Obélisque corrompt les monstres de cette région. Vous pouvez choisir de les affronter sous l'effet de la corruption pour augmenter la difficulté et obtenir des récompenses supplémentaires.
+corruptionAccept=Accepter le défi ?
+corruptionChoose=Choisissez l'une de ces récompenses
+corruptionSelect=Avant d'accepter le défi, vous devez sélectionner une récompense.
+townUpgrades=<sprite name=supply> Améliorations de la ville
 
-townUpgrade_1_1=The <c>Common cards</c> available for crafting increased to 2.
-townUpgrade_1_2=The <c>cost of crafting</c> cards is reduced (15% total).
-townUpgrade_1_3=The <c>Uncommon cards</c> available for crafting increased to 2.
-townUpgrade_1_4=<c>Rare cards</c> unlocked to craft in the starting town.
-townUpgrade_1_5=The <c>cost of crafting</c> cards is reduced (30% total).
-townUpgrade_1_6=<c>Epic cards</c> unlocked to craft in the second town.
+townUpgrade_1_1=Le nombre de <c>cartes Communes</c> disponibles pour l'artisanat est augmenté à 2.
+townUpgrade_1_2=Le <c>coût de craft</c> des cartes est réduit (15% au total).
+townUpgrade_1_3=Le nombre de <c>cartes Peu Communes</c> disponibles pour l'artisanat est augmenté à 2.
+townUpgrade_1_4=<c>Cartes Rares</c> débloquées pour l'artisanat dans la ville de départ.
+townUpgrade_1_5=Le <c>coût de craft</c> des cartes est réduit (30% au total).
+townUpgrade_1_6=<c>Cartes Epiques</c> débloquées pour l'artisanat dans la deuxième ville.
 
-townUpgrade_2_1=The <c>cost of transforming</c> cards is reduced (25% total).
-townUpgrade_2_2=The <c>cost of upgrading</c> cards is reduced (15% total).
-townUpgrade_2_3=The <c>cost of transforming</c> cards is reduced (50% total).
-townUpgrade_2_4=The <c>cost of upgrading</c> cards is reduced (30% total).
-townUpgrade_2_5=Transforming cards is <c>free</c>.
-townUpgrade_2_6=The <c>cost of upgrading</c> cards is reduced (50% total).
+townUpgrade_2_1=The <c>coût de la transformation</c> des cartes est réduit (25% au total).
+townUpgrade_2_2=The <c>coût de l'amélioration</c> des cartes est réduit (15% au total).
+townUpgrade_2_3=The <c>coût de la transformation</c> des cartes est réduit (50% au total).
+townUpgrade_2_4=The <c>coût de l'amélioration</c> des cartes est réduit (30% au total).
+townUpgrade_2_5=transformation des cartes est <c>gratuite</c>.
+townUpgrade_2_6=The <c>coût de l'amélioration</c> des cartes est réduit (50% au total).
 
-townUpgrade_3_1=Removing cards in the starting town is <c>free</c>.
-townUpgrade_3_2=The cost of <c>curing injuries</c> is reduced (15% total).
-townUpgrade_3_3=The cost of <c>removing cards</c> is reduced (25% total).
-townUpgrade_3_4=The cost of <c>curing injuries</c> is reduced (30% total).
-townUpgrade_3_5=The cost of <c>removing cards</c> is reduced (50% total).
-townUpgrade_3_6=Removing cards in the second town is <c>free</c>.
+townUpgrade_3_1=La suppression des cartes dans la ville de départ est <c>gratuite</c>.
+townUpgrade_3_2=Le coût de la <c>guérison des blessures</c> est réduit (15% au total).
+townUpgrade_3_3=Le coût de la <c>suppression des cartes</c> est réduit (25% au total).
+townUpgrade_3_4=Le coût de la <c>guérison des blessures</c> est réduit (30% au total).
+townUpgrade_3_5=Le coût de la <c>suppression des cartes</c> est réduit (50% au total).
+townUpgrade_3_6=La suppression des cartes dans la deuxième ville est <c>gratuite</c>.
 
-townUpgrade_4_1=The cost of <c>divination rounds</c> is reduced (10% total).
-townUpgrade_4_2=<c>Basic divination</c> unlocked in the starting town.
-townUpgrade_4_3=The cost of <c>divination rounds</c> is reduced (25% total).
-townUpgrade_4_4=<c>Advanced divination</c> unlocked in the second town.
-townUpgrade_4_5=The cost of <c>divination rounds</c> is reduced (40% total).
-townUpgrade_4_6=<c>Advanced divination</c> unlocked in the starting town.
+townUpgrade_4_1=Le coût des <c>divinations</c> est réduit (10% au total).
+townUpgrade_4_2=<c>Divination basique</c> débloquée dans la ville de départ.
+townUpgrade_4_3=Le coût des <c>divinations</c> est réduit (25% au total).
+townUpgrade_4_4=<c>Divination avancée</c>  débloquée dans la deuxième ville.
+townUpgrade_4_5=Le coût des <c>divinations</c> est réduit (40% au total).
+townUpgrade_4_6=<c>Divination avancée</c> débloquée dans la ville de départ.
 
 townUpgrade_5_1=Unlock the ability to <c>reroll items</c> in the town armory.
 townUpgrade_5_2=The <c>cost of items</c> in the town armory is reduced (15% total).
