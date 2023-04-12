@@ -949,7 +949,7 @@ purge=Purger
 repeat=Répéter X
 repeatupto=Répéter jusqu'à X
 bless=Bénédiction
-block=Bloquage
+block=Blocage
 buffer=Protection
 courage=Courage
 energize=Énergiser
@@ -964,7 +964,7 @@ invulnerable=Invulnérable
 powerful=Puissant
 regeneration=Régénération
 reinforce=Renforcement
-sharp=Aiguisage
+sharp=Aiguisé
 shield=Bouclier
 stanza=Stanza
 stealth=Furtivité
@@ -985,7 +985,7 @@ paralyze=Paralysie
 insane=Folie
 mark=Marque
 poison=Poison
-sanctify=Sanctification
+sanctify=Sanctifié
 shackle=Enchaîné
 sight=Vue
 silence=Silence
@@ -1005,7 +1005,7 @@ petShopWarning=** Vous ne pouvez adopter qu'un seul animal.
 ifUnlockSigils=Le déverrouillage de contenu vous récompensera avec des points de Sigil. Utilisez ces points pour augmenter la puissance de vos cartes préférées.
 challengeSelection=Sélection de cartes de défi
 challengeSelectionIntro=Essayez toujours de sélectionner des paquets avec le plus de synergie possible et n'oubliez pas le coût en énergie.
-challengeReroll=Relancer les paquets
+challengeReroll=Reroll les paquets
 challengeRound=Tour
 challengeRoundPerks=Atouts sélectionnés
 challengeSelectionPerk=Sélection d'atouts de défi
@@ -1105,10 +1105,10 @@ townUpgrade_4_4=<c>Divination avancée</c>  débloquée dans la deuxième ville.
 townUpgrade_4_5=Le coût des <c>divinations</c> est réduit (40% au total).
 townUpgrade_4_6=<c>Divination avancée</c> débloquée dans la ville de départ.
 
-townUpgrade_5_1=Débloquer la capacité de <c>relance des objets</c> dans l'armurerie de la ville.
+townUpgrade_5_1=Débloquer la capacité de <c>reroll des objets</c> dans l'armurerie de la ville.
 townUpgrade_5_2=Le <c>prix des objets</c> dans l'armurerie de la ville est réduit (15% au total).
 townUpgrade_5_3=Augmentation de la <c>rareté</c> des objets dans l'armurerie de la ville.
-townUpgrade_5_4=Le <c>prix pour relancer les objets</c> dans l'armurerie de la ville est réduit (50% au total).
+townUpgrade_5_4=Le <c>prix pour reroll les objets</c> dans l'armurerie de la ville est réduit (50% au total).
 townUpgrade_5_5=Le <c>prix des objets</c> dans l'armurerie de la ville est réduit (30% au total).
 townUpgrade_5_6=Augmentation de la <c>rareté</c> ans l'armurerie de la ville.
 
@@ -1121,10 +1121,10 @@ townUpgrade_6_6=Débloquer la capacité de <c>vendre des fournitures</c> contre 
 
 townRequired=<color=#FFF>[Nécessite]</color>  {0} fournitures supplémentaires dépensées.
 townAssignWarning=Voulez-vous acheter cette amélioration? <color=#AAAAAA>Cette action ne peut pas être annulée.</color>
-rerollButton=Relancer {0}
-rerollButtonCostSP=Le coût des relances est augmenté à chaque acte. Les objets déjà achetés ne seront pas affichés.
-rerollButtonCostCoop=Le coût total de relance est basé sur les personnages que vous contrôlez et augmente à chaque acte. Les objets déjà achetés ne seront pas affichés.
-rerollLock=Une seule relance est disponible, dans chaque ville, quand le niveau de base de Folie est supérieure à 3.
+rerollButton=Reroll {0}
+rerollButtonCostSP=Le coût des reroll est augmenté à chaque acte. Les objets déjà achetés ne seront pas affichés.
+rerollButtonCostCoop=Le coût total de reroll est basé sur les personnages que vous contrôlez et augmente à chaque acte. Les objets déjà achetés ne seront pas affichés.
+rerollLock=Un seul reroll est disponible, dans chaque ville, quand le niveau de base de Folie est supérieure à 3.
 rerollWarning=(Une seule disponible)
 helpDeck=Pioche
 helpCasted=Cartes lancées
@@ -1136,148 +1136,148 @@ inputSaveName=Entrez le nom pour ce deck
 emptySave=<emplacement vide>
 decks=Decks
 cardsNum=({0} cartes)
-savedDecks=Saved decks
-savedDeckDeleteConfirm=Do you want to delete this deck?
-craftDeck=Craft Deck
-craftWillCost=Crafting this deck will cost:
-craftCant=You can't craft this deck.
-craftDeckNeed=In order to craft a saved deck, you will need all cards to be available in the Magic forge.<br><br>If your current deck has an <color=#FFF>Injury, Boon, Special or Corrupted Card</color>, <color=#F00>you will not be able</color> to save/load.
-conflictPlayerChooses={0} chooses
-conflictPlayerWins={0} wins
-ngDescription=Harder game mode intended for high-ranked Heroes and upgraded towns. In this mode, corrupted cards drop more frequently.
-needSteam=You need to be connected to Steam to play Across the Obelisk.
-desyncError=<b><color=#f88>Oops, something went wrong!</color></b><br><size=-6>The game is out of sync between players. To avoid making the problem worse, the combat will be restarted.</size>
-reloadForced=<color=#FFD78F>Do you want to reload the combat?</color><br><size=-6>If you want to reload the combat because of a bug or desync, please join our Discord and report it so we can fix it!</size>
-comingSoon=Coming Soon
-onlyMasterCorruption=Only the master of the game can accept a corruption and its rewards.
-onlyMasterButton=Only the master can press the button.
-easy=Easy
-average=Average
-hard=Hard
-extreme=Extreme
+savedDecks=Decks sauvegardés
+savedDeckDeleteConfirm=Voulez-vous supprimer ce deck?
+craftDeck=Créer un deck
+craftWillCost=Créer ce deck vous coûtera:
+craftCant=Vous ne pouvez pas créer ce deck.
+craftDeckNeed=Pour créer un deck sauvegardé, vous devrez avoir toutes les cartes disponibles dans la forge de magie.<br><br>Si votre deck actuel possède une <color=#FFF>Blessure, Bienfait, carte Spéciale ou Corrompue</color>, <color=#F00>vous ne pourrez pas</color> le sauvegarder/charger.
+conflictPlayerChooses={0} choisit
+conflictPlayerWins={0} gagne
+ngDescription=Mode de jeu plus difficile destiné aux héros de haut rang et aux villes améliorées. Dans ce mode, les cartes corrompues sont plus fréquentes.
+needSteam=Vous devez être connecté à Steam pour jouer à Across the Obelisk.
+desyncError=<b><color=#f88>Oups, quelque chose s'est mal passé !</color></b><br><size=-6>Le jeu n'est plus synchronisé entre les joueurs. Pour éviter d'aggraver le problème, le combat va être redémarré.</size>
+reloadForced=<color=#FFD78F>Voulez-vous recharger le combat ?</color><br><size=-6>Si vous voulez recharger le combat à cause d'un bug ou d'un désynchronisation, veuillez rejoindre notre Discord et le signaler pour que nous puissions le corriger!</size>
+comingSoon=Bientôt disponible
+onlyMasterCorruption=Seul le maître du jeu peut accepter une corruption et ses récompenses.
+onlyMasterButton=Seul le maître peut appuyer sur le bouton.
+easy=Facile
+average=Moyen
+hard=Difficile
+extreme=Extrême
 corruption=Corruption
-versionMismatch=The game cannot begin. Game versions are different.
-selectSupplyAmount=Select the amount of supplies that you want to sell.
-selectGiveGold=Select the amount of gold that you want to give to this player.
-selectGiveShards=Select the amount of shards that you want to give to this player.
-giveGold=Give gold
-giveShards=Give shards
-giveGoldShards=Give gold & shards
-general=General
+versionMismatch=La partie ne peut pas commencer. Les versions du jeu sont différentes.
+selectSupplyAmount=Sélectionnez la quantité de fournitures que vous voulez vendre.
+selectGiveGold=Sélectionnez la quantité d'or que vous voulez donner à ce joueur.
+selectGiveShards=Sélectionnez la quantité de fragments que vous voulez donner à ce joueur.
+giveGold=Donner de l'or
+giveShards=Donner des éclats
+giveGoldShards=Donner de l'or et des éclats
+general=Général
 audio=Audio
-gameplay=Gameplay
-screenResolution=Screen resolution
-fullScreen=Full screen
+gameplay=Jouabilité
+screenResolution=Résolution d'écran
+fullScreen=Plein écran
 vsync=VSync
-resetTutorial=Reset tutorial
-resetTutorialDes=This will let you watch the tutorial descriptions again.
-resetSavedData=Reset account data
-resetSavedDataDes=WARNING: Activating this option will remove all your account progress, saved games, unlocked cards, etc.
-masterVolume=Master volume
-musicVolume=Music volume
-effectsVolume=Effects volume
-ambienceVolume=Ambience volume
-backgroundMute=Mute on background
-backgroundMuteDes=Disable sound when the game is not in front
-fastMode=Fast mode
-fastModeDes=Combat speed is increased
-autoEnd=Auto end
-autoEndDes=If you don't have any available card to cast, the game will pass your turn
-showEffects=Show effects
-showEffectsDes=Show card and character effects during combat
-extendedDescriptions=Extended descriptions
-extendedDescriptionsDes=Show additional information for auras and curses
-acBackground=Status effect background
-acBackgroundDes=Display a background behind character status effect icons
-restartCombatOption=Restart combat on defeat
-restartCombatOptionDes=Display an option to restart the combat when defeated
-enableShakeOption=Enable screen shake
-enableShakeOptionDes=The screen will shake when high damage happens in combat
-currentScore=Current score
-synchronizing=[Synchronizing]
-madnessChallengeSelect=Select the Madness level that you want for the next game (each level will also be modified by the previous ones).
-madnessChallengeBeat=Beating the Obelisk Challenge in a madness level will grant you access to the next one.
-madness=Madness
-madnessNumber=Madness {0}
-madnessTitle=Madness difficulty selection
-madnessDescription=Select the Madness difficulty that you want for the game. Additionally, you can activate different corruptors that will modify the game and increase the Madness level.
-madnessBasicInfo=This is the basic difficulty level of the game. Complete the adventure to unlock additional levels and corruptors.<br><br>In order to be able to select a new difficulty, you must complete the previous one, whether playing solo or in a cooperative game.
-madnessBasic=<i=taunt> Monsters are stronger and their abilities have been improved.
-madnessObeliskLevel5=<sprite name=perk> Heroes' starting cards, starting items and enchantments are upgraded to blue.<br><sprite name=energy> All Heroes +1 starting energy
-madnessObeliskLevel8=<sprite name=perk> Heroes' starting cards, starting items and enchantments are upgraded to yellow.<br><sprite name=energy> All Heroes +1 starting energy<br><sprite name=dice> Random seed
-madnessPerAct=<color=#AAA><size=-.5>(per act, respectively)</size></color>
-madnessExhaust=<i=vanish> Exhaust
-madnessSeriousInjuries=<i=bleed> Serious injuries
-madnessSeriousInjuriesDesc=Injury cards are stronger
-madnessDeadlyInjuries=<i=bleed> Deadly injuries
-madnessDeadlyInjuriesDesc=Injury cards are deadly
-madnessNoChest=<i=nodeShop> No Chest Rewards, {0} gold/shards per hero
-madnessMonsterHp=<i=heart> Monster Max HP: {0} {1}
-madnessMonsterSpeed=<i=fast> Monster Speed: {0} {1}
-madnessMonsterDamageTaken=<i=mitigate> Monster damage taken: {0} {1}
-madnessMonsterDamageDone=<i=slashing> Monster damage done: {0} {1}
-madnessHeroSpeed=<i=slow> Hero Speed: {0}
-madnessHeroEnergy=<i=energy> Hero starting energy: {0}
-madnessInfrequent=<i=cards> Reduced uncommon cards available by 1
-madnessDisabledCards=<i=nodeUpgrade> Rare cards disabled in the starting town. Epic cards disabled in the second town.
-madnessRandomSeed=<i=dice> Forced random seed
-madnessHarderEvents=<i=events> Harder event rolls
-madnessReroll=<i=jewelry> Town armory item rerolls limited to 1
-madnessDoubledeath=<i=weak> When a hero dies, they receive two "Death's Door"
-madnessNoSupplyExchange=<i=supply> Supply exchange is not available
-madnessCorruptor0=<i=doom> Impending Doom
-madnessCorruptor0Help=In combat, when the performance bonus reaches "Underwhelming", all heroes suffer "Doom", which kills them in 2 rounds.
-madnessCorruptor1=<i=decay> Decadence
-madnessCorruptor1Help=All heroes have -3 to healing done and <nobr>-25%</nobr> to healing received
-madnessCorruptor2=<i=bless> Restricted Power
-madnessCorruptor2Help=Auras/Curses have Max. charges:<line-height=120%><br></line-height>( 50 ) Bless, Mark, Regeneration, Sharp, Stealth, Vitality, Wet<line-height=120%><br></line-height>( 100 ) Crack, Fury, Insane, Sanctify, Sight<line-height=120%><br></line-height>( 200 ) Bleed, Burn, Chill, Poison, Shield, Spark, Thorns<line-height=120%><br></line-height>( 400 ) Block
-madnessCorruptor3=<i=insulate> Resistant Monsters
-madnessCorruptor3Help=All monsters gain an additional +15% to all resistances
-madnessCorruptor4=<i=gold> Poverty
-madnessCorruptor4Help=The acquisition of gold and shards is reduced by 50%. Items with extra discounts are not available.
-madnessCorruptor5=<i=powerful> Overcharged Monsters
-madnessCorruptor5Help=All monster cards have +1 to the charges of their auras or curses.
-madnessCorruptor6=<i=dice> Random Combats
-madnessCorruptor6Help=Non-event combats are randomly generated. In each random combat, a "Champion" monster appears with a randomly assigned immunity.
-madnessCorruptor7=<i=bossIcon> Despair
-madnessCorruptor7Help=Enemies have the most powerful cards and enchantments available to them.<line-height=120%><br></line-height>This corruptor increases the difficulty considerably.
-championMonster=Champion monster
-help=Help
-madnessCorruptors=Corruptors available
-madnessLevel=Madness level
-cardCommon=Common card
-cardUncommon=Uncommon card
-cardRare=Rare card
-cardEpic=Epic card
-cardMythic=Mythic card
-common=Common
-uncommon=Uncommon
+resetTutorial=Réinitialiser le tutoriel
+resetTutorialDes=Cela vous permettra de revoir les descriptions du tutoriel.
+resetSavedData=Réinitialiser les données du compte
+resetSavedDataDes=ATTENTION: Activer cette option supprimera tout votre progrès de compte, vos parties sauvegardées, vos cartes débloquées, etc.
+masterVolume=Volume principal
+musicVolume=Volume de la musique
+effectsVolume=Volume des effets sonores
+ambienceVolume=Volume de l'ambiance sonore
+backgroundMute=Désactiver les sons en arrière-plan
+backgroundMuteDes=Désactiver les sons lorsque le jeu n'est pas en premier plan
+fastMode=Mode rapide
+fastModeDes=La vitesse de combat est augmentée
+autoEnd=Fin de tour automatique
+autoEndDes=Si vous n'avez pas de carte disponible à jouer, le jeu passera votre tour
+showEffects=Afficher les effets
+showEffectsDes=Afficher les effets des cartes et des personnages pendant le combat
+extendedDescriptions=Descriptions étendues
+extendedDescriptionsDes=Afficher des informations supplémentaires pour les auras et les malédictions
+acBackground=Fond des effets d'état
+acBackgroundDes=Afficher un fond derrière les icônes des effets d'état des personnages
+restartCombatOption=Redémarrer le combat en cas de défaite
+restartCombatOptionDes=Afficher une option pour redémarrer le combat en cas de défaite
+enableShakeOption=Activer les secousses d'écran
+enableShakeOptionDes=L'écran va trembler lorsqu'il y a des dégâts élevés pendant le combat
+currentScore=Score actuel
+synchronizing=[Synchronisation]
+madnessChallengeSelect=Sélectionnez le niveau de Folie que vous souhaitez pour la partie suivante (chaque niveau sera également modifié par les précédents).
+madnessChallengeBeat=Vaincre le défi de l'Obélisque dans un niveau de Folie vous donnera accès au niveau suivant.
+madness=Folie
+madnessNumber=Folie {0}
+madnessTitle=Sélection de la difficulté de la Folie
+madnessDescription=Sélectionnez la difficulté de la Folie que vous souhaitez pour le jeu. De plus, vous pouvez activer différents corrupteurs qui modifieront le jeu et augmenteront le niveau de Folie.
+madnessBasicInfo=Ceci est le niveau de difficulté de base du jeu. Terminez l'aventure pour débloquer des niveaux et des corrupteurs supplémentaires.<br><br>Pour pouvoir sélectionner une nouvelle difficulté, vous devez terminer la précédente, que vous jouiez en solo ou en coopération.
+madnessBasic=<i=taunt> Les monstres sont plus forts et leurs capacités ont été améliorées.
+madnessObeliskLevel5=<sprite name=perk>  Les cartes de départ, les objets de départ et les enchantements des héros sont améliorés en bleu.<br><sprite name=energy> Tous les héros ont +1 énergie de départ.
+madnessObeliskLevel8=<sprite name=perk> Les cartes de départ, les objets de départ et les enchantements des héros sont améliorés en jaune.<br><sprite name=energy> Tous les héros ont +1 énergie de départ.<br><sprite name=dice> Seed aléatoire
+madnessPerAct=<color=#AAA><size=-.5>(ar acte, respectivement)</size></color>
+madnessExhaust=<i=vanish> Épuisement
+madnessSeriousInjuries=<i=bleed> Blessures sérieuses.
+madnessSeriousInjuriesDesc= Les cartes de blessure sont plus fortes.
+madnessDeadlyInjuries=<i=bleed> Blessures mortelles.
+madnessDeadlyInjuriesDesc= Les cartes de blessure sont mortelles.
+madnessNoChest=<i=nodeShop> Pas de récompenses de coffre, {0} or/éclats par héros.
+madnessMonsterHp=<i=heart> PV max des monstres: {0} {1}
+madnessMonsterSpeed=<i=fast> Vitesse des monstres: {0} {1}
+madnessMonsterDamageTaken=<i=mitigate> Dégats subis par les monstres: {0} {1}
+madnessMonsterDamageDone=<i=slashing> Dégats infligés par les monstres: {0} {1}
+madnessHeroSpeed=<i=slow> Vitesse des héros: {0}
+madnessHeroEnergy=<i=energy> Énergie de départ des héros: {0}
+madnessInfrequent=<i=cards> Cartes Peu Communes disponibles réduites de 1.
+madnessDisabledCards=<i=nodeUpgrade> Les cartes Rares sont désactivées dans la ville de départ. Les cartes Epiques sont désactivées dans la deuxième ville.
+madnessRandomSeed=<i=dice> Seed aléatoire forcée.
+madnessHarderEvents=<i=events> Des événements plus difficiles.
+madnessReroll=<i=jewelry>  Les rerolls d'objets dans l'armurerie de la ville sont limitées à 1.
+madnessDoubledeath=<i=weak>  Lorsqu'un héros meurt, il reçoit deux "Porte de la mort".
+madnessNoSupplyExchange=<i=supply> L'échange de fournitures n'est pas disponible.
+madnessCorruptor0=<i=doom> Destin funeste
+madnessCorruptor0Help=En combat, lorsque le bonus de performance atteint "Décevant", tous les héros souffrent de "Destin funeste", qui les tue en 2 tours.
+madnessCorruptor1=<i=decay> Décadence
+madnessCorruptor1Help=Tous les héros ont -3 en soins et <nobr>-25%</nobr> en soins reçus.
+madnessCorruptor2=<i=bless>  Puissance limitée
+madnessCorruptor2Help=Auras/Malédictions ont un nombre Max. de charges:<line-height=120%><br></line-height>( 50 ) Bénédiction, Marque, Régénération, Aiguisé, Furtivité, Vitalité, Mouillé<line-height=120%><br></line-height>( 100 ) Fissure, Fureur, Folie, Sanctifié, Vue<line-height=120%><br></line-height>( 200 ) Saignement, Brûlure, Gel, Poison, Bouclier, Étincelle, Épines<line-height=120%><br></line-height>( 400 ) Blocage
+madnessCorruptor3=<i=insulate> Monstres résistants
+madnessCorruptor3Help=Tous les monstres obtiennent un bonus de +15 % à toutes les résistances.
+madnessCorruptor4=<i=gold> Pauvreté
+madnessCorruptor4Help=La récupération d'or et d'éclats est réduite de 50%. Les objets avec des rabais supplémentaires ne sont pas disponibles.
+madnessCorruptor5=<i=powerful> Monstres surchargés
+madnessCorruptor5Help=Toutes les cartes de monstres ont +1 pour les charges de leurs auras ou malédictions.
+madnessCorruptor6=<i=dice> Combats aléatoires
+madnessCorruptor6Help=Les combats non-événementiels sont générés aléatoirement. Dans chaque combat aléatoire, un monstre "champion" apparaît avec une immunité attribuée au hasard.
+madnessCorruptor7=<i=bossIcon> Désespoir
+madnessCorruptor7Help=Les ennemis ont accès aux cartes et enchantements les plus puissants disponibles.<line-height=120%><br></line-height>Ce corrupteur augmente considérablement la difficulté.
+championMonster=Monstre champion
+help=Aide
+madnessCorruptors=Corrupteurs disponibles
+madnessLevel=Niveau de folie
+cardCommon=Carte Commune
+cardUncommon=Carte Peu Commune
+cardRare=Carte Rare
+cardEpic=Carte Epique
+cardMythic=Carte Mythique
+common=Commun
+uncommon=Peu commun
 rare=Rare
-epic=Epic
-mythic=Mythic
-eventCommon=Common event
-eventUncommon=Uncommon event
-eventRare=Rare event
-eventEpic=Epic event
-eventMythic=Mythic event
-eventCharacter=Character event
-cardPlayerDescription=Even the smallest decisions forge your destiny. Pay attention: <color=#C59559>after these cards have been shuffled</color>, you will have to choose one.
-chooseWisely=Choose wisely
-madnessHelp=<align=left><color=#FFF>Each madness difficulty level adds new modifiers that make the game more difficult overall. Some of these are explained in more detail below.</color><br><br><u>Exhaust:</u> When you use a card that causes the deck to cycle, you suffer Exhaust, causing any card that comes into your hand during that turn to cost additional energy.<br><br><u>Serious and Deadly injuries:</u> The injuries you receive when you fail an event are replaced by more powerful versions.<br><br><u>No Chest Rewards:</u> Reward chests from previous games cannot be picked up, and starting gold/shards are limited. With this modifier you do not get reward chests at the end of a game.<br><br><u>Harder event rolls:</u> The number needed to pass a roll in an event is harder to obtain, higher or lower depending on the event.</align>
-exhaust=<u>Exhaust:</u> When you use a card that causes the deck to cycle, you suffer Exhaust, causing any card that comes into your hand during that turn to cost additional energy.
-madnessOptionsText=MADNESS {0} BONUS LIST
-replyProbability=Success probability:{0}
-masterSelected=Selected by master of the game
-notStack=Does not stack
-notStackPlain=Charges do not stack
-searchCards=Search cards
-perksNotChallenge=Perks and rank improvements are not available in the <color=#F1D2A9>Obelisk and Weekly challenge</color> modes.
-rightClickCard=Right click <br><size=-.7>(more info)
-traitAddCard=Add a copy of the card "{0}" to your deck
-addCardInstructions=Choose the cards to add
-lowerObelisk=Lower Obelisk
-upperObelisk=Upper Obelisk
-finalObelisk=Final Obelisk
+epic=Epique
+mythic=Mythique
+eventCommon=Événement commun
+eventUncommon=Événement peu commun
+eventRare=Événement rare
+eventEpic=Événement épique
+eventMythic=Événement mythique
+eventCharacter=Événement de personnage
+cardPlayerDescription=Même les plus petites décisions forgent votre destin. Faites attention : <color=#C59559>après que ces cartes ont été mélangée</color>, vous devrez en choisir une.
+chooseWisely=Choisissez judicieusement
+madnessHelp=<align=left><color=#FFF>Chaque niveau de difficulté de folie ajoute de nouveaux modificateurs qui rendent le jeu globalement plus difficile. Certains d'entre eux sont expliqués en détail ci-dessous.</color><br><br><u>Épuisement:</u> Lorsque vous utilisez une carte qui fait défiler le deck, vous subissez de l'Épuisement, ce qui fait que toute carte qui entre dans votre main au cours de ce tour coûte de l'énergie supplémentaire.<br><br><u>Blessures graves et mortelles:</u> Les blessures que vous recevez lorsque vous échouez à un événement sont remplacées par des versions plus puissantes.<br><br><u>Pas de récompenses de coffres:</u> Les coffres de récompenses des parties précédentes ne peuvent pas être ramassés, et l'or/les éclats de départ sont limités. Avec ce modificateur, vous ne recevez pas de coffres de récompenses à la fin d'une partie.<br><br><u>Jets d'événements plus difficiles:</u> Le nombre nécessaire pour réussir un jet dans un événement est plus difficile à obtenir, plus élevé ou plus bas selon l'événement.</align>
+exhaust=<u>Épuisement:</u> Lorsque vous utilisez une carte qui fait défiler le deck, vous subissez de l'Épuisement, ce qui fait que toute carte qui entre dans votre main au cours de ce tour coûte de l'énergie supplémentaire.
+madnessOptionsText=FOLIE {0} LISTE DES MODIFICATEURS
+replyProbability=Probabilité de réussite:{0}
+masterSelected=Sélectionné par le maître du jeu
+notStack=Ne s'empile pas
+notStackPlain=Les charges ne s'empilent pas
+searchCards=Rechercher des cartes
+perksNotChallenge=Les avantages et améliorations de rang ne sont pas disponibles dans les modes <color=#F1D2A9>Obélisque et Défi hebdomadaire</color>.
+rightClickCard=Clic droit <br><size=-.7>(plus d'infos)
+traitAddCard=Ajouter une copie de la carte "{0}"  à votre deck
+addCardInstructions=Choisissez les cartes à ajouter
+lowerObelisk=Obélisque inférieur
+upperObelisk=Obélisque supérieur
+finalObelisk=Obélisque final
 notOriginalPlayers=The current players are not the same players that created the game, therefore, <color=#F3404E>the final score will not be reflected</color> on the scoreboards.
 basicDifficulty=Basic Difficulty
 basicDifficultyDesc=This is the basic difficulty of this game mode.
