@@ -16,7 +16,7 @@ Pour l'installation :
 
     ou
 
-- Téléchargez les [fichiers de traduction](https://github.com/donttouchfranky/AcrossTheObelisk_MoreTranslations/tree/main/MoreTranslations_Italiano), placez-les dans un dossier, puis placez le dossier dans **BepInEx/plugins**.
+- Téléchargez les [fichiers de traduction](https://github.com/Dolgren/AcrossTheObelisk_MoreTranslations_French/tree/main/MoreTranslations_French), placez-les dans un dossier, puis placez le dossier dans **BepInEx/plugins**.
 
 ## Comment changer de langue?
 
