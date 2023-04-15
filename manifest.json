@@ -1,9 +1,10 @@
 {
     "name": "MoreTranslations_French",
-    "version_number": "0.5",
-    "website_url": "https://https://github.com/Dolgren/AcrossTheObelisk_MoreTranslations",
-    "description": "Translation of the game in french language": [
-        "BepInEx-BepInExPack_AcrossTheObelisk-5.4.21"
+    "version_number": "1.0.0",
+    "website_url": "https://https://github.com/Dolgren/AcrossTheObelisk_MoreTranslations_French",
+    "description": "Translation of the game in french language.",
+    "dependencies": [
+        "BepInEx-BepInExPack_AcrossTheObelisk-5.4.21",
         "DontTouchFranky-MoreTranslations-1.0.7"
     ]
 }
