@@ -5,7 +5,7 @@
     "description": "French translation | Traduction Française",
     "dependencies": [
         "DontTouchFranky-MoreTranslations-1.0.7"
-		"BepInEx-BepInExPack_AcrossTheObelisk-5.4.21"
+	"BepInEx-BepInExPack_AcrossTheObelisk-5.4.21"
     ]
 }
 
