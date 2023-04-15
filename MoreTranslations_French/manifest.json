@@ -1,10 +1,10 @@
 {
     "name": "MoreTranslations_French",
     "version_number": "1.0",
-    "website_url": "https://github.com/donttouchfranky/AcrossTheObelisk_MoreTranslations",
+    "website_url": "https://github.com/Dolgren/AcrossTheObelisk_MoreTranslations",
     "description": "French translation | Traduction Française",
     "dependencies": [
-        "DontTouchFranky-MoreTranslations-1.0.5"
+        "DontTouchFranky-MoreTranslations-1.0.7"
     ]
 }
 
