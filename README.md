@@ -30,4 +30,4 @@ If you plan to do it **manually**, you just need to place the folder of the lang
 > Every translation is made by the community and is not official. You may find some errors in the translations. If you find any errors, please report them.
 
 * <img src="https://www.worldometers.info/img/flags/it-flag.gif" alt= “Italiano” height="20px"> &ensp; [Italiano](https://github.com/donttouchfranky/AcrossTheObelisk_MoreTranslations/tree/main/MoreTranslations_Italiano) **: <span style="color:green">95%</span>**
-* <img src="https://www.worldometers.info/img/flags/fr-flag.gif" alt= “Français” height="20px"> &ensp; [Français](https://https://github.com/Dolgren/AcrossTheObelisk_MoreTranslations) **: <span style="color:green">25%</span>**
+* <img src="https://www.worldometers.info/img/flags/fr-flag.gif" alt= “Français” height="20px"> &ensp; [Français](https://https://github.com/Dolgren/AcrossTheObelisk_MoreTranslations) **: <span style="color:green">40%</span>**
