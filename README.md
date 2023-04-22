@@ -1,6 +1,6 @@
-# Across The Obelisk - MoreTranslations Mod
+# Across The Obelisk - French Trad Mod
 
-With this mod you can easily create custom translations for the game without having to edit the game files.
+With this mod you can easily translate the game in french language.
 
 ## How to install the mod?
 
@@ -23,36 +23,6 @@ If you plan to do it **manually**, you just need to place the folder of the lang
 * To change the language, go to the game settings (you'll see a new language dropdown) and select the desired language.
 
     If the mod can't find the translation for the selected language, it will use the default language selected in the main language dropdown.
-
-## How to create a new translation?
-
-> A complete example of a language pack can be found in the [MoreTranslations_English](https://github.com/donttouchfranky/AcrossTheObelisk_MoreTranslations/tree/main/MoreTranslations_English) folder.
-
-1. Create a new folder that has the name of the language to be translated.
-
-    es: `MoreTranslations_English` for English
-
-2. Copy all the .txt translation files inside the folder you just created.
-
-3. Edit the file names to match the language you want to translate. 
-
-    es: `english.txt` for English Default File, `english_cards.txt` for English Cards File
-
-4. Edit the files with the desired translations.
-
-5. Create `moretranslations.txt` file inside the folder and write the name of the language you want to translate.
-
-    es: `English` for English
-
-6. Place the created folder inside the plugins folder.
-
-7. Done!
-
-
-> **Note:** The files must be in the same format as the original files.
->
-> **Leave the tags of the game texts as they are, do not change them.**
-
 
 
 ## How to contribute?
